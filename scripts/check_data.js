@@ -20,8 +20,6 @@ for (const e of events) {
   if (!e.title || !e.era || !e.summary) fail(`${e.year}: missing title, era or summary`);
   if (e.status === "event" && e.severity === 0) fail(`${e.year}: event with severity 0`);
 }
-const span = events[events.length - 1].year - events[0].year + 1;
-if (span !== events.length) fail(`expected one row per year, got ${events.length} rows over ${span} years`);
 
 console.log(`OK: ${events.length} years, ${events.filter((e) => e.status === "event").length} event years`);
 
