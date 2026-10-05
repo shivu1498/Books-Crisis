@@ -420,3 +420,24 @@ h1 { font-size: 28px; font-weight: 700; margin: 0 0 8px; letter-spacing: -0.01em
   .crash-link { margin-left: 0; }
   .crash-body { grid-template-columns: 1fr; }
 }
+
+/* ---- Market impact list ---- */
+.impact-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(460px, 1fr)); gap: 14px; max-width: 1600px; }
+.impact { border: 1px solid var(--line); border-radius: 6px; background: var(--bg-raised); padding: 12px 14px; min-width: 0; }
+.impact header { display: flex; align-items: baseline; gap: 10px; }
+.impact-year { font: 600 16px var(--mono); color: var(--cyan); }
+.impact h3 { margin: 0; font-size: 14px; font-weight: 600; line-height: 1.35; }
+.impact .row-meta { margin: 6px 0 8px; }
+.study-link { color: var(--cyan); }
+.study-link:hover { text-decoration: underline; }
+.impact-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; margin-bottom: 6px; font: 600 14px var(--mono); }
+.impact-stats .k { display: block; font: 10px var(--sans); text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-dim); margin-bottom: 2px; }
+.impact-stats .na { color: var(--text-dim); font-weight: 400; }
+.chart.mini .zone-event { fill: rgba(239, 68, 68, 0.16); }
+.chart.mini .cursor { stroke: var(--text-dim); stroke-width: 1; }
+.chart.mini { cursor: crosshair; }
+.nodata { border: 1px dashed var(--line-dash); border-radius: 4px; padding: 18px; text-align: center; font: 12px var(--mono); color: var(--text-dim); }
+@media (max-width: 720px) {
+  .impact-list { grid-template-columns: 1fr; }
+  .impact-stats { grid-template-columns: repeat(2, 1fr); }
+}

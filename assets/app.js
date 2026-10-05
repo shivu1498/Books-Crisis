@@ -358,7 +358,7 @@
       var heads = c.headlines.map(function (h) {
         return '<li><span class="hl-date">' + esc(h.date) + "</span>" + esc(h.text) + "</li>";
       }).join("");
-      return '<article class="crash" data-ci="' + ci + '">' +
+      return '<article class="crash" data-ci="' + ci + '" data-year="' + c.year + '">' +
         '<header class="crash-head"><span class="crash-year">' + c.year + "</span><div><h2>" + esc(c.name) + "</h2>" +
         '<div class="crash-sub">' + esc(c.market) + " &middot; " + esc(c.series) + "</div></div>" +
         '<a class="crash-link" href="#events" data-year="' + c.year + '">In the register &rarr;</a></header>' +
@@ -393,6 +393,159 @@
       $("search").value = state.q;
       state.limit = PAGE;
       render();
+    });
+  }
+
+  // ---- Market Impact: S&P composite around every event since 1602 (data/sp500.js) ----
+  var SP = window.SP500_MONTHLY;
+  var SP_START = SP ? (+SP.start.slice(0, 4)) * 12 + (+SP.start.slice(5, 7) - 1) : 0;
+  var IMPACT_FROM = 1602;
+
+  function spAt(m) {
+    var i = m - SP_START;
+    return SP && i >= 0 && i < SP.values.length ? SP.values[i] : null;
+  }
+
+  function pct(a, b) {
+    if (a === null || b === null) return null;
+    return (b / a - 1) * 100;
+  }
+
+  function pctHtml(v) {
+    if (v === null) return '<span class="na">n/a</span>';
+    return '<span class="' + (v < 0 ? "down" : "up") + '">' + (v > 0 ? "+" : "") + v.toFixed(1) + "%</span>";
+  }
+
+  function impactStats(year) {
+    var jan = year * 12, dec = year * 12 + 11;
+    var lo = Math.max(SP_START, jan - 24), hi = Math.min(SP_START + SP.values.length - 1, dec + 24);
+    var peak = 0, dd = 0;
+    for (var m = lo; m <= hi; m++) {
+      var v = spAt(m);
+      if (v > peak) peak = v;
+      dd = Math.min(dd, (v / peak - 1) * 100);
+    }
+    return {
+      lo: lo, hi: hi,
+      pre: pct(spAt(jan - 12), spAt(jan)),
+      during: pct(spAt(jan), spAt(dec)),
+      post: pct(spAt(dec), spAt(dec + 12)),
+      drawdown: dd
+    };
+  }
+
+  function miniChart(year, st) {
+    var W = 520, H = 150, L = 46, R = 8, T = 10, B = 22;
+    var vals = [];
+    for (var m = st.lo; m <= st.hi; m++) vals.push(spAt(m));
+    var vmin = Math.min.apply(null, vals), vmax = Math.max.apply(null, vals);
+    var pad = (vmax - vmin) * 0.08 || vmax * 0.05;
+    var y0 = vmin - pad, y1 = vmax + pad;
+    var x = function (m) { return L + ((m - st.lo) / Math.max(1, st.hi - st.lo)) * (W - L - R); };
+    var y = function (v) { return T + (1 - (v - y0) / (y1 - y0)) * (H - T - B); };
+    var out = ['<svg class="chart mini" viewBox="0 0 ' + W + " " + H + '" data-lo="' + st.lo + '" data-l="' + L + '" data-r="' + R + '" data-w="' + W + '" role="img" aria-label="S&amp;P composite around ' + year + '">'];
+    var bx0 = x(Math.max(st.lo, year * 12)), bx1 = x(Math.min(st.hi, year * 12 + 11));
+    out.push('<rect class="zone-pre" x="' + L + '" y="' + T + '" width="' + Math.max(0, bx0 - L) + '" height="' + (H - T - B) + '"/>');
+    out.push('<rect class="zone-event" x="' + bx0 + '" y="' + T + '" width="' + Math.max(2, bx1 - bx0) + '" height="' + (H - T - B) + '"/>');
+    out.push('<rect class="zone-post" x="' + bx1 + '" y="' + T + '" width="' + Math.max(0, W - R - bx1) + '" height="' + (H - T - B) + '"/>');
+    [y0 + (y1 - y0) * 0.15, y0 + (y1 - y0) * 0.5, y0 + (y1 - y0) * 0.85].forEach(function (v) {
+      out.push('<line class="grid" x1="' + L + '" x2="' + (W - R) + '" y1="' + y(v) + '" y2="' + y(v) + '"/>');
+      out.push('<text class="axis" x="' + (L - 6) + '" y="' + (y(v) + 4) + '" text-anchor="end">' + fmtNum(+v.toPrecision(3)) + "</text>");
+    });
+    for (var yr = Math.ceil(st.lo / 12); yr * 12 <= st.hi; yr++) {
+      out.push('<text class="axis" x="' + x(yr * 12) + '" y="' + (H - 6) + '" text-anchor="middle">' + yr + "</text>");
+    }
+    out.push('<polyline class="series" points="' + vals.map(function (v, i) { return x(st.lo + i).toFixed(1) + "," + y(v).toFixed(1); }).join(" ") + '"/>');
+    out.push('<line class="cursor" x1="0" x2="0" y1="' + T + '" y2="' + (H - B) + '" visibility="hidden"/>');
+    out.push("</svg>");
+    return out.join("");
+  }
+
+  function buildImpact() {
+    var events = EVENTS.filter(function (e) { return e.year >= IMPACT_FROM; });
+    var studies = {};
+    CRASHES.forEach(function (c) { studies[c.year] = c; });
+    var charted = function (e) { return SP && e.year * 12 - 12 >= SP_START; };
+    $("impact-count").textContent = events.length;
+    $("studies-count").textContent = CRASHES.length;
+
+    var cards = events.map(function (e) {
+      var body;
+      if (charted(e)) {
+        var st = impactStats(e.year);
+        body = '<div class="impact-stats">' +
+          '<div><span class="k">12m before</span>' + pctHtml(st.pre) + "</div>" +
+          '<div><span class="k">During ' + e.year + "</span>" + pctHtml(st.during) + "</div>" +
+          '<div><span class="k">12m after</span>' + pctHtml(st.post) + "</div>" +
+          '<div><span class="k">Max drawdown &plusmn;2y</span>' + pctHtml(st.drawdown) + "</div></div>" +
+          '<div class="chart-wrap">' + miniChart(e.year, st) + "</div>";
+      } else {
+        body = '<div class="nodata">' + (studies[e.year]
+          ? "No continuous index covers " + e.year + "; the detailed study charts " + esc(studies[e.year].series) + "."
+          : "No market data: no continuous index covers " + e.year + ".") + "</div>";
+      }
+      var study = studies[e.year] ? '<a class="study-link" href="#crashes" data-study="' + e.year + '">Detailed crash study &rarr;</a>' : "";
+      return '<article class="impact" data-year="' + e.year + '" data-sev="' + e.severity + '" data-charted="' + (charted(e) ? 1 : 0) + '">' +
+        '<header><span class="impact-year">' + e.year + '</span><span class="sev sev-' + e.severity + '">' + e.severity + "</span>" +
+        '<h3>' + esc(e.title) + "</h3></header>" +
+        '<div class="row-meta"><span class="cat">' + esc(e.category) + "</span><span>" + esc(e.geography) + "</span>" + study + "</div>" +
+        body + "</article>";
+    });
+    var list = $("impact-list");
+    list.innerHTML = cards.join("");
+
+    function applyFilter() {
+      var f = $("impact-filter").value, min = +$("impact-sev").value;
+      Array.prototype.forEach.call(list.children, function (el) {
+        var ok = +el.getAttribute("data-sev") >= min &&
+          (!f || (f === "charted") === (el.getAttribute("data-charted") === "1"));
+        el.hidden = !ok;
+      });
+    }
+    $("impact-filter").addEventListener("change", applyFilter);
+    $("impact-sev").addEventListener("change", applyFilter);
+
+    function showView(view) {
+      $("impact-all").hidden = view !== "all";
+      $("impact-studies").hidden = view !== "studies";
+      Array.prototype.forEach.call($("impact-tabs").children, function (b) {
+        b.classList.toggle("active", b.getAttribute("data-view") === view);
+      });
+    }
+    $("impact-tabs").addEventListener("click", function (ev) {
+      var b = ev.target.closest("button");
+      if (b) showView(b.getAttribute("data-view"));
+    });
+    list.addEventListener("click", function (ev) {
+      var a = ev.target.closest(".study-link");
+      if (!a) return;
+      ev.preventDefault();
+      showView("studies");
+      var card = document.querySelector('.crash[data-year="' + a.getAttribute("data-study") + '"]');
+      if (card) card.scrollIntoView({ block: "start" });
+    });
+
+    var tip = $("chart-tip");
+    list.addEventListener("mousemove", function (ev) {
+      var svg = ev.target.closest("svg.mini");
+      if (!svg) return;
+      var r = svg.getBoundingClientRect();
+      var W = +svg.getAttribute("data-w"), L = +svg.getAttribute("data-l"), R = +svg.getAttribute("data-r"), lo = +svg.getAttribute("data-lo");
+      var st = impactStats(+svg.closest(".impact").getAttribute("data-year"));
+      var vx = ((ev.clientX - r.left) / r.width) * W;
+      var m = Math.round(lo + ((vx - L) / (W - L - R)) * (st.hi - st.lo));
+      if (m < st.lo || m > st.hi) { tip.hidden = true; return; }
+      var cx = L + ((m - st.lo) / Math.max(1, st.hi - st.lo)) * (W - L - R);
+      var cur = svg.querySelector(".cursor");
+      cur.setAttribute("x1", cx); cur.setAttribute("x2", cx); cur.setAttribute("visibility", "visible");
+      tip.innerHTML = '<div class="tip-v">' + fmtNum(spAt(m)) + "</div><div>" + MONTHS[m % 12] + " " + Math.floor(m / 12) + '</div><div class="tip-n">S&amp;P composite, monthly avg</div>';
+      tip.hidden = false;
+      tip.style.left = Math.min(window.innerWidth - tip.offsetWidth - 8, Math.max(8, ev.clientX + 12)) + "px";
+      tip.style.top = (ev.clientY - tip.offsetHeight - 10) + "px";
+    });
+    list.addEventListener("mouseleave", function () {
+      tip.hidden = true;
+      Array.prototype.forEach.call(list.querySelectorAll(".cursor"), function (c) { c.setAttribute("visibility", "hidden"); });
     });
   }
 
@@ -437,6 +590,7 @@
   bindControls();
   buildPeriods();
   buildCrashes();
+  buildImpact();
   buildStatus();
   window.addEventListener("hashchange", route);
   route();

@@ -60,3 +60,10 @@ for (const c of crashes) {
   if (c.crash < c.points[0].date || c.crash > prevDate) fail(`${c.id}: crash date outside the charted range`);
 }
 console.log(`OK: ${crashes.length} crashes`);
+
+// data/sp500.js: monthly S&P composite used by the Market Impact tab.
+vm.runInNewContext(fs.readFileSync(path.join(__dirname, "..", "data", "sp500.js"), "utf8"), ctx);
+const sp = ctx.window.SP500_MONTHLY;
+if (!sp || !/^\d{4}-\d{2}$/.test(sp.start) || !Array.isArray(sp.values) || sp.values.length < 1000) fail("bad sp500 data");
+if (sp.values.some((v) => !(v > 0))) fail("sp500 has non-positive values");
+console.log(`OK: ${sp.values.length} months of S&P data from ${sp.start}`);

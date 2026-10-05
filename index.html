@@ -24,7 +24,7 @@
 
   <nav class="tabs" id="tabs">
     <a href="#events" data-tab="events">Events</a>
-    <a href="#crashes" data-tab="crashes">Crashes</a>
+    <a href="#crashes" data-tab="crashes">Market Impact</a>
     <a href="#eras" data-tab="eras">Eras</a>
     <a href="#method" data-tab="method">Method</a>
   </nav>
@@ -58,10 +58,40 @@
     </section>
 
     <section class="panel" id="panel-crashes" hidden>
-      <h1>Major Market Crashes</h1>
-      <p class="lede">Every major stock market crash since share trading began in Amsterdam in 1602 that has a usable price record: the run-up before, the fall, and the recovery after, with a short report and three headlines from the time.</p>
-      <p class="note">Charts join key closing levels from standard published index histories. They are not daily data, and levels marked approx. are rounded. Headlines are short summaries of the news of the time, not verbatim newspaper headlines. Earlier crashes such as 1637, 1825, 1837, 1873 and 1893 are in the Events tab but have no comparable index to chart.</p>
-      <div id="crash-list" class="crash-list"></div>
+      <h1>Market Impact</h1>
+      <p class="lede">How markets moved before and after every event since share trading began in Amsterdam in 1602, plus detailed studies of the biggest crashes.</p>
+
+      <div class="subtabs" id="impact-tabs">
+        <button data-view="all" class="active">Every event since 1602<span class="sub-count" id="impact-count"></span></button>
+        <button data-view="studies">Major crash studies<span class="sub-count" id="studies-count"></span></button>
+      </div>
+
+      <div id="impact-all">
+        <p class="note">Each chart shows the US stock market (S&amp;P composite, Robert Shiller&rsquo;s monthly series, extended with FRED data) from two years before to two years after the event year, which is shaded. Values are monthly averages, so one-day crashes look smaller than they were. It is the longest continuous market series available, so it also stands in for events outside the US. It starts in 1871: earlier events have no comparable index and are marked as such, except 1720, which has its own study.</p>
+        <div class="controls">
+          <label class="ctl">Show
+            <select id="impact-filter">
+              <option value="">All events</option>
+              <option value="charted">Charted only (1872 on)</option>
+              <option value="nodata">No market data (before 1872)</option>
+            </select>
+          </label>
+          <label class="ctl">Min severity
+            <select id="impact-sev">
+              <option value="0">All</option>
+              <option value="3">3+</option>
+              <option value="4">4+</option>
+              <option value="5">5</option>
+            </select>
+          </label>
+        </div>
+        <div id="impact-list" class="impact-list"></div>
+      </div>
+
+      <div id="impact-studies" hidden>
+        <p class="note">Charts join key closing levels from standard published index histories. They are not daily data, and levels marked approx. are rounded. Headlines are short summaries of the news of the time, not verbatim newspaper headlines.</p>
+        <div id="crash-list" class="crash-list"></div>
+      </div>
       <div id="chart-tip" class="chart-tip" hidden></div>
     </section>
 
@@ -125,6 +155,7 @@
   <script src="data/events.js"></script>
   <script src="data/links.js"></script>
   <script src="data/crashes.js"></script>
+  <script src="data/sp500.js"></script>
   <script src="assets/app.js"></script>
 </body>
 </html>
