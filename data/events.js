@@ -41,26 +41,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 867,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 868,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 869,
   "era": "Pre-market (800-1299)",
   "status": "event",
