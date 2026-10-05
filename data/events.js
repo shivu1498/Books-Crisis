@@ -8,7 +8,10 @@ window.CRISIS_EVENTS = [
   "category": "Monetary contraction / Milestone",
   "geography": "China",
   "summary": "The state capped private coin holdings. Merchants worked around the shortage with feiqian, remittance drafts allowing money paid in the capital to be drawn in the provinces - a functioning bill of exchange six centuries before Europe.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "China"
+  ]
  },
  {
   "year": 845,
@@ -18,7 +21,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign expropriation",
   "geography": "China",
   "summary": "Emperor Wuzong dissolved some 4,600 monasteries, seized their land and defrocked 260,000 monks, melting bronze statuary and bells into coin to solve the copper shortage. A state seizure of the largest pool of private wealth in the empire, executed explicitly as monetary policy.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "China"
+  ]
  },
  {
   "year": 846,
@@ -28,7 +34,10 @@ window.CRISIS_EVENTS = [
   "category": "Credit collapse",
   "geography": "China",
   "summary": "Buddhist monasteries had been China's principal lenders, pawnbrokers and grain-storage institutions. Their dissolution removed the rural credit system.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "China"
+  ]
  },
  {
   "year": 866,
@@ -38,7 +47,10 @@ window.CRISIS_EVENTS = [
   "category": "Fiscal collapse",
   "geography": "Abbasid Caliphate",
   "summary": "Rival caliphs fought over an empty treasury. Provincial governors stopped remitting revenue and began keeping it.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Iraq"
+  ]
  },
  {
   "year": 869,
@@ -48,7 +60,10 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock",
   "geography": "Abbasid Caliphate (Iraq)",
   "summary": "A rising of enslaved East African labourers in the salt marshes of southern Iraq. It occupied the most commercially valuable region of the caliphate for fourteen years.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Iraq"
+  ]
  },
  {
   "year": 871,
@@ -58,7 +73,10 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock",
   "geography": "Abbasid Caliphate (Iraq)",
   "summary": "Basra was the entrepot of the Indian Ocean trade and the centre of Gulf commercial finance. Its destruction severed the caliphate's most profitable revenue stream.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Iraq"
+  ]
  },
  {
   "year": 878,
@@ -68,7 +86,10 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock",
   "geography": "Abbasid Caliphate (Iraq)",
   "summary": "The irrigation system of the Sawad, the caliphate's tax base, was wrecked and never fully restored.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Iraq"
+  ]
  },
  {
   "year": 879,
@@ -78,7 +99,10 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock",
   "geography": "China",
   "summary": "The rebel army massacred the foreign merchant community - Arab, Persian and Jewish traders - in China's principal international port. Contemporary Arabic accounts put the dead in the tens of thousands. Maritime trade finance between China and the Gulf collapsed for a generation.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "China"
+  ]
  },
  {
   "year": 880,
@@ -88,7 +112,10 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock",
   "geography": "China",
   "summary": "The Tang capital was destroyed. Central fiscal authority never recovered; the dynasty fell in 907.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "China"
+  ]
  },
  {
   "year": 883,
@@ -98,7 +125,10 @@ window.CRISIS_EVENTS = [
   "category": "Recovery",
   "geography": "Abbasid Caliphate (Iraq)",
   "summary": "Order restored at enormous cost, but Basra's commercial primacy passed permanently to Egypt and the Red Sea route.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Iraq"
+  ]
  },
  {
   "year": 908,
@@ -108,7 +138,10 @@ window.CRISIS_EVENTS = [
   "category": "Market milestone",
   "geography": "Abbasid Caliphate",
   "summary": "The Jewish banking house of Joseph b. Phinehas and Aaron b. Amram advanced the caliphate roughly 30,000 dinars a month against assigned tax farms, operated deposit accounts for the vizier and cleared payments by suftaja between Baghdad and the provinces. A recognisable sovereign lending relationship, four centuries before the Bardi.",
-  "severity": 1
+  "severity": 1,
+  "countries": [
+   "Iraq"
+  ]
  },
  {
   "year": 923,
@@ -118,7 +151,10 @@ window.CRISIS_EVENTS = [
   "category": "Fiscal collapse",
   "geography": "Abbasid Caliphate",
   "summary": "Tax farming had become a rolling short-term borrowing operation against revenues already pledged. Viziers were appointed and executed according to whether they could raise cash.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Iraq"
+  ]
  },
  {
   "year": 932,
@@ -128,7 +164,10 @@ window.CRISIS_EVENTS = [
   "category": "Fiscal collapse",
   "geography": "Abbasid Caliphate",
   "summary": "The caliph al-Qahir tortured his predecessor's family for hidden money. Salaries went unpaid for months.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Iraq"
+  ]
  },
  {
   "year": 935,
@@ -138,7 +177,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign default",
   "geography": "Abbasid Caliphate",
   "summary": "Unable to pay cash salaries, the state assigned soldiers the right to collect land revenue directly. Presented as administration, it was the liquidation of a bankrupt fiscal state - and it dismantled central control over revenue permanently.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Iraq"
+  ]
  },
  {
   "year": 945,
@@ -148,7 +190,10 @@ window.CRISIS_EVENTS = [
   "category": "Fiscal collapse",
   "geography": "Abbasid Caliphate",
   "summary": "The caliph became a pensioner of his own conquerors. The most sophisticated financial administration in the world was gone as a going concern.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Iraq"
+  ]
  },
  {
   "year": 991,
@@ -158,7 +203,10 @@ window.CRISIS_EVENTS = [
   "category": "Extortion / Fiscal drain",
   "geography": "England",
   "summary": "£10,000 in silver paid after Maldon. It established a market price for not being invaded, which naturally rose.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 994,
@@ -168,7 +216,10 @@ window.CRISIS_EVENTS = [
   "category": "Extortion / Fiscal drain",
   "geography": "England",
   "summary": "Payment attracted further fleets, exactly as Archbishop Wulfstan and later chroniclers complained.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1002,
@@ -178,7 +229,10 @@ window.CRISIS_EVENTS = [
   "category": "Extortion / Fiscal drain",
   "geography": "England",
   "summary": "Aethelred paid, then massacred Danish settlers, guaranteeing a larger demand next time.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1004,
@@ -188,7 +242,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign expropriation",
   "geography": "Fatimid Egypt",
   "summary": "Arbitrary seizures of merchant property and erratic market decrees under an unpredictable caliph. Commercial confidence in Cairo suffered badly.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Egypt"
+  ]
  },
  {
   "year": 1007,
@@ -198,7 +255,10 @@ window.CRISIS_EVENTS = [
   "category": "Extortion / Fiscal drain",
   "geography": "England",
   "summary": "English silver flowed to Scandinavia in such quantity that more Anglo-Saxon coin of this period survives in Swedish hoards than in England.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1012,
@@ -208,7 +268,10 @@ window.CRISIS_EVENTS = [
   "category": "Extortion / Fiscal drain",
   "geography": "England",
   "summary": "The levy now required repeated national assessment and drove land sales and enslavement for debt.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1018,
@@ -218,7 +281,10 @@ window.CRISIS_EVENTS = [
   "category": "Extortion / Fiscal drain",
   "geography": "England",
   "summary": "Roughly a decade of ordinary royal revenue extracted at once to pay off the invasion fleet. England's silver stock was drained on a scale visible in the archaeological record.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1020,
@@ -228,7 +294,10 @@ window.CRISIS_EVENTS = [
   "category": "Bank failure",
   "geography": "China",
   "summary": "Sixteen merchant houses in Chengdu had been issuing redeemable paper deposit notes. Several could not meet redemption; litigation and disorder followed. The first recorded failure of private paper-money issuers anywhere.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "China"
+  ]
  },
  {
   "year": 1030,
@@ -238,7 +307,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency debasement",
   "geography": "Byzantine Empire",
   "summary": "Michael IV, a former money-changer, began reducing the gold content of the nomisma - a coin that had held its standard for seven hundred years and served as the reserve currency of the Mediterranean.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Turkey"
+  ]
  },
  {
   "year": 1032,
@@ -248,7 +320,10 @@ window.CRISIS_EVENTS = [
   "category": "Commodity crisis",
   "geography": "Europe",
   "summary": "Three years of failed harvests. Rodulfus Glaber's account describes grain prices at unheard-of levels and the collapse of rents and obligations.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1042,
@@ -258,7 +333,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency debasement",
   "geography": "Byzantine Empire",
   "summary": "Successive emperors financed deficits by cutting fineness rather than raising tax. The debasement was concealed, not announced.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Turkey"
+  ]
  },
  {
   "year": 1050,
@@ -268,7 +346,11 @@ window.CRISIS_EVENTS = [
   "category": "Monetary contraction",
   "geography": "Middle East / Central Asia",
   "summary": "The Central Asian silver mines that had supplied the dirham were exhausted. Silver coinage across the Islamic world was progressively debased or replaced with billon and copper.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Middle East",
+   "Central Asia"
+  ]
  },
  {
   "year": 1059,
@@ -278,7 +360,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency debasement",
   "geography": "Byzantine Empire",
   "summary": "Fineness fell sharply while the coin circulated at unchanged face value - a concealed default on every contract denominated in gold.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Turkey"
+  ]
  },
  {
   "year": 1065,
@@ -288,7 +373,10 @@ window.CRISIS_EVENTS = [
   "category": "Systemic collapse",
   "geography": "Fatimid Egypt",
   "summary": "Seven years of low Nile floods, plague, army mutiny and monetary collapse. The most complete breakdown of a major medieval economy for which detailed records survive.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Egypt"
+  ]
  },
  {
   "year": 1067,
@@ -298,7 +386,10 @@ window.CRISIS_EVENTS = [
   "category": "Systemic collapse",
   "geography": "Fatimid Egypt",
   "summary": "Unpaid troops looted the palace. The caliphal library, treasury and regalia were sold off or destroyed; contemporary accounts describe books used as fuel and the caliph himself reduced to dependence on charity.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Egypt"
+  ]
  },
  {
   "year": 1069,
@@ -308,7 +399,10 @@ window.CRISIS_EVENTS = [
   "category": "Systemic collapse",
   "geography": "Fatimid Egypt",
   "summary": "Prices reached levels at which coin ceased to function. Egypt's population fell sharply; the Geniza records show long-distance trade contracts being abandoned.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Egypt"
+  ]
  },
  {
   "year": 1071,
@@ -318,7 +412,10 @@ window.CRISIS_EVENTS = [
   "category": "Fiscal shock",
   "geography": "Byzantine Empire",
   "summary": "The empire's principal recruiting ground and revenue province was lost within a decade, at the exact moment its currency was collapsing.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Turkey"
+  ]
  },
  {
   "year": 1072,
@@ -328,7 +425,10 @@ window.CRISIS_EVENTS = [
   "category": "Recovery",
   "geography": "Fatimid Egypt",
   "summary": "Order was restored by military dictatorship. The Fatimid state never regained its fiscal position.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Egypt"
+  ]
  },
  {
   "year": 1078,
@@ -338,7 +438,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency collapse",
   "geography": "Byzantine Empire",
   "summary": "The Mediterranean's reserve currency had lost most of its metal in under fifty years. Tax was demanded in old good coin and paid out in new bad coin - the state arbitraging its own citizens.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Turkey"
+  ]
  },
  {
   "year": 1082,
@@ -348,7 +451,11 @@ window.CRISIS_EVENTS = [
   "category": "Revenue pledge to creditor",
   "geography": "Byzantine Empire / Venice",
   "summary": "In exchange for naval assistance, Alexios I exempted Venetian merchants from customs duties throughout the empire. A sovereign pledging its own revenue base to a creditor, with consequences that ran directly to 1204.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Turkey",
+   "Italy"
+  ]
  },
  {
   "year": 1092,
@@ -358,7 +465,10 @@ window.CRISIS_EVENTS = [
   "category": "Regulatory response",
   "geography": "Byzantine Empire",
   "summary": "A clean recoinage on a new standard after the old currency became unusable. It worked, but the empire's monetary credibility was permanently reduced.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Turkey"
+  ]
  },
  {
   "year": 1096,
@@ -368,7 +478,10 @@ window.CRISIS_EVENTS = [
   "category": "War finance / Debt destruction",
   "geography": "Europe",
   "summary": "Nobles mortgaged and sold estates at distressed prices to equip themselves. Crusader bands massacred the Jewish communities of Speyer, Worms and Mainz, destroying both the lenders and the records of what was owed to them.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1124,
@@ -378,7 +491,10 @@ window.CRISIS_EVENTS = [
   "category": "Fraud enforcement",
   "geography": "England",
   "summary": "Henry I summoned every moneyer in England at Christmas and had almost all of them mutilated for debasing the coinage. Brutal, but it worked: English coin quality was restored and held for a century. The most severe enforcement action against financial fraud in European history.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1135,
@@ -388,7 +504,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency debasement",
   "geography": "England",
   "summary": "Civil war between Stephen and Matilda. Barons struck their own debased coin; over 100 unofficial types survive from the period.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1141,
@@ -398,7 +517,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency debasement",
   "geography": "England",
   "summary": "The royal monopoly on coinage effectively ceased to exist. Contemporary chroniclers describe money that no one would accept.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1160,
@@ -408,7 +530,10 @@ window.CRISIS_EVENTS = [
   "category": "Inflation",
   "geography": "China",
   "summary": "Paper currency issued far beyond the reserve to fund war against the Jin. The notes depreciated steadily for the next century and a half.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "China"
+  ]
  },
  {
   "year": 1179,
@@ -418,7 +543,10 @@ window.CRISIS_EVENTS = [
   "category": "Regulatory",
   "geography": "Europe",
   "summary": "Manifest usurers were denied communion and Christian burial. The prohibition did not stop lending; it shaped the legal fictions - discounting, exchange rates, penalty clauses - by which European credit was written for the next four hundred years.",
-  "severity": 1
+  "severity": 1,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1182,
@@ -428,7 +556,10 @@ window.CRISIS_EVENTS = [
   "category": "Expropriation / Systemic shock",
   "geography": "Byzantine Empire",
   "summary": "The Venetian, Genoese and Pisan merchant colonies were massacred and their property and warehouses seized. Perhaps tens of thousands died. It destroyed Italian confidence in Byzantine protection and was still being cited as justification in 1204.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Turkey"
+  ]
  },
  {
   "year": 1187,
@@ -438,7 +569,12 @@ window.CRISIS_EVENTS = [
   "category": "War finance",
   "geography": "Levant / England / France",
   "summary": "The military orders lost their eastern treasuries. England and France imposed a tithe on all moveable property - among the first general taxes on personal wealth in Europe.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Middle East",
+   "UK",
+   "France"
+  ]
  },
  {
   "year": 1190,
@@ -448,7 +584,10 @@ window.CRISIS_EVENTS = [
   "category": "Debt destruction",
   "geography": "England",
   "summary": "Indebted gentry led a mob against York's Jewish community; roughly 150 died at Clifford's Tower. The mob then went to the Minster and burned the records of debt held there. Debt cancellation carried out by killing the creditors.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1194,
@@ -458,7 +597,11 @@ window.CRISIS_EVENTS = [
   "category": "Fiscal shock",
   "geography": "England / Germany",
   "summary": "Two to three years of total royal revenue extracted from England at once, through levies on income, moveable property, wool and church plate. The most efficient act of medieval fiscal extraction on record, and a template for later taxation.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK",
+   "Germany"
+  ]
  },
  {
   "year": 1204,
@@ -468,7 +611,11 @@ window.CRISIS_EVENTS = [
   "category": "Debt enforcement / Systemic shock",
   "geography": "Byzantine Empire / Venice",
   "summary": "The Crusaders contracted with Venice for 85,000 marks of shipping, then could not pay. Venice took the debt in kind: first the sack of Zara, then Constantinople itself. The greatest city in Christendom was destroyed as a debt-collection exercise - and Venice took the empire's trade quarters and its collateral. No episode in the entire 1227-year register shows more starkly what an unsecured creditor with leverage will do.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Turkey",
+   "Italy"
+  ]
  },
  {
   "year": 1205,
@@ -478,7 +625,11 @@ window.CRISIS_EVENTS = [
   "category": "Asset liquidation",
   "geography": "Byzantine Empire / Europe",
   "summary": "The empire was divided by treaty among the creditors and their allies. Relics, bronzes and treasure were shipped west and sold; the Venetian quadriga still stands on St Mark's.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Turkey",
+   "Europe"
+  ]
  },
  {
   "year": 1210,
@@ -488,7 +639,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign expropriation",
   "geography": "England",
   "summary": "An extraction of roughly a year's total royal revenue from a single small community, enforced by imprisonment and mutilation. The Crown treated English Jewry as a wholly-owned asset to be periodically stripped.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1215,
@@ -498,7 +652,11 @@ window.CRISIS_EVENTS = [
   "category": "Regulatory / Milestone",
   "geography": "England / Europe",
   "summary": "Magna Carta's clauses on debts owed to Jews and on consent to extraordinary levies are among the earliest constraints on sovereign financial conduct. The Lateran Council tightened usury rules and imposed distinguishing dress on Jews and Muslims.",
-  "severity": 1
+  "severity": 1,
+  "countries": [
+   "UK",
+   "Europe"
+  ]
  },
  {
   "year": 1220,
@@ -508,7 +666,10 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock",
   "geography": "Central Asia",
   "summary": "Bukhara and Samarkand were taken and sacked. The commercial cities that intermediated the entire overland trade between China, India and the Mediterranean were destroyed with their merchant capital, records and populations.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Central Asia"
+  ]
  },
  {
   "year": 1221,
@@ -518,7 +679,11 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock",
   "geography": "Central Asia / Persia",
   "summary": "The destruction was thorough enough to be visible in irrigation and settlement archaeology centuries later. Overland trade finance had to be rebuilt from nothing under Mongol terms.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Central Asia",
+   "Iran"
+  ]
  },
  {
   "year": 1224,
@@ -528,7 +693,10 @@ window.CRISIS_EVENTS = [
   "category": "Hyperinflation",
   "geography": "North China",
   "summary": "The Jin financed their defence against the Mongols by printing. The currency became worthless and was repeatedly reissued under new names at ever-worse rates - a full paper-money hyperinflation, a century before the Yuan repeated it.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "China"
+  ]
  },
  {
   "year": 1240,
@@ -538,7 +706,10 @@ window.CRISIS_EVENTS = [
   "category": "Market milestone",
   "geography": "Mongol Empire",
   "summary": "Mongol princes placed state capital with merchant associations under profit-sharing contracts, at rates that were often ruinous for the borrowers beneath them. State-directed commercial finance across the largest contiguous empire in history.",
-  "severity": 1
+  "severity": 1,
+  "countries": [
+   "Central Asia"
+  ]
  },
  {
   "year": 1250,
@@ -548,7 +719,11 @@ window.CRISIS_EVENTS = [
   "category": "Fiscal shock",
   "geography": "France / Egypt",
   "summary": "Around 400,000 livres, raised partly by seizing Templar deposits held in Acre. Even the King's own bankers were not safe from the King.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "France",
+   "Egypt"
+  ]
  },
  {
   "year": 1254,
@@ -558,7 +733,11 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign default",
   "geography": "England / Papacy",
   "summary": "Henry III accepted the papal offer of the Sicilian crown for his son, undertaking to repay roughly 135,000 marks of papal war debt - several times his annual revenue, for a kingdom he never controlled. He defaulted. The Pope threatened excommunication and interdict.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK",
+   "Italy"
+  ]
  },
  {
   "year": 1257,
@@ -568,7 +747,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency failure",
   "geography": "England",
   "summary": "Struck at a value that undervalued its gold against silver, so it was immediately hoarded and melted. Withdrawn within a few years. A textbook mispriced bimetallic issue.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1258,
@@ -578,7 +760,12 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock / Fiscal crisis",
   "geography": "Abbasid Caliphate / England / Global",
   "summary": "Hulagu destroyed Baghdad, ending the Abbasid Caliphate and with it the jahbadh banking network, the suftaja clearing system and five centuries of accumulated commercial capital. In England, the Sicilian default forced Henry III to accept baronial control of his finances under the Provisions of Oxford. The Samalas eruption of the previous year produced harvest failure and famine across Europe and the Middle East.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Iraq",
+   "UK",
+   "Global"
+  ]
  },
  {
   "year": 1264,
@@ -588,7 +775,10 @@ window.CRISIS_EVENTS = [
   "category": "Fiscal crisis",
   "geography": "England",
   "summary": "The Crown could not borrow; Italian merchants withdrew. Royal finances were administered by the baronial council.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1266,
@@ -598,7 +788,11 @@ window.CRISIS_EVENTS = [
   "category": "War finance",
   "geography": "Italy / France",
   "summary": "Papal and Florentine bankers financed the campaign against the Hohenstaufen. Florentine banking's rise was built on lending to the winners of papal politics - and on the assumption that popes and kings repay.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Italy",
+   "France"
+  ]
  },
  {
   "year": 1269,
@@ -608,7 +802,10 @@ window.CRISIS_EVENTS = [
   "category": "Regulatory / Expropriation",
   "geography": "France",
   "summary": "Italian and Cahorsin moneylenders were expelled or fined heavily. Expulsion followed by asset seizure had become a routine instrument of royal finance across Europe.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "France"
+  ]
  },
  {
   "year": 1274,
@@ -618,7 +815,10 @@ window.CRISIS_EVENTS = [
   "category": "Regulatory",
   "geography": "Europe",
   "summary": "Foreign usurers were to be expelled and their leases void. In practice it pushed lending further into exchange contracts and disguised interest.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1275,
@@ -628,7 +828,10 @@ window.CRISIS_EVENTS = [
   "category": "Regulatory / Expropriation",
   "geography": "England",
   "summary": "English Jews were barred from lending at interest - their only permitted livelihood - while remaining liable to tallage. It made the community fiscally worthless to the Crown, which is the immediate context for what followed in 1290.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1284,
@@ -638,7 +841,10 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock / Milestone",
   "geography": "Pisa / Venice",
   "summary": "Pisa's fleet and mercantile capital were destroyed by Genoa and the city never recovered as a financial centre. In the same year Venice began striking the ducat, which held its standard unchanged for over five hundred years - the longest-lived stable coin in history.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1287,
@@ -648,7 +854,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency devaluation",
   "geography": "China",
   "summary": "The Zhongtong note had depreciated badly, so the Yuan issued a new note exchangeable at one for five - an official 80% devaluation. The pattern of reissuing at a worse rate rather than restoring convertibility continued until the currency collapsed entirely in the 1350s.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "China"
+  ]
  },
  {
   "year": 1290,
@@ -658,7 +867,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign expropriation",
   "geography": "England",
   "summary": "Edward I expelled the entire community, seized their houses and bonds, and had the Crown collect the debts owed to them. Parliament granted him a large tax in return. A sovereign extinguishing its own creditors and inheriting their receivables - the model Philip IV followed in France in 1306.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1291,
@@ -668,7 +880,11 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock",
   "geography": "Levant / Italy",
   "summary": "The last Crusader port fell. Italian merchant houses lost their Levantine base and the military orders lost their remaining eastern deposits, pushing the Templars' operations back into France and into Philip IV's reach.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Middle East",
+   "Italy"
+  ]
  },
  {
   "year": 1294,
@@ -678,7 +894,12 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign default / Currency failure",
   "geography": "England / Lucca / Ilkhanate",
   "summary": "War with France led Edward I to seize the assets of the Riccardi of Lucca, his bankers for twenty years, and repudiate what he owed them. The firm - among the largest in Europe - was destroyed. It is the exact precedent for Edward III and the Bardi fifty years later, and nobody learned from it. In the same year the Ilkhanate attempted to introduce Chinese-style paper currency in Tabriz; the bazaars simply shut, trade stopped, and the experiment was abandoned within about two months.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK",
+   "Italy",
+   "Iran"
+  ]
  },
  {
   "year": 1296,
@@ -688,7 +909,10 @@ window.CRISIS_EVENTS = [
   "category": "Bullion shock",
   "geography": "Delhi Sultanate (India)",
   "summary": "An enormous influx of looted gold and silver financed the seizure of the Delhi throne and a decade of military expansion, and contributed to the price pressures the Sultan later tried to control by decree.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "India"
+  ]
  },
  {
   "year": 1297,
@@ -698,7 +922,10 @@ window.CRISIS_EVENTS = [
   "category": "Debt repudiation",
   "geography": "Japan",
   "summary": "The Kamakura shogunate cancelled its vassals' debts and voided past sales of their land, to relieve gokenin impoverished by the Mongol invasions. Lending to the warrior class stopped immediately; the edict was substantially withdrawn within a year. The clearest medieval demonstration that debt relief by fiat destroys the credit it is meant to restore.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Japan"
+  ]
  },
  {
   "year": 1298,
@@ -708,7 +935,11 @@ window.CRISIS_EVENTS = [
   "category": "Bank failure",
   "geography": "Siena / Europe",
   "summary": "The largest bank in Europe failed - papal bankers, lenders to the French crown, with branches across France and England. Partner disputes, the withdrawal of papal business and unrecoverable sovereign loans brought it down. Sienese banking supremacy ended permanently and creditors pursued the partners' heirs for decades.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Italy",
+   "Europe"
+  ]
  },
  {
   "year": 1299,
@@ -718,7 +949,10 @@ window.CRISIS_EVENTS = [
   "category": "Structural shift",
   "geography": "Siena / Florence",
   "summary": "The papal account passed to the Florentine houses - the Bardi, Peruzzi and Acciaiuoli. Within fifty years all three had failed the same way the Bonsignori did, and for the same reason: lending to sovereigns.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1303,
@@ -728,7 +962,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency debasement",
   "geography": "France",
   "summary": "Philip the Fair repeatedly cut the silver content of the French coinage to fund war with Flanders and England. Contemporaries called him a counterfeiter. Riots followed each recoinage.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "France"
+  ]
  },
  {
   "year": 1306,
@@ -738,7 +975,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign expropriation",
   "geography": "France",
   "summary": "Philip IV expelled the Jewish community, confiscated their property and had the Crown collect the debts owed to them. A sovereign default executed through a minority.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "France"
+  ]
  },
  {
   "year": 1307,
@@ -748,7 +988,11 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign expropriation",
   "geography": "France / Europe",
   "summary": "The Temple ran the largest deposit, transfer and lending network in Europe and was banker to the French Crown. Philip IV, deeply indebted to it, had the order arrested overnight and its treasure seized. The destruction of Europe's first international banking network by the state.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "France",
+   "Europe"
+  ]
  },
  {
   "year": 1312,
@@ -758,7 +1002,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign expropriation",
   "geography": "Europe",
   "summary": "The Council of Vienne dissolved the order; assets nominally went to the Hospitallers, in practice much stayed with the crowns. Deposits were never returned.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1315,
@@ -768,7 +1015,10 @@ window.CRISIS_EVENTS = [
   "category": "Commodity crisis / Credit collapse",
   "geography": "Northern Europe",
   "summary": "Catastrophic harvest failures sent grain prices up several hundred per cent. Widespread hoarding and speculation; mass default on rents and loans; an estimated 10-15% of the population died over three years.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Northern Europe"
+  ]
  },
  {
   "year": 1316,
@@ -778,7 +1028,10 @@ window.CRISIS_EVENTS = [
   "category": "Commodity crisis",
   "geography": "Northern Europe",
   "summary": "Price controls were attempted and abandoned across England, France and Flanders. Peasant credit collapsed permanently in many regions.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Northern Europe"
+  ]
  },
  {
   "year": 1317,
@@ -788,7 +1041,10 @@ window.CRISIS_EVENTS = [
   "category": "Credit crisis",
   "geography": "Northern Europe",
   "summary": "Land changed hands en masse through distressed sale and foreclosure.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Northern Europe"
+  ]
  },
  {
   "year": 1326,
@@ -798,7 +1054,10 @@ window.CRISIS_EVENTS = [
   "category": "Bank failure",
   "geography": "Florence",
   "summary": "The Scali were among the largest Florentine houses. Villani records the failure as a shock to the city's credit - the first great Florentine banking collapse and a warning ignored twenty years later.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1330,
@@ -808,7 +1067,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency experiment",
   "geography": "Delhi Sultanate (India)",
   "summary": "The Sultan issued brass and copper tokens declared equal in value to silver tankas, an early attempt at fiat money, to fund campaigns and an over-ambitious treasury.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "India"
+  ]
  },
  {
   "year": 1331,
@@ -818,7 +1080,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency collapse / Fraud",
   "geography": "Delhi Sultanate (India)",
   "summary": "Because the tokens carried no security features, households minted them at home. Contemporary chroniclers describe every Hindu household becoming a mint. Good coin vanished; the token became worthless in trade.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "India"
+  ]
  },
  {
   "year": 1332,
@@ -828,7 +1093,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency collapse",
   "geography": "Delhi Sultanate (India)",
   "summary": "The Sultan redeemed the tokens in gold and silver at face value. Barani records mountains of worthless copper outside the treasury at Tughlaqabad. One of history's most complete monetary failures, and the clearest medieval demonstration of Gresham's law.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "India"
+  ]
  },
  {
   "year": 1339,
@@ -838,7 +1106,11 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign default",
   "geography": "England / Florence",
   "summary": "The opening of the Hundred Years War was financed by Florentine loans against wool revenues that never materialised. The King simply stopped paying.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK",
+   "Italy"
+  ]
  },
  {
   "year": 1341,
@@ -848,7 +1120,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "Florence",
   "summary": "English default plus a Neapolitan bond run began pulling deposits out of the Florentine houses.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1342,
@@ -858,7 +1133,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "Florence",
   "summary": "Six substantial Florentine banks failed in a single year. Villani, himself a Peruzzi employee, chronicled the sequence from inside it.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1343,
@@ -868,7 +1146,11 @@ window.CRISIS_EVENTS = [
   "category": "Bank failure",
   "geography": "Florence / Europe",
   "summary": "The second-largest bank in Europe. It had lent Edward III sums vastly exceeding its capital against future wool customs. Contagion spread across Italy, Flanders and England.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Italy",
+   "Europe"
+  ]
  },
  {
   "year": 1345,
@@ -878,7 +1160,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "Florence",
   "summary": "The third of the great houses went down. Florence's public debt was restructured and the city entered depression.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1346,
@@ -888,7 +1173,11 @@ window.CRISIS_EVENTS = [
   "category": "Bank failure",
   "geography": "Florence / Europe",
   "summary": "The Bardi's collapse completed the destruction of 14th-century international banking. Villani put the combined Bardi and Peruzzi losses at roughly 1.4m florins - he called it a ruin greater than any Florence had known. Concentrated sovereign exposure with no capital buffer: the same failure mode as 1890 Barings and 1982 Latin America.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Italy",
+   "Europe"
+  ]
  },
  {
   "year": 1348,
@@ -898,7 +1187,12 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock",
   "geography": "Europe / Asia / North Africa",
   "summary": "Roughly a third of Europe died. Debts, rents, annuities and partnerships were voided by mass mortality; courts and merchant houses could not identify heirs. Interest rates, wages and land values were permanently repriced.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Europe",
+   "Asia",
+   "North Africa"
+  ]
  },
  {
   "year": 1349,
@@ -908,7 +1202,10 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock",
   "geography": "Europe",
   "summary": "Credit markets ceased functioning in much of Italy, France and England. Bullion hoarding became universal.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1350,
@@ -918,7 +1215,10 @@ window.CRISIS_EVENTS = [
   "category": "Structural repricing",
   "geography": "Europe",
   "summary": "Wages rose sharply against a collapsed labour supply. England's Statute of Labourers attempted price control and failed. Land rents fell for a century.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1356,
@@ -928,7 +1228,10 @@ window.CRISIS_EVENTS = [
   "category": "Hyperinflation",
   "geography": "China",
   "summary": "The Yuan financed rebellion suppression by printing chao notes without reserve. The currency became worthless, contributing directly to the dynasty's fall in 1368. The first documented paper-money hyperinflation.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "China"
+  ]
  },
  {
   "year": 1361,
@@ -938,7 +1241,10 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock",
   "geography": "Europe",
   "summary": "A second wave struck the young and hit commercial families hardest.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1375,
@@ -948,7 +1254,10 @@ window.CRISIS_EVENTS = [
   "category": "Fiscal crisis",
   "geography": "Florence",
   "summary": "Compulsory subscription to the Monte Comune at punitive terms. Monte shares traded at a deep discount to par - an early example of a distressed sovereign debt market.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1378,
@@ -958,7 +1267,10 @@ window.CRISIS_EVENTS = [
   "category": "Fiscal / Social",
   "geography": "Florence",
   "summary": "A rising driven substantially by debt and tax burdens; the rebels demanded relief on the public debt.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1381,
@@ -968,7 +1280,10 @@ window.CRISIS_EVENTS = [
   "category": "Fiscal / Social",
   "geography": "England",
   "summary": "Triggered by the third poll tax in four years and its evasion by the wealthy.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1390,
@@ -978,7 +1293,10 @@ window.CRISIS_EVENTS = [
   "category": "Monetary contraction",
   "geography": "Europe",
   "summary": "European silver mines were exhausted and bullion drained east to pay for spices and silk. The money supply contracted severely for a generation.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1395,
@@ -988,7 +1306,10 @@ window.CRISIS_EVENTS = [
   "category": "Monetary contraction / Deflation",
   "geography": "Europe",
   "summary": "Mint output collapsed across England, France and the Low Countries. Prolonged deflation; debtors were crushed and trade reverted to barter in places.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1400,
@@ -998,7 +1319,10 @@ window.CRISIS_EVENTS = [
   "category": "Monetary contraction / Deflation",
   "geography": "Europe",
   "summary": "Chronic coin shortage across Western Europe. Bills of exchange and ledger clearing expanded largely as a workaround.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1410,
@@ -1008,7 +1332,10 @@ window.CRISIS_EVENTS = [
   "category": "Monetary contraction",
   "geography": "Europe",
   "summary": "Repeated debasements across the Low Countries and France as rulers tried to attract scarce silver to their mints.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1415,
@@ -1018,7 +1345,10 @@ window.CRISIS_EVENTS = [
   "category": "Monetary contraction",
   "geography": "Europe",
   "summary": "New central European mining slowly restored coin supply.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1421,
@@ -1028,7 +1358,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign debt distress",
   "geography": "Florence",
   "summary": "Public debt shares changed hands well below par with a large gap between market price and the fiction of face value in the tax registers.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1425,
@@ -1038,7 +1371,10 @@ window.CRISIS_EVENTS = [
   "category": "Hyperinflation",
   "geography": "China",
   "summary": "The Da-Ming Baochao note, issued without convertibility or redemption, had fallen to roughly 2% of its face value. The state kept accepting it for taxes at par while refusing to redeem it.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "China"
+  ]
  },
  {
   "year": 1441,
@@ -1048,7 +1384,10 @@ window.CRISIS_EVENTS = [
   "category": "Debt repudiation",
   "geography": "Japan",
   "summary": "After an armed uprising, the Ashikaga shogunate issued a 'virtuous government' edict voiding debts wholesale. Pawnbrokers and moneylenders were ruined; such edicts recurred for a century and destroyed Japanese credit markets.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Japan"
+  ]
  },
  {
   "year": 1450,
@@ -1058,7 +1397,10 @@ window.CRISIS_EVENTS = [
   "category": "Monetary regime change",
   "geography": "China",
   "summary": "China gave up on fiat paper for four centuries and moved onto an uncoined silver standard, which drew in American and Japanese silver for the next 300 years.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "China"
+  ]
  },
  {
   "year": 1453,
@@ -1068,7 +1410,10 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock",
   "geography": "Genoa / Venice",
   "summary": "Genoese and Venetian merchant capital in the Levant was destroyed or stranded. Trade routes and the credit built on them were rerouted.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1457,
@@ -1078,7 +1423,10 @@ window.CRISIS_EVENTS = [
   "category": "Monetary contraction / Deflation",
   "geography": "Europe",
   "summary": "The most severe coin shortage of the Middle Ages. Mints across England and the Low Countries produced almost nothing.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1460,
@@ -1088,7 +1436,10 @@ window.CRISIS_EVENTS = [
   "category": "Monetary contraction / Deflation",
   "geography": "Europe",
   "summary": "Sustained deflation, defaults on fixed money rents, and widespread commercial contraction.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1468,
@@ -1098,7 +1449,10 @@ window.CRISIS_EVENTS = [
   "category": "Bank failure",
   "geography": "Aragon (Spain)",
   "summary": "The public bank failed under the strain of the Catalan civil war and had to be reconstructed.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Spain"
+  ]
  },
  {
   "year": 1470,
@@ -1108,7 +1462,11 @@ window.CRISIS_EVENTS = [
   "category": "Bank mismanagement",
   "geography": "Florence / Burgundy",
   "summary": "Tommaso Portinari lent heavily to Charles the Bold against instructions from Florence. The head office's controls over its branch managers had broken down.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Italy",
+   "France"
+  ]
  },
  {
   "year": 1478,
@@ -1118,7 +1476,11 @@ window.CRISIS_EVENTS = [
   "category": "Bank failure / Political",
   "geography": "Florence / England",
   "summary": "The Pazzi Bank was liquidated and its partners executed or exiled after the plot against the Medici. In the same period the Medici London branch was wound up after Edward IV defaulted on roughly GBP 10,500 of loans.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Italy",
+   "UK"
+  ]
  },
  {
   "year": 1485,
@@ -1128,7 +1490,10 @@ window.CRISIS_EVENTS = [
   "category": "Bank failure",
   "geography": "Florence",
   "summary": "Lorenzo was drawing on the Florentine public purse to cover the bank's losses. Branch after branch had been lent into sovereign and princely exposures it could not carry.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1492,
@@ -1138,7 +1503,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign expropriation",
   "geography": "Spain",
   "summary": "Property was liquidated at distressed prices and capital was not permitted to leave in coin. A large transfer of wealth to the Crown and to buyers, and a lasting loss of financial expertise to Spain.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Spain"
+  ]
  },
  {
   "year": 1494,
@@ -1148,7 +1516,10 @@ window.CRISIS_EVENTS = [
   "category": "Bank failure",
   "geography": "Florence / Italy",
   "summary": "The Medici were expelled and the bank's assets seized. Charles VIII's invasion opened sixty years of war that would bankrupt every major crown in Europe. The same year, Luca Pacioli's 'Summa' codified double-entry bookkeeping - the accounting system that made later frauds both possible and detectable.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1499,
@@ -1158,7 +1529,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "Venice",
   "summary": "Defeat by the Ottomans triggered a run on the Rialto banks. Two of Venice's principal private banks failed within months; the state intervened to support the survivors.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1519,
@@ -1168,7 +1542,10 @@ window.CRISIS_EVENTS = [
   "category": "Political finance / Corruption",
   "geography": "Augsburg / Holy Roman Empire",
   "summary": "Jakob Fugger advanced around 850,000 florins to bribe the electors to choose Charles V over Francis I. Fugger's later letter reminding the Emperor that without him 'Your Majesty might not have acquired the imperial crown' is the frankest surviving statement of banker-sovereign leverage.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Germany"
+  ]
  },
  {
   "year": 1523,
@@ -1178,7 +1555,10 @@ window.CRISIS_EVENTS = [
   "category": "Regulatory / Antitrust",
   "geography": "Holy Roman Empire",
   "summary": "The Diet moved against the great trading companies for cornering copper, silver and spices. Charles V, deep in Fugger debt, killed the proceedings. An early and unsuccessful antitrust action.",
-  "severity": 1
+  "severity": 1,
+  "countries": [
+   "Germany"
+  ]
  },
  {
   "year": 1525,
@@ -1188,7 +1568,10 @@ window.CRISIS_EVENTS = [
   "category": "Social / Political",
   "geography": "Holy Roman Empire",
   "summary": "Monopoly pricing by the Augsburg houses was among the grievances. Luther wrote against the trading companies and against usury in the same period.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Germany"
+  ]
  },
  {
   "year": 1527,
@@ -1198,7 +1581,10 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock",
   "geography": "Rome",
   "summary": "Mutinous unpaid Imperial troops sacked the city. The papal financial market, the Roman branches of the Florentine and Genoese houses, and the market in curial offices were all destroyed. Several banks never reopened.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1529,
@@ -1208,7 +1594,10 @@ window.CRISIS_EVENTS = [
   "category": "Corner / Deposit fraud",
   "geography": "Augsburg",
   "summary": "Ambrosius Hochstetter attempted to corner the European mercury and quicksilver market, funding it with high-interest deposits taken from ordinary Augsburg citizens, servants and widows. The corner failed, the firm collapsed with enormous losses to small savers, and Hochstetter died in prison. A recognisably modern retail-funded speculative blowup.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Germany"
+  ]
  },
  {
   "year": 1540,
@@ -1218,7 +1607,10 @@ window.CRISIS_EVENTS = [
   "category": "Inflation",
   "geography": "Europe",
   "summary": "Potosi and Zacatecas silver began flowing through Seville. Prices rose across Europe for a century; those on fixed rents and money incomes were steadily impoverished.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1544,
@@ -1228,7 +1620,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency debasement",
   "geography": "England",
   "summary": "To fund war with France and Scotland, the Crown cut silver in the coinage and pocketed the difference. The most systematic monetary fraud in English history.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1546,
@@ -1238,7 +1633,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency debasement",
   "geography": "England",
   "summary": "Silver content fell towards a third of its former level. The exchange rate on Antwerp collapsed and import prices soared.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1549,
@@ -1248,7 +1646,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency debasement / Inflation",
   "geography": "England",
   "summary": "Coins were down to about a quarter silver; the copper showed through on the King's nose, hence 'Old Coppernose'. Kett's Rebellion and the western rising followed in the same year.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1551,
@@ -1258,7 +1659,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency crisis",
   "geography": "England",
   "summary": "The government abruptly halved the face value of the debased coin, triggering panic, hoarding and a sharp commercial contraction. Thomas Gresham was sent to Antwerp to manage the Crown's debts.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1552,
@@ -1268,7 +1672,11 @@ window.CRISIS_EVENTS = [
   "category": "Credit crisis",
   "geography": "Antwerp / England",
   "summary": "English royal borrowing on the Antwerp bourse became critically expensive; Gresham resorted to manipulating the exchange rate to service it.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Belgium",
+   "UK"
+  ]
  },
  {
   "year": 1557,
@@ -1278,7 +1686,12 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign default",
   "geography": "Spain / France / Germany",
   "summary": "Philip II suspended payments and converted his short-term asientos into low-yielding perpetual juros. Weeks later the French Crown defaulted on the Grand Parti de Lyon. Two of Europe's largest borrowers failed within a year, on debt held by identifiable banking houses across the continent.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Spain",
+   "France",
+   "Germany"
+  ]
  },
  {
   "year": 1558,
@@ -1288,7 +1701,11 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "Augsburg / Antwerp",
   "summary": "The Fuggers, Welsers and their peers had concentrated their books in Habsburg paper. The 1557 default began a decline from which German banking supremacy never recovered; leadership passed to the Genoese.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Germany",
+   "Belgium"
+  ]
  },
  {
   "year": 1560,
@@ -1298,7 +1715,10 @@ window.CRISIS_EVENTS = [
   "category": "Regulatory response",
   "geography": "England",
   "summary": "The debased coin was called in and reminted at proper standard, at a deliberate loss to the Crown. One of the few clean monetary restorations in the period.",
-  "severity": 1
+  "severity": 1,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1566,
@@ -1308,7 +1728,10 @@ window.CRISIS_EVENTS = [
   "category": "Political / Credit crisis",
   "geography": "Low Countries",
   "summary": "The iconoclasm and Alva's arrival broke the confidence underpinning Europe's principal money market.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Netherlands"
+  ]
  },
  {
   "year": 1568,
@@ -1318,7 +1741,12 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign expropriation",
   "geography": "England / Spain / Genoa",
   "summary": "English ports took in Spanish ships carrying roughly 400,000 florins of Genoese loan money bound for Alva's army; Elizabeth borrowed it herself. Spain seized English assets in retaliation, trade was embargoed and the Antwerp market was thrown into crisis.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK",
+   "Spain",
+   "Italy"
+  ]
  },
  {
   "year": 1575,
@@ -1328,7 +1756,11 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign default",
   "geography": "Spain / Genoa",
   "summary": "Philip II again suspended payments, this time repudiating the terms of his contracts with the Genoese bankers who had replaced the Germans. The bankers stopped lending; the bill network to Flanders froze.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Spain",
+   "Italy"
+  ]
  },
  {
   "year": 1576,
@@ -1338,7 +1770,10 @@ window.CRISIS_EVENTS = [
   "category": "Default consequence",
   "geography": "Antwerp",
   "summary": "Unpaid for months because of the 1575 default, the Army of Flanders mutinied and sacked Europe's richest city. Around 7,000 died and roughly 1,000 buildings burned. The most literal demonstration on record that sovereign defaults have physical consequences.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Belgium"
+  ]
  },
  {
   "year": 1584,
@@ -1348,7 +1783,10 @@ window.CRISIS_EVENTS = [
   "category": "Bank failure",
   "geography": "Venice",
   "summary": "The last great Venetian private bank collapsed, having lent its depositors' money to the Venetian state and to grain speculators.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1585,
@@ -1358,7 +1796,10 @@ window.CRISIS_EVENTS = [
   "category": "Structural shift",
   "geography": "Low Countries",
   "summary": "Antwerp fell to Spain and the Scheldt was blockaded. Merchants, bankers and their capital moved to Amsterdam, seeding the market that would produce the VOC in 1602 and tulipmania in 1637.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Netherlands"
+  ]
  },
  {
   "year": 1590,
@@ -1368,7 +1809,10 @@ window.CRISIS_EVENTS = [
   "category": "Commodity crisis",
   "geography": "Italy",
   "summary": "Harvest failure across the Mediterranean; northern grain merchants, chiefly Dutch, captured the trade permanently.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Italy"
+  ]
  },
  {
   "year": 1596,
@@ -1378,7 +1822,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign default",
   "geography": "Spain",
   "summary": "Philip II's third suspension in forty years. American silver had funded a debt structure that silver could never service.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Spain"
+  ]
  },
  {
   "year": 1597,
@@ -1388,7 +1835,11 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign restructuring",
   "geography": "Spain / Genoa",
   "summary": "Negotiations leading to the Medio General of 1598 - short-term asientos converted into long-dated juros at a heavy write-down. A recognisable sovereign debt exchange, four centuries before Argentina and Greece.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Spain",
+   "Italy"
+  ]
  },
  {
   "year": 1609,
@@ -1398,7 +1849,10 @@ window.CRISIS_EVENTS = [
   "category": "Manipulation / Fraud",
   "geography": "Netherlands",
   "summary": "First recorded organised short-selling attack and naked-short manipulation. Le Maire's 'Groote Compagnie' drove VOC shares down; he was ruined and disgraced.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Netherlands"
+  ]
  },
  {
   "year": 1618,
@@ -1408,7 +1862,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency debasement",
   "geography": "Holy Roman Empire",
   "summary": "States and private mints systematically clipped and debased small coin to fund the Thirty Years War. A state-sponsored monetary fraud.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Germany"
+  ]
  },
  {
   "year": 1619,
@@ -1418,7 +1875,11 @@ window.CRISIS_EVENTS = [
   "category": "Currency debasement",
   "geography": "Holy Roman Empire / Netherlands",
   "summary": "Debasement spreads across German states. The Wisselbank is founded partly as a defence against bad coin.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Germany",
+   "Netherlands"
+  ]
  },
  {
   "year": 1620,
@@ -1428,7 +1889,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency debasement",
   "geography": "Holy Roman Empire",
   "summary": "Debased coin drives out good coin. Riots against mint-masters and money-changers.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Germany"
+  ]
  },
  {
   "year": 1621,
@@ -1438,7 +1902,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency debasement / Hyperinflation",
   "geography": "Holy Roman Empire",
   "summary": "Silver content of small coin collapses; prices in some states rise eight to tenfold.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Germany"
+  ]
  },
  {
   "year": 1622,
@@ -1448,7 +1915,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency debasement / Hyperinflation",
   "geography": "Holy Roman Empire",
   "summary": "The worst year of the debasement. Widespread economic dislocation and popular violence.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Germany"
+  ]
  },
  {
   "year": 1623,
@@ -1458,7 +1928,10 @@ window.CRISIS_EVENTS = [
   "category": "Regulatory response",
   "geography": "Holy Roman Empire",
   "summary": "Return to the 1559 Imperial coinage standard. Massive wealth transfer already completed.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Germany"
+  ]
  },
  {
   "year": 1636,
@@ -1468,7 +1941,10 @@ window.CRISIS_EVENTS = [
   "category": "Asset bubble",
   "geography": "Netherlands",
   "summary": "Futures-style forward contracts in tulip bulbs traded in taverns ('windhandel'). Prices for rare bulbs reach multiples of a craftsman's annual income.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Netherlands"
+  ]
  },
  {
   "year": 1637,
@@ -1478,7 +1954,10 @@ window.CRISIS_EVENTS = [
   "category": "Bubble collapse",
   "geography": "Netherlands",
   "summary": "The archetypal bubble. Bulb auctions failed in Haarlem in early February; the forward market collapsed within weeks. Courts later refused to enforce the contracts.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Netherlands"
+  ]
  },
  {
   "year": 1640,
@@ -1488,7 +1967,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign expropriation",
   "geography": "England",
   "summary": "The King seized ~£130,000 of merchants' bullion held at the Mint. Destroyed trust in the Crown as a custodian and pushed deposits to goldsmith bankers.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1667,
@@ -1498,7 +1980,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking panic",
   "geography": "England",
   "summary": "Military humiliation triggered a run on the goldsmith bankers of Lombard Street.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1672,
@@ -1508,7 +1993,11 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign default",
   "geography": "England / Netherlands",
   "summary": "Charles II suspended repayment of ~£1.2m owed to goldsmith bankers. Several were ruined and their depositors with them. Simultaneously, the Dutch 'Disaster Year' collapsed Amsterdam asset prices.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK",
+   "Netherlands"
+  ]
  },
  {
   "year": 1695,
@@ -1518,7 +2007,10 @@ window.CRISIS_EVENTS = [
   "category": "Asset bubble",
   "geography": "England",
   "summary": "Roughly 140 joint-stock promotions (diving engines, patent schemes, mining ventures) floated in London. Most were shells.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1696,
@@ -1528,7 +2020,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency / Bubble collapse",
   "geography": "England",
   "summary": "The Great Recoinage produced a severe coin shortage; the Bank of England briefly suspended payments; most 1690s promotions became worthless.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1719,
@@ -1538,7 +2033,10 @@ window.CRISIS_EVENTS = [
   "category": "Asset bubble",
   "geography": "France",
   "summary": "Compagnie des Indes shares rose from ~500 to ~10,000 livres in a year on paper-money issuance. The word 'millionaire' dates from this episode.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "France"
+  ]
  },
  {
   "year": 1720,
@@ -1548,7 +2046,12 @@ window.CRISIS_EVENTS = [
   "category": "Bubble collapse",
   "geography": "UK / France / Netherlands",
   "summary": "The first genuinely international bubble and crash. South Sea stock ran £128 to £1,050 and back to £150. Law's system collapsed into hyperinflation of banknotes. The Bubble Act followed.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "UK",
+   "France",
+   "Netherlands"
+  ]
  },
  {
   "year": 1721,
@@ -1558,7 +2061,10 @@ window.CRISIS_EVENTS = [
   "category": "Scandal / Enforcement",
   "geography": "UK",
   "summary": "Cashier John Blunt exposed; Robert Knight fled abroad; Chancellor John Aislabie imprisoned in the Tower; directors' estates confiscated. Walpole's rise.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1745,
@@ -1568,7 +2074,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking panic",
   "geography": "UK",
   "summary": "The Bank paid out in sixpences to slow the run while it survived the march on London.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1763,
@@ -1578,7 +2087,11 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "Netherlands / Germany",
   "summary": "Failure of De Neufville brothers on Seven Years War commodity speculation and acceptance credit. Contagion to Hamburg, Berlin and Stockholm. Arguably the first international banking crisis.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Netherlands",
+   "Germany"
+  ]
  },
  {
   "year": 1772,
@@ -1588,7 +2101,11 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "UK / Netherlands",
   "summary": "Neal, James, Fordyce & Down failed in June on East India stock speculation. Douglas, Heron & Co (the Ayr Bank) collapsed, ruining much of the Scottish gentry. The East India Company sought a state bailout.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK",
+   "Netherlands"
+  ]
  },
  {
   "year": 1773,
@@ -1598,7 +2115,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "UK",
   "summary": "The Tea Act and EIC rescue followed. Contagion continued through Amsterdam and Scotland.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1783,
@@ -1608,7 +2128,11 @@ window.CRISIS_EVENTS = [
   "category": "Credit crisis",
   "geography": "UK / USA",
   "summary": "Collapse of wartime trade credit after the American War.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "UK",
+   "USA"
+  ]
  },
  {
   "year": 1789,
@@ -1618,7 +2142,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency",
   "geography": "France",
   "summary": "Land-backed paper currency that becomes the vehicle for revolutionary hyperinflation.",
-  "severity": 1
+  "severity": 1,
+  "countries": [
+   "France"
+  ]
  },
  {
   "year": 1792,
@@ -1628,7 +2155,10 @@ window.CRISIS_EVENTS = [
   "category": "Panic / Fraud",
   "geography": "USA",
   "summary": "First American financial panic. Duer and Alexander Macomb cornered US debt and Bank of New York stock with borrowed money; Duer died in debtors' prison. Hamilton conducted the first US central-bank-style rescue. The Buttonwood Agreement founding the NYSE followed in May.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1793,
@@ -1638,7 +2168,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "UK",
   "summary": "War with France collapsed credit; roughly a third of country banks failed.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1795,
@@ -1648,7 +2181,10 @@ window.CRISIS_EVENTS = [
   "category": "Hyperinflation",
   "geography": "France",
   "summary": "Assignats fell to under 1% of face value; the currency was abandoned in 1796.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "France"
+  ]
  },
  {
   "year": 1796,
@@ -1658,7 +2194,11 @@ window.CRISIS_EVENTS = [
   "category": "Bubble collapse",
   "geography": "USA / UK",
   "summary": "Frontier land bubble burst. Robert Morris, financier of the Revolution, went to debtors' prison.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA",
+   "UK"
+  ]
  },
  {
   "year": 1797,
@@ -1668,7 +2208,11 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "UK / USA",
   "summary": "The Restriction Period begins (lasting to 1821). US deflation and bankruptcies continue.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK",
+   "USA"
+  ]
  },
  {
   "year": 1799,
@@ -1678,7 +2222,11 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "Germany / Netherlands",
   "summary": "Failure of Hamburg merchant houses on colonial goods speculation; contagion to Scandinavia.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Germany",
+   "Netherlands"
+  ]
  },
  {
   "year": 1810,
@@ -1688,7 +2236,11 @@ window.CRISIS_EVENTS = [
   "category": "Credit crisis",
   "geography": "UK / South America",
   "summary": "Collapse of the South American export boom that followed the opening of Spanish colonial trade.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK",
+   "South America"
+  ]
  },
  {
   "year": 1814,
@@ -1698,7 +2250,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "USA",
   "summary": "War of 1812 financing forced most banks outside New England to suspend specie payments.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1816,
@@ -1708,7 +2263,11 @@ window.CRISIS_EVENTS = [
   "category": "Deflation / Depression",
   "geography": "UK / Europe",
   "summary": "Sharp commodity and land deflation after the wars, worsened by the 'year without a summer'.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "UK",
+   "Europe"
+  ]
  },
  {
   "year": 1819,
@@ -1718,7 +2277,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis / Depression",
   "geography": "USA",
   "summary": "First major American boom-bust cycle. The Second Bank of the US expanded then abruptly contracted credit; land prices collapsed; mass foreclosures and the first US depression.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1822,
@@ -1728,7 +2290,10 @@ window.CRISIS_EVENTS = [
   "category": "Fraud",
   "geography": "UK",
   "summary": "Gregor MacGregor sold sovereign bonds and land grants in Poyais, a Central American country that did not exist.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1823,
@@ -1738,7 +2303,11 @@ window.CRISIS_EVENTS = [
   "category": "Fraud",
   "geography": "UK / Honduras",
   "summary": "Settlers arrived to find mangrove swamp; roughly two-thirds died. MacGregor was never convicted.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "UK",
+   "Honduras"
+  ]
  },
  {
   "year": 1824,
@@ -1748,7 +2317,10 @@ window.CRISIS_EVENTS = [
   "category": "Asset bubble",
   "geography": "UK",
   "summary": "London floated bonds and mining shares for the newly independent Latin American republics on almost no diligence.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1825,
@@ -1758,7 +2330,11 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis / Bubble collapse",
   "geography": "UK / Latin America",
   "summary": "Latin American loans defaulted; 70-plus English banks failed; the Bank of England came within days of suspension and was saved by a bullion loan from the Banque de France. Often called the first modern financial crisis.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "UK",
+   "Latin America"
+  ]
  },
  {
   "year": 1832,
@@ -1768,7 +2344,10 @@ window.CRISIS_EVENTS = [
   "category": "Political / Banking",
   "geography": "USA",
   "summary": "Jackson vetoed the Second Bank's recharter, removing the closest thing the US had to a central bank.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1836,
@@ -1778,7 +2357,10 @@ window.CRISIS_EVENTS = [
   "category": "Asset bubble",
   "geography": "USA",
   "summary": "Public land sales exploded on bank paper. The Specie Circular required gold or silver payment, puncturing the boom.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1837,
@@ -1788,7 +2370,11 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis / Depression",
   "geography": "USA / UK",
   "summary": "343 of 850 US banks failed or suspended. A six-year depression followed. Triggered by cotton price collapse, Bank of England tightening and the land bubble bursting.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "USA",
+   "UK"
+  ]
  },
  {
   "year": 1839,
@@ -1798,7 +2384,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign default",
   "geography": "USA",
   "summary": "A second leg down. Nine US states and territories eventually defaulted on canal and railroad bonds, wiping out British investors.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1841,
@@ -1808,7 +2397,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign default",
   "geography": "USA",
   "summary": "Pennsylvania, Mississippi, Maryland, Indiana and others defaulted or repudiated. Sydney Smith's famous public denunciation of American debtors.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1845,
@@ -1818,7 +2410,10 @@ window.CRISIS_EVENTS = [
   "category": "Asset bubble",
   "geography": "UK",
   "summary": "Over 250 railway acts in a single session; railway shares were roughly a tenth of UK national income. Partly-paid shares let small investors leverage enormously.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1846,
@@ -1828,7 +2423,10 @@ window.CRISIS_EVENTS = [
   "category": "Bubble collapse",
   "geography": "UK",
   "summary": "Calls on partly-paid shares arrived as prices fell; middle-class investors were bankrupted en masse.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1847,
@@ -1838,7 +2436,11 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "UK / Europe",
   "summary": "Grain speculation failures plus railway calls. The Bank Charter Act was suspended in October. Numerous discount houses and merchant banks failed.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK",
+   "Europe"
+  ]
  },
  {
   "year": 1848,
@@ -1848,7 +2450,10 @@ window.CRISIS_EVENTS = [
   "category": "Political / Market",
   "geography": "Europe",
   "summary": "Bourses closed or collapsed across the continent; sovereign credit repriced.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1849,
@@ -1858,7 +2463,10 @@ window.CRISIS_EVENTS = [
   "category": "Accounting fraud",
   "geography": "UK",
   "summary": "Hudson had paid dividends out of capital and falsified accounts across his railway empire. Britain's first great corporate accounting scandal; it drove the case for statutory audit.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1856,
@@ -1868,7 +2476,10 @@ window.CRISIS_EVENTS = [
   "category": "Bank fraud",
   "geography": "UK",
   "summary": "Failed after directors lent themselves the deposits and falsified accounts. Directors convicted of conspiracy.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1857,
@@ -1878,7 +2489,11 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "USA / Europe",
   "summary": "Failure of the Ohio Life Insurance & Trust Co in August; contagion moved by telegraph and steamship to Britain and Hamburg. Widely regarded as the first worldwide financial crisis.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "USA",
+   "Europe"
+  ]
  },
  {
   "year": 1861,
@@ -1888,7 +2503,10 @@ window.CRISIS_EVENTS = [
   "category": "War finance",
   "geography": "USA",
   "summary": "Banks suspended specie payments in December; greenbacks were issued from 1862.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1863,
@@ -1898,7 +2516,10 @@ window.CRISIS_EVENTS = [
   "category": "Asset bubble",
   "geography": "India",
   "summary": "The American Civil War cut off US cotton; Bombay cotton exports and share promotions boomed. Premchand Roychand drove a mania in bank, reclamation and financial-association shares.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "India"
+  ]
  },
  {
   "year": 1864,
@@ -1908,7 +2529,11 @@ window.CRISIS_EVENTS = [
   "category": "Asset bubble",
   "geography": "India / USA",
   "summary": "Back Bay Reclamation shares traded at enormous premiums. In New York, gold speculation forced the repeal of the Gold Act.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "India",
+   "USA"
+  ]
  },
  {
   "year": 1865,
@@ -1918,7 +2543,10 @@ window.CRISIS_EVENTS = [
   "category": "Bubble collapse",
   "geography": "India",
   "summary": "The US war ended, cotton prices collapsed and Bombay share prices fell over 90%. The Bank of Bombay was destroyed by loans against its own shares and was wound up in 1868. India's first great market crash.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "India"
+  ]
  },
  {
   "year": 1866,
@@ -1928,7 +2556,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "UK",
   "summary": "The largest discount house in the world failed with £11m of liabilities after reckless lending. Bank Rate went to 10%; the Bank Charter Act was suspended. The last true run on a British bank until Northern Rock in 2007.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1868,
@@ -1938,7 +2569,10 @@ window.CRISIS_EVENTS = [
   "category": "Market manipulation",
   "geography": "USA",
   "summary": "Daniel Drew, Jay Gould and Jim Fisk printed watered Erie Railroad stock to defeat Vanderbilt's takeover, then bribed the New York legislature to legalise it.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1869,
@@ -1948,7 +2582,10 @@ window.CRISIS_EVENTS = [
   "category": "Market manipulation",
   "geography": "USA",
   "summary": "Gould and Fisk cornered the New York gold market, using a relative of President Grant for access. Treasury gold sales broke the corner and destroyed hundreds of firms in minutes.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1872,
@@ -1958,7 +2595,10 @@ window.CRISIS_EVENTS = [
   "category": "Corruption / Fraud",
   "geography": "USA",
   "summary": "Union Pacific insiders overcharged their own railroad through a captive construction company and distributed shares to congressmen. Implicated the Vice President and a future President.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1873,
@@ -1968,7 +2608,12 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis / Depression",
   "geography": "Austria / Germany / USA",
   "summary": "The Vienna bourse crashed in May after the Gruenderzeit promotion boom; Jay Cooke & Co failed in September on Northern Pacific bonds; the NYSE closed for ten days. A depression followed lasting into the 1890s.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Austria",
+   "Germany",
+   "USA"
+  ]
  },
  {
   "year": 1878,
@@ -1978,7 +2623,10 @@ window.CRISIS_EVENTS = [
   "category": "Bank fraud",
   "geography": "UK",
   "summary": "Directors falsified the balance sheet for years to hide huge losses on Australian and American ventures. Unlimited liability ruined 85% of shareholders. Directors were jailed; the case drove the shift to limited liability and independent audit.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1882,
@@ -1988,7 +2636,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "France",
   "summary": "Bontoux's bank collapsed in January after ramping its own shares; the Paris Bourse required a Banque de France rescue. Zola's 'L'Argent' is based on it.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "France"
+  ]
  },
  {
   "year": 1884,
@@ -1998,7 +2649,10 @@ window.CRISIS_EVENTS = [
   "category": "Ponzi / Panic",
   "geography": "USA",
   "summary": "Ferdinand Ward, the 'Young Napoleon of Wall Street', ran a Ponzi scheme using ex-President Grant's name; Marine National Bank failed. Grant was left destitute.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1889,
@@ -2008,7 +2662,10 @@ window.CRISIS_EVENTS = [
   "category": "Corner / Banking crisis",
   "geography": "France",
   "summary": "The Societe des Metaux copper corner collapsed, taking down France's second-largest bank. Its manager shot himself.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "France"
+  ]
  },
  {
   "year": 1890,
@@ -2018,7 +2675,11 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "UK / Argentina",
   "summary": "Barings was insolvent on Argentine and Uruguayan debt. The Bank of England organised a £17m guarantee consortium - the first modern too-big-to-fail lifeboat.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK",
+   "Argentina"
+  ]
  },
  {
   "year": 1892,
@@ -2028,7 +2689,10 @@ window.CRISIS_EVENTS = [
   "category": "Corruption / Fraud",
   "geography": "France",
   "summary": "The Panama company collapsed with 800,000 investors wiped out; it emerged that some 150 deputies and ministers had been bribed to conceal it. The largest corruption scandal of the 19th century.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "France"
+  ]
  },
  {
   "year": 1893,
@@ -2038,7 +2702,11 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis / Depression",
   "geography": "USA / Australia",
   "summary": "US railroad overbuilding and the silver question triggered over 500 bank and 15,000 business failures. In Australia, 11 of 22 commercial banks suspended after the 1880s land boom collapsed.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "USA",
+   "Australia"
+  ]
  },
  {
   "year": 1895,
@@ -2048,7 +2716,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign / Banking",
   "geography": "USA",
   "summary": "The Treasury's gold reserve fell below $50m. J.P. Morgan and August Belmont privately underwrote a bond issue to refill it, to considerable public anger.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1901,
@@ -2058,7 +2729,10 @@ window.CRISIS_EVENTS = [
   "category": "Corner / Panic",
   "geography": "USA",
   "summary": "Harriman and Hill-Morgan both bought control of Northern Pacific; shorts were squeezed from $170 to $1,000. The scramble to raise cash crashed the rest of the market.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1903,
@@ -2068,7 +2742,10 @@ window.CRISIS_EVENTS = [
   "category": "Market correction",
   "geography": "USA",
   "summary": "Overpromoted trust flotations unwound; the Dow fell about 30% over the year.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1907,
@@ -2078,7 +2755,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "USA",
   "summary": "Heinze and Morse's failed corner in United Copper triggered runs on associated trust companies, notably the Knickerbocker Trust. J.P. Morgan personally organised the rescue. The episode led directly to the Federal Reserve Act.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1912,
@@ -2088,7 +2768,10 @@ window.CRISIS_EVENTS = [
   "category": "Regulatory / Political",
   "geography": "USA",
   "summary": "Congressional inquiry into concentration of financial control; laid the groundwork for the Fed and the Clayton Act.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1914,
@@ -2098,7 +2781,10 @@ window.CRISIS_EVENTS = [
   "category": "Market shutdown",
   "geography": "Global",
   "summary": "The NYSE closed for over four months, the LSE for five - the longest closures in their history. A near-total collapse of the international payments system.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Global"
+  ]
  },
  {
   "year": 1918,
@@ -2108,7 +2794,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign default",
   "geography": "Russia",
   "summary": "The largest sovereign repudiation to that date; French retail bondholders were the biggest losers.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Russia"
+  ]
  },
  {
   "year": 1920,
@@ -2118,7 +2807,10 @@ window.CRISIS_EVENTS = [
   "category": "Ponzi fraud / Depression",
   "geography": "USA",
   "summary": "Charles Ponzi's Securities Exchange Company promised 50% in 45 days on postal reply coupons. He took in roughly $20m from 40,000 people. The name stuck to the structure forever. A severe deflationary depression began the same year.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1921,
@@ -2128,7 +2820,11 @@ window.CRISIS_EVENTS = [
   "category": "Deflation / Inflation",
   "geography": "USA / Germany",
   "summary": "US wholesale prices fell about 37%. In Germany, reparations financing began the slide into hyperinflation.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA",
+   "Germany"
+  ]
  },
  {
   "year": 1922,
@@ -2138,7 +2834,10 @@ window.CRISIS_EVENTS = [
   "category": "Corruption",
   "geography": "USA",
   "summary": "Secretary of the Interior Fall took bribes to lease naval oil reserves. The defining US corruption scandal before Watergate.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1923,
@@ -2148,7 +2847,10 @@ window.CRISIS_EVENTS = [
   "category": "Hyperinflation",
   "geography": "Germany",
   "summary": "The mark reached 4.2 trillion to the dollar. Savings, bonds and mortgages were annihilated; the Rentenmark reform ended it in November.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Germany"
+  ]
  },
  {
   "year": 1925,
@@ -2158,7 +2860,10 @@ window.CRISIS_EVENTS = [
   "category": "Asset bubble",
   "geography": "USA",
   "summary": "Binder-boy speculation on undeveloped Florida lots; plots traded several times a day on 10% deposits.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1926,
@@ -2168,7 +2873,10 @@ window.CRISIS_EVENTS = [
   "category": "Bubble collapse",
   "geography": "USA",
   "summary": "New buyers vanished, then the September Miami hurricane finished it. A dress rehearsal for 1929.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1928,
@@ -2178,7 +2886,10 @@ window.CRISIS_EVENTS = [
   "category": "Asset bubble",
   "geography": "USA",
   "summary": "Leveraged, pyramided investment trusts (Goldman Sachs Trading Corp being the notorious case) and margin debt exploded.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1929,
@@ -2188,7 +2899,11 @@ window.CRISIS_EVENTS = [
   "category": "Bubble collapse / Fraud",
   "geography": "USA / UK",
   "summary": "The defining crash. Also the year of the Clarence Hatry fraud in London (September, forged share certificates, a trigger for the US selloff) and of Albert Wiggin of Chase shorting his own bank's stock during the crash.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "USA",
+   "UK"
+  ]
  },
  {
   "year": 1930,
@@ -2198,7 +2913,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "USA",
   "summary": "The largest US bank failure to that date, with 400,000 depositors. The first of three waves of banking panics.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1931,
@@ -2208,7 +2926,12 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "Austria / Germany / UK",
   "summary": "Austria's largest bank failed, triggering the German banking crisis of July and the sterling crisis of September. The moment the Depression became a global financial catastrophe.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Austria",
+   "Germany",
+   "UK"
+  ]
  },
  {
   "year": 1932,
@@ -2218,7 +2941,11 @@ window.CRISIS_EVENTS = [
   "category": "Corporate fraud",
   "geography": "Sweden / USA",
   "summary": "The 'Match King' had built a global empire on forged Italian government bonds and circular financing; the losses were the largest corporate fraud to that date. Samuel Insull's utility pyramid collapsed the same year. The Dow bottomed 89% below its 1929 peak.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Sweden",
+   "USA"
+  ]
  },
  {
   "year": 1933,
@@ -2228,7 +2955,10 @@ window.CRISIS_EVENTS = [
   "category": "Regulatory response",
   "geography": "USA",
   "summary": "Roosevelt closed every bank in March. The Pecora hearings exposed National City Bank's practice of dumping bad Latin American loans on retail clients. Glass-Steagall and the Securities Act followed.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1937,
@@ -2238,7 +2968,10 @@ window.CRISIS_EVENTS = [
   "category": "Market crash",
   "geography": "USA",
   "summary": "Premature tightening and fiscal contraction; the Dow fell 49%.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1938,
@@ -2248,7 +2981,10 @@ window.CRISIS_EVENTS = [
   "category": "Embezzlement",
   "geography": "USA",
   "summary": "The former NYSE president was convicted of embezzling from the Exchange's Gratuity Fund and his clients. The establishment's own man in Sing Sing.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1939,
@@ -2258,7 +2994,10 @@ window.CRISIS_EVENTS = [
   "category": "Market shutdown",
   "geography": "Global",
   "summary": "The LSE closed briefly; European bourses were suspended or seized.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "Global"
+  ]
  },
  {
   "year": 1946,
@@ -2268,7 +3007,10 @@ window.CRISIS_EVENTS = [
   "category": "Hyperinflation",
   "geography": "Hungary",
   "summary": "The worst hyperinflation ever recorded - prices doubled roughly every 15 hours at the peak. The pengo was replaced by the forint in August.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Hungary"
+  ]
  },
  {
   "year": 1948,
@@ -2278,7 +3020,10 @@ window.CRISIS_EVENTS = [
   "category": "Hyperinflation",
   "geography": "China",
   "summary": "The Nationalist currency reform failed within months; the collapse of monetary confidence contributed materially to the fall of the regime.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "China"
+  ]
  },
  {
   "year": 1962,
@@ -2288,7 +3033,10 @@ window.CRISIS_EVENTS = [
   "category": "Market crash",
   "geography": "USA",
   "summary": "The S&P fell 22% from December 1961; 28 May was the worst day since 1929 to that point.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1963,
@@ -2298,7 +3046,10 @@ window.CRISIS_EVENTS = [
   "category": "Collateral fraud",
   "geography": "USA",
   "summary": "Anthony De Angelis pledged tanks of soybean oil that were mostly seawater; ~$175m of losses. American Express nearly failed and Buffett famously bought it. A pure collateral-verification failure - the same failure mode as First Brands in 2025.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1966,
@@ -2308,7 +3059,10 @@ window.CRISIS_EVENTS = [
   "category": "Credit crisis",
   "geography": "USA",
   "summary": "First post-war credit squeeze; the municipal bond market seized up.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1967,
@@ -2318,7 +3072,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency crisis",
   "geography": "UK",
   "summary": "The pound was devalued 14%; 'the pound in your pocket'.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1968,
@@ -2328,7 +3085,10 @@ window.CRISIS_EVENTS = [
   "category": "Operational crisis",
   "geography": "USA",
   "summary": "Volume overwhelmed manual settlement; over 100 brokerages failed or merged. Led to the DTC and the SIPC.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1970,
@@ -2338,7 +3098,11 @@ window.CRISIS_EVENTS = [
   "category": "Corporate failure / Fraud",
   "geography": "USA / Switzerland",
   "summary": "Penn Central was the largest US bankruptcy to that date and froze the commercial paper market, forcing the Fed to open the discount window. Bernie Cornfeld's Investors Overseas Services, an offshore fund empire, also collapsed.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "USA",
+   "Switzerland"
+  ]
  },
  {
   "year": 1971,
@@ -2348,7 +3112,10 @@ window.CRISIS_EVENTS = [
   "category": "Monetary regime change",
   "geography": "Global",
   "summary": "The dollar's convertibility to gold was suspended, ending Bretton Woods and inaugurating the floating-rate era.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Global"
+  ]
  },
  {
   "year": 1972,
@@ -2358,7 +3125,11 @@ window.CRISIS_EVENTS = [
   "category": "Fraud",
   "geography": "USA / Costa Rica",
   "summary": "Vesco stripped roughly $224m from IOS funds and fled. He remained a fugitive for decades.",
-  "severity": 2
+  "severity": 2,
+  "countries": [
+   "USA",
+   "Costa Rica"
+  ]
  },
  {
   "year": 1973,
@@ -2368,7 +3139,11 @@ window.CRISIS_EVENTS = [
   "category": "Accounting fraud",
   "geography": "USA / UK",
   "summary": "Equity Funding had fabricated some 64,000 insurance policies (about $2bn face value) using its own computer systems - the first major computer-assisted fraud. Simultaneously the UK secondary banking crisis began and OPEC quadrupled oil prices.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "USA",
+   "UK"
+  ]
  },
  {
   "year": 1974,
@@ -2378,7 +3153,12 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "Germany / USA / UK",
   "summary": "Herstatt was closed mid-settlement-day, stranding counterparties - 'Herstatt risk' is named for it and led directly to the Basel Committee. Franklin National was the largest US bank failure to that date. The FT30 fell 73% from its 1972 peak.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Germany",
+   "USA",
+   "UK"
+  ]
  },
  {
   "year": 1975,
@@ -2388,7 +3168,10 @@ window.CRISIS_EVENTS = [
   "category": "Municipal default",
   "geography": "USA",
   "summary": "The city was days from default; 'Ford to City: Drop Dead'. Resolved by state and federal intervention.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1976,
@@ -2398,7 +3181,10 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign crisis",
   "geography": "UK",
   "summary": "Sterling collapsed and Britain took a $3.9bn IMF loan, the largest ever at that point.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK"
+  ]
  },
  {
   "year": 1979,
@@ -2408,7 +3194,11 @@ window.CRISIS_EVENTS = [
   "category": "Monetary regime change",
   "geography": "USA / Global",
   "summary": "The Fed switched to targeting money supply; rates went above 20%. The precondition for the 1982 emerging-market debt crisis.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA",
+   "Global"
+  ]
  },
  {
   "year": 1980,
@@ -2418,7 +3208,10 @@ window.CRISIS_EVENTS = [
   "category": "Corner / Fraud",
   "geography": "USA",
   "summary": "The Hunts had accumulated a third of the world's deliverable silver, driving it from $6 to $50. Exchange rule changes broke the corner; silver fell to $11 in a day and their broker Bache nearly failed.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1982,
@@ -2428,7 +3221,10 @@ window.CRISIS_EVENTS = [
   "category": "Multiple systemic",
   "geography": "Global",
   "summary": "Mexico suspended payments in August, opening a lost decade for Latin America. Banco Ambrosiano collapsed with $1.3bn missing and Roberto Calvi was found hanged under Blackfriars Bridge. Kuwait's unofficial Souk Al-Manakh exchange collapsed under ~$94bn of post-dated cheques. Penn Square Bank and Drysdale Government Securities failed in the US.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Global"
+  ]
  },
  {
   "year": 1983,
@@ -2438,7 +3234,10 @@ window.CRISIS_EVENTS = [
   "category": "Market manipulation",
   "geography": "Israel",
   "summary": "The major banks had ramped their own shares for years to guarantee returns. When it broke, trading was suspended for over two weeks and the banks were nationalised.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Israel"
+  ]
  },
  {
   "year": 1984,
@@ -2448,7 +3247,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis",
   "geography": "USA",
   "summary": "The seventh-largest US bank was destroyed by energy loans bought from Penn Square. The FDIC guaranteed all depositors - the moment the phrase 'too big to fail' entered general use.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1985,
@@ -2458,7 +3260,10 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis / Fraud",
   "geography": "USA",
   "summary": "ESM's collapse took down Home State Savings, triggering the first US bank runs since the 1930s and the closure of Ohio's state deposit insurance fund.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1986,
@@ -2468,7 +3273,11 @@ window.CRISIS_EVENTS = [
   "category": "Insider dealing / Fraud",
   "geography": "USA / UK",
   "summary": "Boesky settled for $100m and wore a wire, unravelling the arbitrage network. In London, Guinness illegally supported its own shares during the Distillers bid; four convictions followed. The LSE's Big Bang deregulated the City in October.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA",
+   "UK"
+  ]
  },
  {
   "year": 1987,
@@ -2478,7 +3287,10 @@ window.CRISIS_EVENTS = [
   "category": "Market crash",
   "geography": "Global",
   "summary": "The Dow fell 22.6% in a single session, still the largest one-day percentage fall ever. Portfolio insurance and program trading amplified the decline. Circuit breakers were introduced afterwards.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Global"
+  ]
  },
  {
   "year": 1988,
@@ -2488,7 +3300,10 @@ window.CRISIS_EVENTS = [
   "category": "Fraud / Enforcement",
   "geography": "USA",
   "summary": "Drexel Burnham Lambert paid $650m and admitted six felonies. BCCI was indicted in Tampa for laundering Medellin cartel money.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 1989,
@@ -2498,7 +3313,11 @@ window.CRISIS_EVENTS = [
   "category": "Fraud / Banking crisis",
   "geography": "USA / Japan",
   "summary": "Milken was indicted on 98 counts in March. The UAL buyout financing collapsed on 13 October, taking the market with it. FIRREA created the RTC to resolve the S&L crisis at an eventual taxpayer cost of about $124bn. The Nikkei peaked at 38,915 on 29 December.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "USA",
+   "Japan"
+  ]
  },
  {
   "year": 1990,
@@ -2508,7 +3327,12 @@ window.CRISIS_EVENTS = [
   "category": "Bubble collapse",
   "geography": "Japan / USA / UK",
   "summary": "The Nikkei fell 39% in the year, beginning three lost decades; Japanese land prices eventually fell some 70%. Drexel filed for bankruptcy in February. Asil Nadir's Polly Peck collapsed in the UK with £550m missing.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Japan",
+   "USA",
+   "UK"
+  ]
  },
  {
   "year": 1991,
@@ -2518,7 +3342,12 @@ window.CRISIS_EVENTS = [
   "category": "Fraud",
   "geography": "UK / USA / Global",
   "summary": "BCCI was closed in seven countries simultaneously - roughly $13bn of losses, described as the largest bank fraud in history at the time. Robert Maxwell died in November and £460m of his companies' pension funds proved to be missing. Salomon Brothers admitted rigging US Treasury auctions.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK",
+   "USA",
+   "Global"
+  ]
  },
  {
   "year": 1992,
@@ -2528,7 +3357,11 @@ window.CRISIS_EVENTS = [
   "category": "Currency crisis / Securities fraud",
   "geography": "UK / India",
   "summary": "Britain was ejected from the ERM after burning £3.3bn defending sterling; Soros made about $1bn. In India, Harshad Mehta's ~Rs 4,025 crore ($1.3bn) bank receipts scam - diverting interbank money into equities - collapsed the Sensex about 40% and led directly to SEBI being given statutory powers and the founding of the NSE.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK",
+   "India"
+  ]
  },
  {
   "year": 1993,
@@ -2538,7 +3371,10 @@ window.CRISIS_EVENTS = [
   "category": "Currency crisis",
   "geography": "Europe",
   "summary": "The French franc came under attack in July; the ERM was effectively abandoned in all but name.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Europe"
+  ]
  },
  {
   "year": 1994,
@@ -2548,7 +3384,11 @@ window.CRISIS_EVENTS = [
   "category": "Rates / Derivatives losses",
   "geography": "USA / Mexico",
   "summary": "Unexpected Fed tightening destroyed global bond portfolios (~$1.5tn of value). Orange County lost $1.6bn on leveraged repo and filed the largest US municipal bankruptcy. Askin Capital collapsed on mortgage derivatives. Mexico devalued in December.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "USA",
+   "Mexico"
+  ]
  },
  {
   "year": 1995,
@@ -2558,7 +3398,12 @@ window.CRISIS_EVENTS = [
   "category": "Rogue trading",
   "geography": "UK / Singapore / Japan",
   "summary": "Nick Leeson's unauthorised Nikkei futures positions lost £827m and destroyed a 233-year-old bank, which was sold to ING for £1. Daiwa's New York office admitted $1.1bn of hidden bond losses accumulated over 11 years by Toshihide Iguchi.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK",
+   "Singapore",
+   "Japan"
+  ]
  },
  {
   "year": 1996,
@@ -2568,7 +3413,12 @@ window.CRISIS_EVENTS = [
   "category": "Manipulation / Ponzi",
   "geography": "Japan / Albania / Canada",
   "summary": "Yasuo Hamanaka, 'Mr Copper', had manipulated the LME copper market for a decade; Sumitomo disclosed $2.6bn of losses. In Albania, pyramid schemes reached roughly half of GDP.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Japan",
+   "Albania",
+   "Canada"
+  ]
  },
  {
   "year": 1997,
@@ -2578,7 +3428,12 @@ window.CRISIS_EVENTS = [
   "category": "Currency / Banking crisis",
   "geography": "Asia / Albania / Canada",
   "summary": "The Thai baht floated on 2 July; contagion swept Indonesia, Korea, Malaysia and the Philippines, with IMF programmes exceeding $100bn. In Albania the pyramid collapse triggered civil war and around 2,000 deaths. Bre-X's Busang gold deposit proved to be salted core samples - about C$6bn evaporated, the largest mining fraud in history. In India, the CRB Capital Markets scam broke.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Asia",
+   "Albania",
+   "Canada"
+  ]
  },
  {
   "year": 1998,
@@ -2588,7 +3443,11 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign default / Hedge fund",
   "geography": "Russia / USA",
   "summary": "Russia defaulted on domestic debt and devalued. Long-Term Capital Management, with two Nobel laureates on the board and roughly 25x leverage, lost $4.6bn in four months; the New York Fed convened a $3.6bn private recapitalisation to prevent a chain reaction.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Russia",
+   "USA"
+  ]
  },
  {
   "year": 1999,
@@ -2598,7 +3457,11 @@ window.CRISIS_EVENTS = [
   "category": "Asset bubble",
   "geography": "USA / Brazil",
   "summary": "IPOs doubling on day one became routine; the Nasdaq rose 86% in the year. The Gramm-Leach-Bliley Act repealed Glass-Steagall in November.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA",
+   "Brazil"
+  ]
  },
  {
   "year": 2000,
@@ -2608,7 +3471,11 @@ window.CRISIS_EVENTS = [
   "category": "Bubble collapse",
   "geography": "USA / Global",
   "summary": "The Nasdaq fell 78% by October 2002; roughly $5tn of market value destroyed. Lernout & Hauspie's fabricated Korean revenues were exposed the same year.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "USA",
+   "Global"
+  ]
  },
  {
   "year": 2001,
@@ -2618,7 +3485,12 @@ window.CRISIS_EVENTS = [
   "category": "Accounting fraud / Sovereign default",
   "geography": "USA / Argentina / India",
   "summary": "Enron used SPEs and mark-to-model accounting to hide debt; it filed the largest US bankruptcy to that date in December. Argentina defaulted on ~$100bn. In India, Ketan Parekh's circular financing of 'K-10' stocks via Madhavpura Mercantile Bank pay orders collapsed the market in March.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "USA",
+   "Argentina",
+   "India"
+  ]
  },
  {
   "year": 2002,
@@ -2628,7 +3500,10 @@ window.CRISIS_EVENTS = [
   "category": "Accounting fraud",
   "geography": "USA",
   "summary": "WorldCom capitalised $11bn of line costs and filed a bankruptcy larger than Enron's. Arthur Andersen was convicted and dissolved, ending the Big Five. Kozlowski at Tyco and the Rigas family at Adelphia were prosecuted for looting. SOX was signed in July.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 2003,
@@ -2638,7 +3513,11 @@ window.CRISIS_EVENTS = [
   "category": "Accounting fraud",
   "geography": "Italy / USA",
   "summary": "Parmalat's Bank of America account holding EUR 3.95bn did not exist; the total hole was about EUR 14bn - 'Europe's Enron'. HealthSouth's Scrushy had overstated earnings by $2.7bn. Spitzer exposed late trading and market timing across the US mutual fund industry.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Italy",
+   "USA"
+  ]
  },
  {
   "year": 2004,
@@ -2648,7 +3527,12 @@ window.CRISIS_EVENTS = [
   "category": "Accounting fraud",
   "geography": "USA / Russia / Singapore",
   "summary": "Fannie Mae restated $6.3bn after OFHEO found earnings manipulation to hit bonus targets. Yukos was dismantled by the Russian state. China Aviation Oil's Singapore unit lost $550m on unauthorised options.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA",
+   "Russia",
+   "Singapore"
+  ]
  },
  {
   "year": 2005,
@@ -2658,7 +3542,10 @@ window.CRISIS_EVENTS = [
   "category": "Fraud",
   "geography": "USA",
   "summary": "Refco collapsed two months after its IPO when a $430m receivable owed by the CEO was discovered to have been hidden from investors. Bayou Hedge Fund was revealed as a Ponzi with a fake audit firm. AIG restated $3.9bn and Hank Greenberg was forced out.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 2006,
@@ -2668,7 +3555,10 @@ window.CRISIS_EVENTS = [
   "category": "Fraud / Hedge fund",
   "geography": "USA",
   "summary": "Over 200 US companies were investigated for backdating option grants. Amaranth lost $6.6bn in a week on natural gas spreads - the largest hedge fund loss to that date.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "USA"
+  ]
  },
  {
   "year": 2007,
@@ -2678,7 +3568,12 @@ window.CRISIS_EVENTS = [
   "category": "Credit crisis",
   "geography": "USA / UK / Global",
   "summary": "Two Bear Stearns credit funds collapsed in June; BNP Paribas froze three funds on 9 August, freezing the interbank market. Northern Rock suffered the first run on a British bank since 1866. The ABCP and SIV markets shut.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "USA",
+   "UK",
+   "Global"
+  ]
  },
  {
   "year": 2008,
@@ -2688,7 +3583,10 @@ window.CRISIS_EVENTS = [
   "category": "Systemic crisis / Ponzi",
   "geography": "Global",
   "summary": "Bear Stearns was rescued in March; Fannie and Freddie were taken into conservatorship on 7 September; Lehman filed the largest bankruptcy in history ($639bn) on 15 September; AIG required $182bn; Iceland's three banks (about 10x GDP) failed; TARP committed $700bn. In December Madoff confessed to a Ponzi scheme with $64.8bn of fictitious statement value - the largest ever. In January, Societe Generale disclosed EUR 4.9bn of losses from Jerome Kerviel.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Global"
+  ]
  },
  {
   "year": 2009,
@@ -2698,7 +3596,13 @@ window.CRISIS_EVENTS = [
   "category": "Accounting fraud",
   "geography": "India / USA / UAE / Greece",
   "summary": "Ramalinga Raju confessed that Rs 7,136 crore ($1.47bn) of Satyam's cash did not exist, using over 6,000 forged invoices - 'India's Enron'. Allen Stanford's $7bn CD Ponzi collapsed in February. Dubai World sought a standstill in November. In October Greece revealed its deficit was more than double the reported figure.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "India",
+   "USA",
+   "UAE",
+   "Greece"
+  ]
  },
  {
   "year": 2010,
@@ -2708,7 +3612,11 @@ window.CRISIS_EVENTS = [
   "category": "Sovereign crisis / Market structure",
   "geography": "Europe / USA",
   "summary": "Greece was bailed out in May and Ireland in November. The Flash Crash saw the Dow fall 998 points intraday in minutes. The Lehman examiner's report exposed 'Repo 105' balance-sheet window dressing. Raj Rajaratnam's Galleon insider-trading network was prosecuted. Dodd-Frank was signed in July.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Europe",
+   "USA"
+  ]
  },
  {
   "year": 2011,
@@ -2718,7 +3626,12 @@ window.CRISIS_EVENTS = [
   "category": "Fraud / Rogue trading",
   "geography": "USA / Japan / Switzerland",
   "summary": "MF Global failed with $1.6bn of segregated customer funds missing under Jon Corzine. Olympus was revealed to have concealed $1.7bn of investment losses for 13 years using inflated M&A fees. Kweku Adoboli lost UBS $2.3bn. S&P downgraded the US in August; the eurozone crisis spread to Italy and Spain.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "USA",
+   "Japan",
+   "Switzerland"
+  ]
  },
  {
   "year": 2012,
@@ -2728,7 +3641,12 @@ window.CRISIS_EVENTS = [
   "category": "Benchmark manipulation",
   "geography": "UK / USA / Global",
   "summary": "Barclays was fined in June for manipulating LIBOR; global fines eventually reached about $9bn and the benchmark was rebuilt. JPMorgan lost $6.2bn on the CIO's synthetic credit book. HSBC paid $1.9bn over Mexican cartel money laundering. Peregrine Financial's CEO confessed to a 20-year, $215m fraud. Spain took a EUR 100bn bank bailout.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "UK",
+   "USA",
+   "Global"
+  ]
  },
  {
   "year": 2013,
@@ -2738,7 +3656,12 @@ window.CRISIS_EVENTS = [
   "category": "Bail-in / Bubble / Fraud",
   "geography": "Cyprus / Global / India",
   "summary": "Cyprus imposed losses on uninsured depositors and capital controls - the template for future European resolutions. Bitcoin peaked near $1,150 in December then fell 80%. FX benchmark rigging probes opened. In India, NSEL defaulted on Rs 5,600 crore of settlements and the Saradha chit-fund collapse hit Rs 2,500 crore.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Cyprus",
+   "Global",
+   "India"
+  ]
  },
  {
   "year": 2014,
@@ -2748,7 +3671,13 @@ window.CRISIS_EVENTS = [
   "category": "Fraud / Banking crisis",
   "geography": "Japan / Portugal / Brazil / Global",
   "summary": "Mt. Gox, handling roughly 70% of Bitcoin volume, lost 850,000 BTC and failed. Banco Espirito Santo was resolved in August. Regulators fined six banks $4.3bn in November for FX benchmark collusion. Brazil's Lava Jato investigation exposed a systematic kickback scheme at Petrobras estimated in the billions.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Japan",
+   "Portugal",
+   "Brazil",
+   "Global"
+  ]
  },
  {
   "year": 2015,
@@ -2758,7 +3687,13 @@ window.CRISIS_EVENTS = [
   "category": "Bubble collapse / Fraud",
   "geography": "China / Switzerland / Japan / Malaysia",
   "summary": "The Shanghai Composite fell 43% in weeks after a margin-fuelled retail mania; roughly $5tn was wiped out and half the market suspended trading. The SNB abandoned the euro peg on 15 January, wiping out retail FX brokers within minutes. Toshiba admitted overstating profits by JPY 152bn over seven years. The 1MDB scandal surfaced in Malaysia (~$4.5bn). Greece imposed capital controls in June.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "China",
+   "Switzerland",
+   "Japan",
+   "Malaysia"
+  ]
  },
  {
   "year": 2016,
@@ -2768,7 +3703,12 @@ window.CRISIS_EVENTS = [
   "category": "Conduct fraud / Leak",
   "geography": "USA / Global / UK",
   "summary": "Wells Fargo staff had opened some 3.5m unauthorised accounts under sales-quota pressure; fines eventually exceeded $3bn. The Panama Papers leaked 11.5m Mossack Fonseca documents, felling leaders in several countries. The Brexit vote on 24 June wiped an estimated $2tn off global equities in a day.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "USA",
+   "Global",
+   "UK"
+  ]
  },
  {
   "year": 2017,
@@ -2778,7 +3718,12 @@ window.CRISIS_EVENTS = [
   "category": "Accounting fraud / Bubble",
   "geography": "South Africa / Spain / Global",
   "summary": "Steinhoff's CEO resigned and the shares fell over 95% in days; roughly EUR 6.5bn of overstated profits over eight years - Europe's largest corporate fraud since Parmalat. Banco Popular was resolved overnight in June under the SRB, wiping out shareholders and juniors. ICO issuance exploded and Bitcoin peaked at $19,783 in December.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "South Africa",
+   "Spain",
+   "Global"
+  ]
  },
  {
   "year": 2018,
@@ -2788,7 +3733,12 @@ window.CRISIS_EVENTS = [
   "category": "Fraud / Credit crisis",
   "geography": "Global / India / Denmark",
   "summary": "Bitcoin fell 73% and most ICOs went to zero. Punjab National Bank disclosed a Rs 14,357 crore (~$2bn) letter-of-undertaking fraud by Nirav Modi and Mehul Choksi - India's largest banking fraud. IL&FS defaulted in September, triggering a systemic NBFC liquidity crisis in India. Danske Bank's Estonian branch was found to have processed about EUR 200bn of suspicious flows. On 5 February the XIV inverse-volatility ETN was terminated after a 90% one-day loss.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Global",
+   "India",
+   "Denmark"
+  ]
  },
  {
   "year": 2019,
@@ -2798,7 +3748,13 @@ window.CRISIS_EVENTS = [
   "category": "Liquidity / Fraud",
   "geography": "UK / USA / India / UAE",
   "summary": "Neil Woodford's GBP 3.7bn Equity Income fund was suspended over illiquid holdings and never reopened. WeWork's valuation fell from $47bn to about $8bn and the IPO was pulled. US overnight repo spiked to 10% on 17 September, forcing Fed intervention. Abraaj Group, the largest Middle East PE firm, collapsed over misuse of fund money. In India, DHFL defaulted and PMC Bank was placed under moratorium.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "UK",
+   "USA",
+   "India",
+   "UAE"
+  ]
  },
  {
   "year": 2020,
@@ -2808,7 +3764,13 @@ window.CRISIS_EVENTS = [
   "category": "Systemic shock / Fraud",
   "geography": "Global / Germany / China / India",
   "summary": "The fastest 30% equity decline in history, with four circuit-breaker halts in March, followed by unprecedented central bank intervention. WTI for May delivery settled at minus $37.63 on 20 April, the first negative oil price. Wirecard admitted EUR 1.9bn of cash 'did not exist' - Germany's biggest post-war fraud, with the COO still a fugitive. Luckin Coffee fabricated $310m of sales. NMC Health collapsed with $4bn of hidden debt. In India, Yes Bank was placed under moratorium and rescued in March, and Franklin Templeton wound up six debt schemes holding about Rs 25,000 crore in April.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Global",
+   "Germany",
+   "China",
+   "India"
+  ]
  },
  {
   "year": 2021,
@@ -2818,7 +3780,12 @@ window.CRISIS_EVENTS = [
   "category": "Leverage / Fraud / Bubble",
   "geography": "USA / UK / China",
   "summary": "Archegos' concealed total-return-swap leverage cost banks over $10bn, with Credit Suisse alone losing $5.5bn. Greensill Capital's supply-chain finance model collapsed, gating $10bn of CS funds. The GameStop squeeze in January broke Melvin Capital. Evergrande defaulted in December with over $300bn of liabilities, opening China's property crisis. Bitcoin peaked at $69,000 in November amid an NFT and SPAC mania (613 SPAC IPOs in the year).",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "USA",
+   "UK",
+   "China"
+  ]
  },
  {
   "year": 2022,
@@ -2828,7 +3795,12 @@ window.CRISIS_EVENTS = [
   "category": "Crypto collapse / Pension crisis",
   "geography": "Global / UK / Sri Lanka",
   "summary": "The UST algorithmic stablecoin depegged and roughly $45bn evaporated in days, taking down Three Arrows Capital and Celsius. FTX collapsed in November with about $8bn of customer funds missing; Sam Bankman-Fried was later convicted on seven counts. The UK mini-budget on 23 September triggered a gilt rout that nearly destroyed liability-driven investment pension strategies, forcing emergency Bank of England buying. Sri Lanka defaulted in May.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "Global",
+   "UK",
+   "Sri Lanka"
+  ]
  },
  {
   "year": 2023,
@@ -2838,7 +3810,13 @@ window.CRISIS_EVENTS = [
   "category": "Banking crisis / Short-seller attack",
   "geography": "USA / Switzerland / India / Brazil",
   "summary": "Silicon Valley Bank failed in 48 hours ($209bn) on unhedged duration risk and a digitally accelerated run; Signature Bank followed; First Republic ($229bn) was seized on 1 May. UBS was pushed into acquiring the 167-year-old Credit Suisse on 19 March, with $17bn of AT1 bonds written to zero ahead of equity. In India, the Hindenburg report on 24 January triggered a fall of roughly $150bn in Adani group market value. Americanas in Brazil disclosed a R$25bn accounting hole. Binance and CZ pleaded guilty to a $4.3bn US settlement in November.",
-  "severity": 5
+  "severity": 5,
+  "countries": [
+   "USA",
+   "Switzerland",
+   "India",
+   "Brazil"
+  ]
  },
  {
   "year": 2024,
@@ -2848,7 +3826,13 @@ window.CRISIS_EVENTS = [
   "category": "Deleveraging / Fraud",
   "geography": "Japan / USA / China / India",
   "summary": "A BoJ rate rise triggered a global carry-trade unwind; the Nikkei fell 12.4% on 5 August, its worst day since 1987. New York Community Bancorp's commercial-real-estate losses reopened the US regional bank question. Evergrande was ordered liquidated on 29 January. Synapse's failure in April froze fintech customer deposits, exposing banking-as-a-service risk. TD Bank pleaded guilty to money laundering and paid $3.09bn in October. US prosecutors indicted Gautam Adani and others on bribery charges in November. Super Micro's auditor resigned in October.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Japan",
+   "USA",
+   "China",
+   "India"
+  ]
  },
  {
   "year": 2025,
@@ -2858,7 +3842,13 @@ window.CRISIS_EVENTS = [
   "category": "Policy shock / Credit fraud",
   "geography": "Global / USA / Brazil / India",
   "summary": "The 2 April tariff announcement triggered a week-long global crash - the S&P fell 6% on 4 April, its worst run since 2020 - before a 9 April pause reversed it. In September, subprime auto lender Tricolor Holdings and auto-parts group First Brands collapsed within weeks, both amid allegations of double-pledged collateral and undisclosed off-balance-sheet financing; the episode put private credit, supply-chain finance and bank warehouse lines under regulatory scrutiny worldwide. In Brazil, Banco Master was liquidated and its controlling shareholder arrested in November in what has been called the country's largest banking fraud. In India, SEBI barred Jane Street over index manipulation with a Rs 4,843 crore disgorgement in July, IndusInd Bank disclosed a Rs 1,979 crore derivatives accounting lapse in March, and Gensol Engineering promoters were barred for fund diversion in April.",
-  "severity": 4
+  "severity": 4,
+  "countries": [
+   "Global",
+   "USA",
+   "Brazil",
+   "India"
+  ]
  },
  {
   "year": 2026,
@@ -2868,6 +3858,9 @@ window.CRISIS_EVENTS = [
   "category": "Suspected bubble / Ongoing",
   "geography": "Global",
   "summary": "As at July 2026 no crash has occurred, but the conditions are widely flagged. The cyclically adjusted P/E stood near 39.8 against a long-run average of about 17.7 and the top ten S&P 500 names exceeded a third of the index. A viral Citrini Research report on a hypothetical 2028 AI-driven crisis contributed to a sharp one-day S&P 500 fall in late February; a tariff-threat selloff hit on 20 January; ECB economists publicly warned of a likely correction. Regulators including the Bank of England ran stress tests on private credit after the 2025 failures. Smaller incidents: a $26m DeFi exploit at Truebit in January, a Europol takedown of a EUR 700m crypto fraud network in January, and a SEBI warning in July on AI deepfake executive-impersonation fraud at listed companies.",
-  "severity": 3
+  "severity": 3,
+  "countries": [
+   "Global"
+  ]
  }
 ];

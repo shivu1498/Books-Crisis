@@ -11,7 +11,7 @@ Open `index.html` directly in a browser, or serve the folder with any static hos
 ## Layout
 
 - `index.html`, `assets/styles.css`, `assets/app.js`: the site.
-- `data/events.js`: every row of the register, generated from the workbook.
+- `data/events.js`: every event in the register, generated from the workbook, with country tags (historical states and cities mapped to modern countries in `scripts/import_events.py`).
 - `data/links.js`: curated research links keyed by year.
 - `data/crashes.js`: key index levels, reports and headlines for the Crashes tab.
 - `data/news.js`: up to three news reports per event, from the references of its Wikipedia article.

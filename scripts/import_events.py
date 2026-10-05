@@ -4,6 +4,7 @@ Usage: python3 scripts/import_events.py [path/to/workbook.xlsx]
 Requires openpyxl.
 """
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -14,6 +15,49 @@ DEFAULT_SRC = ROOT / "data/source/Financial_Crises_Bubbles_and_Scandals_0800_202
 
 # Years left off the site at the owner's request.
 EXCLUDE_YEARS = set(range(800, 811)) | set(range(812, 845)) | set(range(847, 866)) | {867, 868}
+
+# Geography text -> country tags. Historical polities and cities map to the modern country;
+# multi-country regions keep a region tag. Anything not listed is used as written.
+COUNTRY_MAP = {
+    "Abbasid Caliphate": "Iraq",
+    "Abbasid Caliphate (Iraq)": "Iraq",
+    "Antwerp": "Belgium",
+    "Aragon (Spain)": "Spain",
+    "Augsburg": "Germany",
+    "Burgundy": "France",
+    "Byzantine Empire": "Turkey",
+    "Delhi Sultanate (India)": "India",
+    "Fatimid Egypt": "Egypt",
+    "England": "UK",
+    "Florence": "Italy",
+    "Genoa": "Italy",
+    "Lucca": "Italy",
+    "Pisa": "Italy",
+    "Siena": "Italy",
+    "Venice": "Italy",
+    "Rome": "Italy",
+    "Papacy": "Italy",
+    "Holy Roman Empire": "Germany",
+    "Ilkhanate": "Iran",
+    "Persia": "Iran",
+    "Low Countries": "Netherlands",
+    "North China": "China",
+    "Levant": "Middle East",
+    "Mongol Empire": "Central Asia",
+}
+
+
+def country_tags(geography):
+    tags = []
+    for part in re.split(r"\s*/\s*|\s*,\s*|\s+and\s+|\s*;\s*", geography or ""):
+        part = part.strip()
+        if not part or part == "-":
+            continue
+        tag = COUNTRY_MAP.get(part, part)
+        if tag not in tags:
+            tags.append(tag)
+    return tags
+
 
 COLUMNS = ["year", "era", "status", "title", "category", "geography", "summary", "severity"]
 
@@ -47,6 +91,7 @@ def main():
         rec["status"] = "event" if str(rec["status"]).upper() == "EVENT" else "quiet"
         for key in ("era", "title", "category", "geography", "summary"):
             rec[key] = clean(rec[key]) or ""
+        rec["countries"] = country_tags(rec["geography"])
         events.append(rec)
 
     events.sort(key=lambda e: e["year"])

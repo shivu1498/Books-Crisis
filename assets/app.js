@@ -9,7 +9,7 @@
     if (ERAS.indexOf(e.era) === -1) ERAS.push(e.era);
   });
 
-  var state = { era: "", q: "", minSev: 0, category: "", limit: PAGE };
+  var state = { era: "", q: "", minSev: 0, category: "", country: "", limit: PAGE };
 
   // Calendar span of each era (from the workbook legend), used for "% of years with an event".
   var ERA_YEARS = {
@@ -38,6 +38,21 @@
     if (span) return span[0] + "–" + span[1];
     var years = EVENTS.filter(function (e) { return e.era === era; }).map(function (e) { return e.year; });
     return Math.min.apply(null, years) + "–" + Math.max.apply(null, years);
+  }
+
+  // ---- Country tags ----
+  function countryTags(e) {
+    return '<span class="tags" title="' + esc(e.geography) + '">' + (e.countries || []).map(function (c) {
+      return '<span class="tag">' + esc(c) + "</span>";
+    }).join("") + "</span>";
+  }
+
+  function fillCountrySelect(sel, events) {
+    var counts = {};
+    events.forEach(function (e) { (e.countries || []).forEach(function (c) { counts[c] = (counts[c] || 0) + 1; }); });
+    sel.insertAdjacentHTML("beforeend", Object.keys(counts).sort(function (a, b) {
+      return counts[b] - counts[a] || a.localeCompare(b);
+    }).map(function (c) { return '<option value="' + esc(c) + '">' + esc(c) + " (" + counts[c] + ")</option>"; }).join(""));
   }
 
   function categoriesOf(e) {
@@ -114,8 +129,9 @@
       if (state.era && e.era !== state.era) return false;
       if (e.severity < state.minSev) return false;
       if (state.category && categoriesOf(e).indexOf(state.category) === -1) return false;
+      if (state.country && (e.countries || []).indexOf(state.country) === -1) return false;
       if (q) {
-        var hay = (e.year + " " + e.title + " " + e.category + " " + e.geography + " " + e.summary).toLowerCase();
+        var hay = (e.year + " " + e.title + " " + e.category + " " + e.geography + " " + (e.countries || []).join(" ") + " " + e.summary).toLowerCase();
         if (hay.indexOf(q) === -1) return false;
       }
       return true;
@@ -178,7 +194,7 @@
   function rowHtml(e) {
     var meta = [];
     if (e.category) meta.push('<span class="cat">' + esc(e.category) + "</span>");
-    if (e.geography) meta.push("<span>" + esc(e.geography) + "</span>");
+    if (e.countries && e.countries.length) meta.push(countryTags(e));
     meta.push("<span>" + esc(shortEra(e.era)) + "</span>");
     return '<article class="row ' + e.status + '">' +
       '<div class="row-year">' + e.year + "</div>" +
@@ -214,6 +230,7 @@
     $("search").addEventListener("input", function (ev) { state.q = ev.target.value; state.limit = PAGE; render(); });
     $("min-sev").addEventListener("change", function (ev) { state.minSev = +ev.target.value; state.limit = PAGE; render(); });
     $("category").addEventListener("change", function (ev) { state.category = ev.target.value; state.limit = PAGE; render(); });
+    $("country").addEventListener("change", function (ev) { state.country = ev.target.value; state.limit = PAGE; render(); });
   }
 
   // ---- Eras tab: half-century summary (mirrors the workbook's Period Summary sheet) ----
@@ -493,25 +510,29 @@
           }).join("") + "</ul>"
         : "";
       var study = studies[e.year] ? '<a class="study-link" href="#crashes" data-study="' + e.year + '">Detailed crash study &rarr;</a>' : "";
-      return '<article class="impact" data-year="' + e.year + '" data-sev="' + e.severity + '" data-charted="' + (charted(e) ? 1 : 0) + '">' +
+      return '<article class="impact" data-year="' + e.year + '" data-sev="' + e.severity + '" data-charted="' + (charted(e) ? 1 : 0) +
+        '" data-countries="' + esc((e.countries || []).join("|")) + '">' +
         '<header><span class="impact-year">' + e.year + '</span><span class="sev sev-' + e.severity + '">' + e.severity + "</span>" +
         '<h3>' + esc(e.title) + "</h3></header>" +
-        '<div class="row-meta"><span class="cat">' + esc(e.category) + "</span><span>" + esc(e.geography) + "</span>" + study + "</div>" +
+        '<div class="row-meta"><span class="cat">' + esc(e.category) + "</span>" + countryTags(e) + study + "</div>" +
         body + newsHtml + "</article>";
     });
     var list = $("impact-list");
     list.innerHTML = cards.join("");
 
     function applyFilter() {
-      var f = $("impact-filter").value, min = +$("impact-sev").value;
+      var f = $("impact-filter").value, min = +$("impact-sev").value, country = $("impact-country").value;
       Array.prototype.forEach.call(list.children, function (el) {
         var ok = +el.getAttribute("data-sev") >= min &&
+          (!country || el.getAttribute("data-countries").split("|").indexOf(country) !== -1) &&
           (!f || (f === "charted") === (el.getAttribute("data-charted") === "1"));
         el.hidden = !ok;
       });
     }
     $("impact-filter").addEventListener("change", applyFilter);
     $("impact-sev").addEventListener("change", applyFilter);
+    fillCountrySelect($("impact-country"), events);
+    $("impact-country").addEventListener("change", applyFilter);
 
     function showView(view) {
       $("impact-all").hidden = view !== "all";
@@ -595,6 +616,7 @@
   buildTicker();
   buildEraTabs();
   buildCategoryFilter();
+  fillCountrySelect($("country"), EVENTS);
   bindControls();
   buildPeriods();
   buildCrashes();

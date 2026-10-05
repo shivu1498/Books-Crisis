@@ -18,6 +18,7 @@ for (const e of events) {
   if (!["event", "quiet"].includes(e.status)) fail(`${e.year}: bad status ${e.status}`);
   if (!Number.isInteger(e.severity) || e.severity < 0 || e.severity > 5) fail(`${e.year}: bad severity ${e.severity}`);
   if (!e.title || !e.era || !e.summary) fail(`${e.year}: missing title, era or summary`);
+  if (!Array.isArray(e.countries) || !e.countries.length) fail(`${e.year}: no country tags`);
   if (e.status === "event" && e.severity === 0) fail(`${e.year}: event with severity 0`);
 }
 
