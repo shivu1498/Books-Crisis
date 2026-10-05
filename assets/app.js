@@ -578,6 +578,43 @@
     });
   }
 
+  // ---- Theme switcher ----
+  var THEMES = { black: "BLACK", white: "WHITE", trypan: "TRYPAN BLUE", orange: "APOCALYPTIC ORANGE" };
+
+  function applyTheme(name) {
+    if (!THEMES[name]) name = "black";
+    if (name === "black") document.documentElement.removeAttribute("data-theme");
+    else document.documentElement.setAttribute("data-theme", name);
+    $("theme-name").textContent = THEMES[name];
+    $("theme-dot").className = "pill-dot swatch-" + name;
+    Array.prototype.forEach.call($("theme-menu").children, function (b) {
+      b.setAttribute("aria-checked", b.getAttribute("data-theme") === name ? "true" : "false");
+    });
+  }
+
+  function buildThemeSwitcher() {
+    var saved = "black";
+    try { saved = localStorage.getItem("crisis-theme") || "black"; } catch (e) {}
+    applyTheme(saved);
+    var btn = $("theme-btn"), menu = $("theme-menu");
+    var close = function () { menu.hidden = true; btn.setAttribute("aria-expanded", "false"); };
+    btn.addEventListener("click", function (ev) {
+      ev.stopPropagation();
+      menu.hidden = !menu.hidden;
+      btn.setAttribute("aria-expanded", String(!menu.hidden));
+    });
+    menu.addEventListener("click", function (ev) {
+      var b = ev.target.closest("button");
+      if (!b) return;
+      var name = b.getAttribute("data-theme");
+      applyTheme(name);
+      try { localStorage.setItem("crisis-theme", name); } catch (e) {}
+      close();
+    });
+    document.addEventListener("click", close);
+    document.addEventListener("keydown", function (ev) { if (ev.key === "Escape") close(); });
+  }
+
   // ---- Tabs, clock, status bar ----
   function route() {
     var tab = (location.hash || "#events").slice(1);
@@ -622,6 +659,7 @@
   buildCrashes();
   buildImpact();
   buildStatus();
+  buildThemeSwitcher();
   window.addEventListener("hashchange", route);
   route();
   render();

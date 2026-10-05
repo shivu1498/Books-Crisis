@@ -9,6 +9,13 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/styles.css">
+  <script>
+    // Apply the saved theme before first paint.
+    try {
+      var t = localStorage.getItem("crisis-theme");
+      if (t && t !== "black") document.documentElement.setAttribute("data-theme", t);
+    } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="topbar">
@@ -18,7 +25,15 @@
     </div>
     <div class="topbar-right">
       <span class="clock" id="clock">--:--:--</span>
-      <span class="pill"><span class="pill-dot"></span>BLACK</span>
+      <div class="theme-wrap">
+        <button class="pill" id="theme-btn" aria-haspopup="menu" aria-expanded="false"><span class="pill-dot" id="theme-dot"></span><span id="theme-name">BLACK</span></button>
+        <div class="theme-menu" id="theme-menu" role="menu" hidden>
+          <button role="menuitemradio" data-theme="black"><span class="pill-dot swatch-black"></span>Black</button>
+          <button role="menuitemradio" data-theme="white"><span class="pill-dot swatch-white"></span>White</button>
+          <button role="menuitemradio" data-theme="trypan"><span class="pill-dot swatch-trypan"></span>Trypan Blue</button>
+          <button role="menuitemradio" data-theme="orange"><span class="pill-dot swatch-orange"></span>Apocalyptic Orange</button>
+        </div>
+      </div>
     </div>
   </header>
 
