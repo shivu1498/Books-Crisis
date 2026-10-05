@@ -197,6 +197,14 @@ window.CRISIS_NEWS = {
    "url": "https://openculture.com/2018/01/how-isaac-newton-lost-3-million-dollars-in-the-south-sea-bubble-of-1720-even-geniuses-cant-prevail-against-the-machinations-of-the-markets.html"
   }
  ],
+ "1745": [
+  {
+   "title": "Cashier's diary, 1745",
+   "outlet": "NatWest Group Heritage Hub",
+   "date": "",
+   "url": "https://www.natwestgroup.com/heritage/history-100/objects-by-theme/times-of-turmoil/cashiers-diary-1745.html"
+  }
+ ],
  "1763": [
   {
    "title": "Lessons from 1763 - the central bank as lender of last resort (speech by Steven Maijoor)",
@@ -233,6 +241,20 @@ window.CRISIS_NEWS = {
    "outlet": "The New York Times",
    "date": "1862-01-27",
    "url": "https://www.nytimes.com/1862/01/27/archives/war-finance-in-england-the-bank-restriction-act-of-1797suspension.html"
+  }
+ ],
+ "1816": [
+  {
+   "title": "Crisis Chronicles: The Crisis of 1816, the Year without a Summer, and Sunspot Equilibria",
+   "outlet": "Liberty Street Economics (New York Fed)",
+   "date": "2014-10",
+   "url": "https://libertystreeteconomics.newyorkfed.org/2014/10/crisis-chronicles-the-crisis-of-1816-the-year-without-a-summer-and-sunspot-equilibria"
+  },
+  {
+   "title": "Story Behind the Numbers: The Year 1816",
+   "outlet": "History News Network",
+   "date": "",
+   "url": "https://www.historynewsnetwork.org/article/22516"
   }
  ],
  "1819": [
@@ -299,6 +321,28 @@ window.CRISIS_NEWS = {
    "url": "https://university.open.ac.uk/research-centres/herc/blog/policing-first-global-financial-crisis-remembering-1825-panic"
   }
  ],
+ "1832": [
+  {
+   "title": "Andrew Jackson shuts down Second Bank of the U.S.",
+   "outlet": "History.com",
+   "date": "",
+   "url": "https://www.history.com/this-day-in-history/july-10/andrew-jackson-shuts-down-second-bank-of-the-u-s"
+  }
+ ],
+ "1836": [
+  {
+   "title": "John Steele Gordon: Speculators, Politicians, and Financial Disasters",
+   "outlet": "History News Network",
+   "date": "",
+   "url": "https://www.historynewsnetwork.org/article/56487"
+  },
+  {
+   "title": "Land Boom of 1836 and Panic of 1837",
+   "outlet": "Progress.org",
+   "date": "",
+   "url": "https://www.progress.org/wiki/panic-of-1837/"
+  }
+ ],
  "1837": [
   {
    "title": "Crisis Chronicles: The Man on the Twenty-Dollar Bill and the Panic of 1837",
@@ -313,6 +357,40 @@ window.CRISIS_NEWS = {
    "url": "https://www.advisorperspectives.com/articles/2022/01/17/andrew-jackson-shortens-the-credit-chain"
   }
  ],
+ "1839": [
+  {
+   "title": "How Mississippi Defaulted On $7 Million Worth Of Bonds In 1841",
+   "outlet": "NPR",
+   "date": "2015-07-01",
+   "url": "https://www.wfae.org/2015-07-01/how-mississippi-defaulted-on-7-million-worth-of-bonds-in-1841"
+  },
+  {
+   "title": "Merchants' Magazine and Commercial Review, October 1839",
+   "outlet": "Hunt's Merchants' Magazine (via FRASER)",
+   "date": "1839-10",
+   "url": "https://fraser.stlouisfed.org/title/merchants-magazine-commercial-review-5733/october-1839-576928"
+  }
+ ],
+ "1841": [
+  {
+   "title": "How Mississippi Defaulted On $7 Million Worth Of Bonds In 1841",
+   "outlet": "NPR",
+   "date": "2015-07-01",
+   "url": "https://www.wfae.org/2015-07-01/how-mississippi-defaulted-on-7-million-worth-of-bonds-in-1841"
+  },
+  {
+   "title": "Old Money: Tossing a drachma — referendums and repudiation",
+   "outlet": "GlobalCapital",
+   "date": "",
+   "url": "https://www.globalcapital.com/article/28mxubzutkefnfmo869z4/ssa/old-money-tossing-a-drachma-referendums-and-repudiation"
+  },
+  {
+   "title": "Echoes of a broken promise",
+   "outlet": "WSHU",
+   "date": "2026-01-29",
+   "url": "https://www.wshu.org/news/2026-01-29/echoes-of-a-broken-promise"
+  }
+ ],
  "1845": [
   {
    "title": "Railway mania",
@@ -325,6 +403,12 @@ window.CRISIS_NEWS = {
    "outlet": "FocusEconomics",
    "date": "",
    "url": "https://focus-economics.com/blog/railway-mania-the-largest-speculative-bubble-you-never-heard-of/"
+  },
+  {
+   "title": "Crisis Chronicles: Railway Mania, the Hungry Forties, and the Commercial Crisis of 1847",
+   "outlet": "Liberty Street Economics (New York Fed)",
+   "date": "2015-06",
+   "url": "https://libertystreeteconomics.newyorkfed.org/2015/06/crisis-chronicles-railway-mania-the-hungry-forties-and-the-commercial-crisis-of-1847"
   }
  ],
  "1846": [
@@ -333,6 +417,20 @@ window.CRISIS_NEWS = {
    "outlet": "FocusEconomics",
    "date": "",
    "url": "https://focus-economics.com/blog/railway-mania-the-largest-speculative-bubble-you-never-heard-of/"
+  },
+  {
+   "title": "Crisis Chronicles: Railway Mania, the Hungry Forties, and the Commercial Crisis of 1847",
+   "outlet": "Liberty Street Economics (New York Fed)",
+   "date": "2015-06",
+   "url": "https://libertystreeteconomics.newyorkfed.org/2015/06/crisis-chronicles-railway-mania-the-hungry-forties-and-the-commercial-crisis-of-1847"
+  }
+ ],
+ "1847": [
+  {
+   "title": "Crisis Chronicles: Railway Mania, the Hungry Forties, and the Commercial Crisis of 1847",
+   "outlet": "Liberty Street Economics (New York Fed)",
+   "date": "2015-06",
+   "url": "https://libertystreeteconomics.newyorkfed.org/2015/06/crisis-chronicles-railway-mania-the-hungry-forties-and-the-commercial-crisis-of-1847"
   }
  ],
  "1849": [
@@ -357,6 +455,36 @@ window.CRISIS_NEWS = {
    "outlet": "Ohio Memory (Ohio History Connection)",
    "date": "",
    "url": "https://ohiomemory.ohiohistory.org/archives/1325"
+  }
+ ],
+ "1861": [
+  {
+   "title": "Paper Money, Taxes, and War",
+   "outlet": "The Free Market (Mises Institute)",
+   "date": "",
+   "url": "https://mises.org/free-market/paper-money-taxes-and-war"
+  }
+ ],
+ "1863": [
+  {
+   "title": "Cotton, Speculation and the Birth of Modern Bombay's Financial System",
+   "outlet": "Basis Point Insight",
+   "date": "",
+   "url": "https://basispointinsight.com/Story/cotton--speculation-and-the-birth-of-modern-bombay-s-financial-system_3ba7c11a1e62.html"
+  }
+ ],
+ "1864": [
+  {
+   "title": "Cotton, Speculation and the Birth of Modern Bombay's Financial System",
+   "outlet": "Basis Point Insight",
+   "date": "",
+   "url": "https://basispointinsight.com/Story/cotton--speculation-and-the-birth-of-modern-bombay-s-financial-system_3ba7c11a1e62.html"
+  },
+  {
+   "title": "150 years later",
+   "outlet": "Business Standard",
+   "date": "2015-07-10",
+   "url": "https://www.business-standard.com/article/beyond-business/150-years-later-115071001354_1.html"
   }
  ],
  "1865": [
@@ -423,6 +551,12 @@ window.CRISIS_NEWS = {
    "outlet": "City Room (New York Times)",
    "date": "2008-10-14",
    "url": "https://cityroom.blogs.nytimes.com/2008/10/14/learning-lessons-from-the-panic-of-1873/"
+  },
+  {
+   "title": "This week in history: The panic of 1873",
+   "outlet": "MoneyWeek",
+   "date": "",
+   "url": "https://moneyweek.com/274669/week-1873-panic-1873"
   }
  ],
  "1878": [
@@ -437,6 +571,12 @@ window.CRISIS_NEWS = {
    "outlet": "Otago Daily Times",
    "date": "1878-11-28",
    "url": "https://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&d=ODT18781128.1.2&e=-------10--1----0STOCKHOLDERS+OF+CITY+OF+GLASGOW+BANK--"
+  },
+  {
+   "title": "Commercial & Financial Chronicle, October 26, 1878",
+   "outlet": "Commercial & Financial Chronicle (via FRASER)",
+   "date": "1878-10-26",
+   "url": "https://fraser.stlouisfed.org/files/docs/publications/cfc/cfc_18781026_1.pdf"
   }
  ],
  "1882": [
@@ -453,6 +593,18 @@ window.CRISIS_NEWS = {
    "outlet": "The New York Times",
    "date": "2012-05-13",
    "url": "https://www.nytimes.com/2012/05/14/books/a-disposition-to-be-rich-by-geoffrey-c-ward.html"
+  },
+  {
+   "title": "The Failure of Grant & Ward: A Cautionary Tale",
+   "outlet": "National Park Service",
+   "date": "",
+   "url": "https://www.nps.gov/articles/000/the-failure-of-grant-ward-a-cautionary-tale.htm"
+  },
+  {
+   "title": "1884: One Hundred Years Ago",
+   "outlet": "American Heritage",
+   "date": "1984",
+   "url": "https://www.americanheritage.com/1884-one-hundred-years-ago-1"
   }
  ],
  "1889": [
@@ -497,6 +649,26 @@ window.CRISIS_NEWS = {
    "url": "https://query.nytimes.com/gst/abstract.html?res=9B0DE5D6153CE433A25753C3A9659C94669ED7CF"
   }
  ],
+ "1893": [
+  {
+   "title": "Panic of 1893: Seattle's First Great Depression",
+   "outlet": "HistoryLink",
+   "date": "",
+   "url": "https://www.historylink.org/file/2030"
+  },
+  {
+   "title": "Panic of 1893 and Its Aftermath",
+   "outlet": "HistoryLink",
+   "date": "",
+   "url": "https://www.historylink.org/file/20874"
+  },
+  {
+   "title": "Crisis Chronicles: Gold, Deflation, and the Panic of 1893",
+   "outlet": "Liberty Street Economics (New York Fed)",
+   "date": "",
+   "url": "https://fraser.stlouisfed.org/title/liberty-street-economics-9884/crisis-chronicles-gold-deflation-panic-1893-733533"
+  }
+ ],
  "1895": [
   {
    "title": "Golden Touch",
@@ -523,6 +695,26 @@ window.CRISIS_NEWS = {
    "outlet": "American Heritage",
    "date": "1989-08",
    "url": "https://www.americanheritage.com/jacob-schiff-and-northern-pacific-corner"
+  },
+  {
+   "title": "Northern Pacific: the most famous stock corner in history",
+   "outlet": "Global Financial Data",
+   "date": "",
+   "url": "https://globalfinancialdata.com/complete-histories-northern-pacific-the-most-famous-stock-corner-in-history"
+  }
+ ],
+ "1903": [
+  {
+   "title": "Commercial & Financial Chronicle, August 29, 1903",
+   "outlet": "Commercial & Financial Chronicle (via FRASER)",
+   "date": "1903-08-29",
+   "url": "https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/august-29-1903-536363"
+  },
+  {
+   "title": "Commercial & Financial Chronicle, April 11, 1903",
+   "outlet": "Commercial & Financial Chronicle (via FRASER)",
+   "date": "1903-04-11",
+   "url": "https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/april-11-1903-536334"
   }
  ],
  "1907": [
@@ -551,6 +743,12 @@ window.CRISIS_NEWS = {
    "outlet": "The New York Times",
    "date": "1913-01-12",
    "url": "https://timesmachine.nytimes.com/timesmachine/1913/01/12/100604553.pdf"
+  },
+  {
+   "title": "Money Trust Investigation: hearings, Part 1",
+   "outlet": "US House Banking and Currency Committee (via FRASER)",
+   "date": "1912",
+   "url": "https://fraser.stlouisfed.org/title/money-trust-investigation-80/part-1-23658"
   }
  ],
  "1914": [
@@ -565,6 +763,12 @@ window.CRISIS_NEWS = {
    "outlet": "The Guardian",
    "date": "2014-07-06",
    "url": "https://www.theguardian.com/business/economics-blog/2014/jul/06/july-1914-crisis-economic-rebirth-lessons-global-economy"
+  },
+  {
+   "title": "August 1914: When Global Stock Markets Closed",
+   "outlet": "Global Financial Data",
+   "date": "",
+   "url": "https://globalfinancialdata.com/august-1914-when-global-stock-markets-closed-2"
   }
  ],
  "1918": [
@@ -675,6 +879,14 @@ window.CRISIS_NEWS = {
    "outlet": "American Heritage",
    "date": "1990-05",
    "url": "https://www.americanheritage.com/content/tropical-twenties"
+  }
+ ],
+ "1928": [
+  {
+   "title": "Commercial & Financial Chronicle, May 5, 1928",
+   "outlet": "Commercial & Financial Chronicle (via FRASER)",
+   "date": "1928-05-05",
+   "url": "https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/may-5-1928-517007"
   }
  ],
  "1929": [
@@ -803,6 +1015,26 @@ window.CRISIS_NEWS = {
    "outlet": "The New York Times",
    "date": "1938-10-28",
    "url": "https://timesmachine.nytimes.com/timesmachine/1938/10/28/98204259.pdf"
+  }
+ ],
+ "1939": [
+  {
+   "title": "Commercial & Financial Chronicle, October 14, 1939",
+   "outlet": "Commercial & Financial Chronicle (via FRASER)",
+   "date": "1939-10-14",
+   "url": "https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/october-14-1939-553100"
+  },
+  {
+   "title": "The Dow Drops With War on the Horizon",
+   "outlet": "The Motley Fool",
+   "date": "2013-01-23",
+   "url": "https://www.fool.com/investing/general/2013/01/23/the-dow-drops-with-war-on-the-horizon.aspx"
+  },
+  {
+   "title": "A Blitz Strangles the Bull Market",
+   "outlet": "AOL (The Motley Fool)",
+   "date": "2012-09-12",
+   "url": "https://www.aol.com/news/2012-09-12-a-blitz-strangles-the-bull-market.html"
   }
  ],
  "1946": [
