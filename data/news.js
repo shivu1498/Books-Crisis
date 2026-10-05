@@ -1,12 +1,38 @@
 // Up to three news reports per event year, taken from the references of the event's Wikipedia article.
 // Some are retrospectives rather than reports from the time.
 window.CRISIS_NEWS = {
+ "1609": [
+  {
+   "title": "How a Dutch trading company started the world's first stock exchange",
+   "outlet": "Euronews",
+   "date": "2025-04-13",
+   "url": "https://www.euronews.com/2025/04/13/how-a-dutch-trading-company-started-the-worlds-first-stock-exchange"
+  },
+  {
+   "title": "In Defense of Short Selling",
+   "outlet": "The Big Picture",
+   "date": "2008-08",
+   "url": "https://ritholtz.com/2008/08/in-defense-of-short-selling"
+  },
+  {
+   "title": "Short-selling is as Old as Financial Markets",
+   "outlet": "Kent A. Clark Center",
+   "date": "",
+   "url": "https://kentclarkcenter.org/shorting-selling-is-as-old-as-financial-markets/"
+  }
+ ],
  "1618": [
   {
    "title": "'Kipper und Wipper'. Rogue Traders, Rogue Princes, Rogue Bishops and the German Financial Meltdown of 1621–23",
    "outlet": "Smithsonian Magazine",
    "date": "2012-03-29",
    "url": "https://blogs.smithsonianmag.com/history/2012/03/%E2%80%9Ckipper-und-wipper%E2%80%9D-rogue-traders-rogue-princes-rogue-bishops-and-the-german-financial-meltdown-of-1621-23/"
+  },
+  {
+   "title": "How to Raise an Army by Debasing Your Currency and Screwing Your Neighbor",
+   "outlet": "Atlas Obscura",
+   "date": "",
+   "url": "https://www.atlasobscura.com/articles/kipper-und-wipper"
   }
  ],
  "1619": [
@@ -15,6 +41,12 @@ window.CRISIS_NEWS = {
    "outlet": "Smithsonian Magazine",
    "date": "2012-03-29",
    "url": "https://blogs.smithsonianmag.com/history/2012/03/%E2%80%9Ckipper-und-wipper%E2%80%9D-rogue-traders-rogue-princes-rogue-bishops-and-the-german-financial-meltdown-of-1621-23/"
+  },
+  {
+   "title": "How to Raise an Army by Debasing Your Currency and Screwing Your Neighbor",
+   "outlet": "Atlas Obscura",
+   "date": "",
+   "url": "https://www.atlasobscura.com/articles/kipper-und-wipper"
   }
  ],
  "1620": [
@@ -23,6 +55,52 @@ window.CRISIS_NEWS = {
    "outlet": "Smithsonian Magazine",
    "date": "2012-03-29",
    "url": "https://blogs.smithsonianmag.com/history/2012/03/%E2%80%9Ckipper-und-wipper%E2%80%9D-rogue-traders-rogue-princes-rogue-bishops-and-the-german-financial-meltdown-of-1621-23/"
+  },
+  {
+   "title": "Crisis Chronicles: 300 Years of Financial Crises (1620-1920)",
+   "outlet": "Liberty Street Economics (New York Fed)",
+   "date": "2013-06",
+   "url": "https://libertystreeteconomics.newyorkfed.org/2013/06/crisis-chronicles-300-years-of-financial-crises-1620-1920"
+  }
+ ],
+ "1621": [
+  {
+   "title": "How to Raise an Army by Debasing Your Currency and Screwing Your Neighbor",
+   "outlet": "Atlas Obscura",
+   "date": "",
+   "url": "https://www.atlasobscura.com/articles/kipper-und-wipper"
+  },
+  {
+   "title": "Crisis Chronicles: 300 Years of Financial Crises (1620-1920)",
+   "outlet": "Liberty Street Economics (New York Fed)",
+   "date": "2013-06",
+   "url": "https://libertystreeteconomics.newyorkfed.org/2013/06/crisis-chronicles-300-years-of-financial-crises-1620-1920"
+  },
+  {
+   "title": "Did You Know About the Great Hyperinflation of the 17th Century?",
+   "outlet": "Foundation for Economic Education",
+   "date": "",
+   "url": "https://fee.org/articles/did-you-know-about-the-great-hyperinflation-of-the-17th-century/"
+  }
+ ],
+ "1622": [
+  {
+   "title": "How to Raise an Army by Debasing Your Currency and Screwing Your Neighbor",
+   "outlet": "Atlas Obscura",
+   "date": "",
+   "url": "https://www.atlasobscura.com/articles/kipper-und-wipper"
+  },
+  {
+   "title": "Crisis Chronicles: 300 Years of Financial Crises (1620-1920)",
+   "outlet": "Liberty Street Economics (New York Fed)",
+   "date": "2013-06",
+   "url": "https://libertystreeteconomics.newyorkfed.org/2013/06/crisis-chronicles-300-years-of-financial-crises-1620-1920"
+  },
+  {
+   "title": "Did You Know About the Great Hyperinflation of the 17th Century?",
+   "outlet": "Foundation for Economic Education",
+   "date": "",
+   "url": "https://fee.org/articles/did-you-know-about-the-great-hyperinflation-of-the-17th-century/"
   }
  ],
  "1623": [
@@ -31,6 +109,36 @@ window.CRISIS_NEWS = {
    "outlet": "Smithsonian Magazine",
    "date": "2012-03-29",
    "url": "https://blogs.smithsonianmag.com/history/2012/03/%E2%80%9Ckipper-und-wipper%E2%80%9D-rogue-traders-rogue-princes-rogue-bishops-and-the-german-financial-meltdown-of-1621-23/"
+  },
+  {
+   "title": "How to Raise an Army by Debasing Your Currency and Screwing Your Neighbor",
+   "outlet": "Atlas Obscura",
+   "date": "",
+   "url": "https://www.atlasobscura.com/articles/kipper-und-wipper"
+  }
+ ],
+ "1636": [
+  {
+   "title": "There Never Was a Real Tulip Fever",
+   "outlet": "Smithsonian Magazine",
+   "date": "2017",
+   "url": "https://www.smithsonianmag.com/history/there-never-was-real-tulip-fever-180964915/"
+  }
+ ],
+ "1637": [
+  {
+   "title": "There Never Was a Real Tulip Fever",
+   "outlet": "Smithsonian Magazine",
+   "date": "2017",
+   "url": "https://www.smithsonianmag.com/history/there-never-was-real-tulip-fever-180964915/"
+  }
+ ],
+ "1667": [
+  {
+   "title": "Dutch raid on the Medway, 19-24 June 1667",
+   "outlet": "HistoryOfWar.org",
+   "date": "",
+   "url": "https://www.historyofwar.org/articles/battles_medway_1667.html"
   }
  ],
  "1672": [
@@ -39,6 +147,68 @@ window.CRISIS_NEWS = {
    "outlet": "The London Gazette",
    "date": "1672-01-04",
    "url": "https://www.thegazette.co.uk/London/issue/641/page/1"
+  }
+ ],
+ "1696": [
+  {
+   "title": "The Great Recoinage",
+   "outlet": "Newton and the Mint (University of Oxford)",
+   "date": "",
+   "url": "https://newtonandthemint.history.ox.ac.uk/great-recoinage/the-great-recoinage"
+  }
+ ],
+ "1719": [
+  {
+   "title": "John Law's Mississippi Bubble and the plague of 1720",
+   "outlet": "The Globe and Mail",
+   "date": "",
+   "url": "https://www.theglobeandmail.com/investing/investment-ideas/article-john-laws-mississippi-bubble-and-the-plague-of-1720"
+  },
+  {
+   "title": "John Law and the Mississippi Bubble – 300 Years Later",
+   "outlet": "Mises Wire",
+   "date": "",
+   "url": "https://mises.org/wire/john-law-and-mississippi-bubble-%E2%80%93-300-years-later"
+  },
+  {
+   "title": "The Mississippi Bubble",
+   "outlet": "Winton",
+   "date": "2019-04-29",
+   "url": "https://www.winton.com/longer-view/the-mississippi-bubble"
+  }
+ ],
+ "1720": [
+  {
+   "title": "The Market Crash That Cost Newton a Fortune",
+   "outlet": "Smithsonian Magazine",
+   "date": "",
+   "url": "https://www.smithsonianmag.com/smart-news/market-crash-cost-newton-fortune-180961655/"
+  },
+  {
+   "title": "The South Sea Bubble of 1720",
+   "outlet": "The National Archives blog",
+   "date": "",
+   "url": "https://blog.nationalarchives.gov.uk/the-south-sea-bubble-of-1720"
+  },
+  {
+   "title": "How Isaac Newton Lost $3 Million in the South Sea Bubble of 1720",
+   "outlet": "Open Culture",
+   "date": "2018-01",
+   "url": "https://openculture.com/2018/01/how-isaac-newton-lost-3-million-dollars-in-the-south-sea-bubble-of-1720-even-geniuses-cant-prevail-against-the-machinations-of-the-markets.html"
+  }
+ ],
+ "1763": [
+  {
+   "title": "Lessons from 1763 - the central bank as lender of last resort (speech by Steven Maijoor)",
+   "outlet": "BIS Central Bankers' Speeches",
+   "date": "2026-06",
+   "url": "https://www.bis.org/review/r260624e.htm"
+  },
+  {
+   "title": "The Liberty Street Economics Blog takes a look at the funding crisis of 1763",
+   "outlet": "Finadium",
+   "date": "",
+   "url": "https://finadium.com/?p=6345"
   }
  ],
  "1772": [
@@ -73,6 +243,62 @@ window.CRISIS_NEWS = {
    "url": "https://www.theglobalist.com/?p=7811"
   }
  ],
+ "1822": [
+  {
+   "title": "Poyais, the 19th-Century Con That Remains One of History's Boldest",
+   "outlet": "Global Voices",
+   "date": "2016-03-01",
+   "url": "https://globalvoices.org/2016/03/01/poyais-the-19th-century-con-that-remains-one-of-historys-boldest/"
+  },
+  {
+   "title": "The Con Man Who Invented His Own Country",
+   "outlet": "History.com",
+   "date": "",
+   "url": "https://www.history.com/articles/the-con-man-who-invented-his-own-country"
+  }
+ ],
+ "1823": [
+  {
+   "title": "Journey to hell",
+   "outlet": "New York Post (via PressReader)",
+   "date": "2018-04-29",
+   "url": "https://www.pressreader.com/usa/new-york-post/20180429/282437054737630"
+  },
+  {
+   "title": "The Fake Taliban and Other Great Diplo-Scams",
+   "outlet": "Foreign Policy",
+   "date": "2010-11-23",
+   "url": "https://foreignpolicy.com/2010/11/23/the-fake-taliban-and-other-great-diplo-scams/"
+  },
+  {
+   "title": "Poyais, the 19th-Century Con That Remains One of History's Boldest",
+   "outlet": "Global Voices",
+   "date": "2016-03-01",
+   "url": "https://globalvoices.org/2016/03/01/poyais-the-19th-century-con-that-remains-one-of-historys-boldest/"
+  }
+ ],
+ "1824": [
+  {
+   "title": "Crisis Chronicles: The Panic of 1825 and the Most Fantastic Financial Swindle of All Time",
+   "outlet": "Liberty Street Economics (New York Fed)",
+   "date": "2015-04",
+   "url": "https://libertystreeteconomics.newyorkfed.org/2015/04/crisis-chronicles-the-panic-of-1825-and-the-most-fantastic-financial-swindle-of-all-time/"
+  }
+ ],
+ "1825": [
+  {
+   "title": "Crisis Chronicles: The Panic of 1825 and the Most Fantastic Financial Swindle of All Time",
+   "outlet": "Liberty Street Economics (New York Fed)",
+   "date": "2015-04",
+   "url": "https://libertystreeteconomics.newyorkfed.org/2015/04/crisis-chronicles-the-panic-of-1825-and-the-most-fantastic-financial-swindle-of-all-time/"
+  },
+  {
+   "title": "Policing the First Global Financial Crisis: Remembering The 1825 Panic",
+   "outlet": "The Open University",
+   "date": "",
+   "url": "https://university.open.ac.uk/research-centres/herc/blog/policing-first-global-financial-crisis-remembering-1825-panic"
+  }
+ ],
  "1837": [
   {
    "title": "Crisis Chronicles: The Man on the Twenty-Dollar Bill and the Panic of 1837",
@@ -85,6 +311,36 @@ window.CRISIS_NEWS = {
    "outlet": "Advisor Perspectives",
    "date": "2022-01-17",
    "url": "https://www.advisorperspectives.com/articles/2022/01/17/andrew-jackson-shortens-the-credit-chain"
+  }
+ ],
+ "1845": [
+  {
+   "title": "Railway mania",
+   "outlet": "Winton",
+   "date": "2018-09-18",
+   "url": "https://www.winton.com/news/railway-mania"
+  },
+  {
+   "title": "Railway Mania: The Largest Speculative Bubble You've Never Heard Of",
+   "outlet": "FocusEconomics",
+   "date": "",
+   "url": "https://focus-economics.com/blog/railway-mania-the-largest-speculative-bubble-you-never-heard-of/"
+  }
+ ],
+ "1846": [
+  {
+   "title": "Railway Mania: The Largest Speculative Bubble You've Never Heard Of",
+   "outlet": "FocusEconomics",
+   "date": "",
+   "url": "https://focus-economics.com/blog/railway-mania-the-largest-speculative-bubble-you-never-heard-of/"
+  }
+ ],
+ "1849": [
+  {
+   "title": "Railway mania",
+   "outlet": "Winton",
+   "date": "2018-09-18",
+   "url": "https://www.winton.com/news/railway-mania"
   }
  ],
  "1856": [
@@ -359,6 +615,12 @@ window.CRISIS_NEWS = {
    "outlet": "The Washington Post",
    "date": "1977-06-09",
    "url": "https://www.washingtonpost.com/archive/politics/1977/06/09/uncovering-a-coverup-on-teapot-dome/93c16e16-8e32-4bf0-aabd-bb83c9bebd0d/"
+  },
+  {
+   "title": "Teapot Dome Scandal",
+   "outlet": "History.com",
+   "date": "",
+   "url": "https://www.history.com/articles/teapot-dome-scandal"
   }
  ],
  "1923": [
@@ -387,6 +649,12 @@ window.CRISIS_NEWS = {
    "outlet": "Orlando Sentinel",
    "date": "1990-10-28",
    "url": "https://web.archive.org/web/20220524221314/https://www.orlandosentinel.com/news/os-xpm-1990-10-28-9010261163-story.html"
+  },
+  {
+   "title": "How Dreams of Buried Pirate Treasure Enticed Americans to Flock to Florida During the Roaring Twenties",
+   "outlet": "Smithsonian Magazine",
+   "date": "",
+   "url": "https://www.smithsonianmag.com/history/how-dreams-of-buried-pirate-treasure-enticed-americans-to-flock-to-florida-during-the-roaring-twenties-180986376/"
   }
  ],
  "1926": [
@@ -435,6 +703,12 @@ window.CRISIS_NEWS = {
    "outlet": "The New York Times",
    "date": "1991-08-18",
    "url": "https://www.nytimes.com/1991/08/18/realestate/streetscapes-bank-united-states-bronx-first-domino-depression.html?exprod=permalink&partner=permalink"
+  },
+  {
+   "title": "News from 1930: Closing of Bank of United States",
+   "outlet": "Credit Writedowns",
+   "date": "2009-12",
+   "url": "https://creditwritedowns.com/2009/12/news-from-1930-closing-of-bank-of-united-states.html"
   }
  ],
  "1931": [
@@ -489,6 +763,12 @@ window.CRISIS_NEWS = {
    "outlet": "The New York Times",
    "date": "1933-04-06",
    "url": "https://www.nytimes.com/1933/04/06/archives/hoarding-of-gold.html"
+  },
+  {
+   "title": "Tony Badger: How FDR saved US",
+   "outlet": "History News Network",
+   "date": "",
+   "url": "https://www.hnn.us/article/55569"
   }
  ],
  "1937": [
@@ -539,6 +819,18 @@ window.CRISIS_NEWS = {
    "outlet": "South China Morning Post",
    "date": "2010-06-06",
    "url": "https://www.scmp.com/article/716329/how-chiang-spirited-chinas-gold-away-reds"
+  },
+  {
+   "title": "Hyper-Inflated",
+   "outlet": "The World of Chinese",
+   "date": "2020-09",
+   "url": "https://www.theworldofchinese.com/2020/09/hyper-inflated/"
+  },
+  {
+   "title": "The Great Chinese Inflation",
+   "outlet": "Foundation for Economic Education",
+   "date": "",
+   "url": "https://fee.org/articles/the-great-chinese-inflation/"
   }
  ],
  "1962": [
@@ -547,6 +839,12 @@ window.CRISIS_NEWS = {
    "outlet": "The Wall Street Journal",
    "date": "2010-05-29",
    "url": "https://online.wsj.com/news/articles/SB10001424052748703957604575272791511469272"
+  },
+  {
+   "title": "Market Woes: Remembering the 'Flash Crash' of 1962",
+   "outlet": "LIFE",
+   "date": "",
+   "url": "https://www.life.com/history/market-woes-remembering-the-flash-crash-of-1962/"
   }
  ],
  "1963": [
@@ -599,6 +897,12 @@ window.CRISIS_NEWS = {
    "outlet": "The New York Times",
    "date": "1970-06-22",
    "url": "https://www.nytimes.com/1970/06/22/archives/penn-central-is-granted-authority-to-reorganize-under-bankruptcy.html"
+  },
+  {
+   "title": "Old Industries, New Troubles: the Penn Central railroad",
+   "outlet": "American Heritage",
+   "date": "",
+   "url": "https://americanheritage.com/1970s-penn-central-railroad"
   }
  ],
  "1971": [
@@ -647,6 +951,18 @@ window.CRISIS_NEWS = {
    "outlet": "The New York Times",
    "date": "1974-10-09",
    "url": "https://www.nytimes.com/1974/10/09/archives/goldblum-enters-equity-guilt-plea-move-by-former-chief-on-5-counts.html?_r=0"
+  },
+  {
+   "title": "Those daring young con men of Equity Funding",
+   "outlet": "Fortune",
+   "date": "1973-08",
+   "url": "https://fortune.com/2025/11/30/fortune-archives-those-daring-young-con-men-of-equity-funding"
+  },
+  {
+   "title": "The Phantom of Beverly Hills",
+   "outlet": "Harper's Magazine",
+   "date": "1973-08",
+   "url": "https://harpers.org/archive/1973/08/the-phantom-of-beverly-hills"
   }
  ],
  "1974": [
@@ -709,6 +1025,12 @@ window.CRISIS_NEWS = {
    "outlet": "The New York Times",
    "date": "1979-12-02",
    "url": "https://www.nytimes.com/1979/12/02/archives/can-volcker-stand-up-to-inflation-the-fed-the-fed.html"
+  },
+  {
+   "title": "October 6, 1979",
+   "outlet": "FRBSF Economic Letter",
+   "date": "2004-12",
+   "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2004/12/october-6-1979/"
   }
  ],
  "1980": [
@@ -717,6 +1039,18 @@ window.CRISIS_NEWS = {
    "outlet": "Time",
    "date": "1980-04-07",
    "url": "https://www.time.com/time/magazine/article/0,9171,921964-2,00.html"
+  },
+  {
+   "title": "Hunt Becomes Billionaire on Oil After Silver Bankruptcy",
+   "outlet": "Financial Advisor (Bloomberg)",
+   "date": "",
+   "url": "https://www.fa-mag.com/news/hunt-becomes-billionaire-on-oil-after-silver-bankruptcy-13783.html"
+  },
+  {
+   "title": "Silver Thursday: The Hunt Brothers' Scheme",
+   "outlet": "APMEX",
+   "date": "",
+   "url": "https://learn.apmex.com/learning-guide/history/silver-thursday-the-hunt-brothers-scheme/"
   }
  ],
  "1982": [
@@ -949,6 +1283,18 @@ window.CRISIS_NEWS = {
    "outlet": "Bloomberg View",
    "date": "2013-01-22",
    "url": "https://www.bloomberg.com/view/articles/2013-01-22/the-british-bank-that-forever-altered-the-u-s-economy"
+  },
+  {
+   "title": "On this day: The collapse of Barings Bank",
+   "outlet": "City A.M.",
+   "date": "",
+   "url": "https://www.cityam.com/on-this-day-the-collapse-of-barings-bank/"
+  },
+  {
+   "title": "Barings' collapse: The reflections of rogue trader Nick Leeson, the man who crashed a bank",
+   "outlet": "City A.M.",
+   "date": "",
+   "url": "https://www.cityam.com/reflections-man-who-crashed-bank-reflects/"
   }
  ],
  "1996": [
@@ -963,6 +1309,12 @@ window.CRISIS_NEWS = {
    "outlet": "AP News",
    "date": "",
    "url": "https://apnews.com/b8ace6e192d36caa8ea41ea052159b08"
+  },
+  {
+   "title": "Rogue trader had iron grip",
+   "outlet": "Tampa Bay Times",
+   "date": "1996-06-15",
+   "url": "https://www.tampabay.com/archive/1996/06/15/rogue-trader-had-iron-grip/"
   }
  ],
  "1997": [
@@ -991,6 +1343,18 @@ window.CRISIS_NEWS = {
    "outlet": "The Guardian",
    "date": "2003-04-09",
    "url": "https://www.theguardian.com/world/2003/apr/09/russia.artsandhumanities"
+  },
+  {
+   "title": "Russia's 1998 currency crisis: what lessons for today?",
+   "outlet": "Economics Observatory",
+   "date": "",
+   "url": "https://economicsobservatory.com/russias-1998-currency-crisis-what-lessons-for-today"
+  },
+  {
+   "title": "Fed engineers bailout to save hedge fund from itself",
+   "outlet": "Tampa Bay Times",
+   "date": "1998-09-25",
+   "url": "https://www.tampabay.com/archive/1998/09/25/fed-engineers-bailout-to-save-hedge-fund-from-itself/"
   }
  ],
  "1999": [
@@ -1139,6 +1503,18 @@ window.CRISIS_NEWS = {
    "outlet": "DealBook (The New York Times)",
    "date": "2010-11-11",
    "url": "https://dealbook.nytimes.com/2010/11/11/backdating-scandal-ends-with-a-whimper/"
+  },
+  {
+   "title": "Amaranth loses big",
+   "outlet": "Marketplace",
+   "date": "2006-09-21",
+   "url": "https://www.marketplace.org/story/2006/09/21/amaranth-loses-big"
+  },
+  {
+   "title": "Amaranth hedge fund losses",
+   "outlet": "Econbrowser",
+   "date": "2006-09",
+   "url": "https://econbrowser.com/archives/2006/09/amaranth_hedge"
   }
  ],
  "2007": [
