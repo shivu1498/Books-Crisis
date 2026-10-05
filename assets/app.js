@@ -111,6 +111,43 @@
     });
   }
 
+  // ---- Research links: search URLs built from each episode's name and year ----
+  var SOURCES = [
+    { key: "yt", label: "YouTube", url: "https://www.youtube.com/results?search_query=" },
+    { key: "x", label: "X", url: "https://x.com/search?src=typed_query&q=" },
+    { key: "g", label: "Google", url: "https://www.google.com/search?q=" },
+    { key: "ss", label: "Substack", url: "https://substack.com/search/", suffix: "?searching=all_posts" },
+    { key: "gs", label: "Scholar", url: "https://scholar.google.com/scholar?q=" }
+  ];
+
+  // A year can bundle several episodes ("A; B; C"); each gets its own query.
+  function researchQueries(e) {
+    return e.title.split(/\s*;\s*/).map(function (seg) {
+      var q = seg
+        .replace(/\s+-\s+.*$/, "")
+        .replace(/\b(begins|deepens)\b/gi, "")
+        .replace(/[()']/g, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+      if (q.indexOf(String(e.year)) === -1) q += " " + e.year;
+      return { label: seg, q: q };
+    }).filter(function (x) { return x.q.length > 5; });
+  }
+
+  function linksHtml(e) {
+    if (e.status !== "event" && /^No major recorded/i.test(e.title)) return "";
+    var qs = researchQueries(e);
+    if (!qs.length) return "";
+    return '<div class="research">' + qs.map(function (x) {
+      var chips = SOURCES.map(function (src) {
+        var href = src.url + encodeURIComponent(x.q) + (src.suffix || "");
+        return '<a class="chip chip-' + src.key + '" href="' + esc(href) + '" target="_blank" rel="noopener noreferrer">' + src.label + "</a>";
+      }).join("");
+      var label = qs.length > 1 ? esc(truncate(x.label, 48)) : "Research";
+      return '<div class="research-row"><span class="research-label" title="' + esc(x.q) + '">' + label + "</span>" + chips + "</div>";
+    }).join("") + "</div>";
+  }
+
   function rowHtml(e) {
     var meta = [];
     if (e.category) meta.push('<span class="cat">' + esc(e.category) + "</span>");
@@ -121,7 +158,7 @@
       '<div class="row-sev"><span class="sev sev-' + e.severity + '" title="Severity ' + e.severity + '">' + e.severity + "</span></div>" +
       '<div class="row-body"><h3 class="row-title">' + esc(e.title) + "</h3>" +
       '<div class="row-meta">' + meta.join("") + "</div>" +
-      '<p class="row-text">' + esc(e.summary) + "</p></div></article>";
+      '<p class="row-text">' + esc(e.summary) + "</p>" + linksHtml(e) + "</div></article>";
   }
 
   function render() {
