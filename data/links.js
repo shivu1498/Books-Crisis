@@ -1,12 +1,6 @@
 // Curated research links per event year (youtube, x, article, substack, paper).
 // Each URL was taken from a live web search result; years without a good source fall back to search links.
 window.CRISIS_LINKS = {
- "806": {
-  "article": {
-   "title": "Flying cash",
-   "url": "https://en.wikipedia.org/wiki/Flying_cash"
-  }
- },
  "811": {
   "article": {
    "title": "Flying cash",
