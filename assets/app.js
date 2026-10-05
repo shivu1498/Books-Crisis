@@ -211,13 +211,14 @@
     var first = EVENTS[0].year;
     var last = EVENTS[EVENTS.length - 1].year;
     var periods = [];
-    for (var from = first; from <= last; from += 50) {
+    for (var from = Math.floor(first / 50) * 50; from <= last; from += 50) {
       var to = Math.min(from + 49, last);
       var rows = EVENTS.filter(function (e) { return e.year >= from && e.year <= to; });
+      if (!rows.length) continue;
       var hits = rows.filter(function (e) { return e.severity > 0; });
       var total = rows.reduce(function (s, e) { return s + e.severity; }, 0);
       var worst = rows.reduce(function (w, e) { return !w || e.severity > w.severity ? e : w; }, null);
-      periods.push({ label: from + "–" + to, years: rows.length, hits: hits.length, total: total, worst: worst });
+      periods.push({ label: Math.max(from, first) + "–" + to, years: rows.length, hits: hits.length, total: total, worst: worst });
     }
     var maxTotal = Math.max.apply(null, periods.map(function (p) { return p.total; }));
     $("period-table").querySelector("tbody").innerHTML = periods.map(function (p) {

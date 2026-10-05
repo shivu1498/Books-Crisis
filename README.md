@@ -1,6 +1,6 @@
 # Crisis Terminal
 
-A static, terminal-styled browser for a year-by-year register of financial crises, bubbles, defaults and scandals from 800 to July 2026 (1,227 years, 289 event years, rated 0–5 for severity).
+A static, terminal-styled browser for a year-by-year register of financial crises, bubbles, defaults and scandals from 803 to July 2026 (1,224 years, 289 event years, rated 0–5 for severity).
 
 Each event lists curated sources (YouTube videos, X posts, articles, Substack posts and papers) from `data/links.js`, found by web search, plus search links (YouTube, X, Google, Substack, Google Scholar) built from the episode name and year as a fallback.
 

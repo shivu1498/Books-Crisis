@@ -12,6 +12,9 @@ import openpyxl
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_SRC = ROOT / "data/source/Financial_Crises_Bubbles_and_Scandals_0800_2026.xlsx"
 
+# Years left off the site at the owner's request.
+EXCLUDE_YEARS = {800, 801, 802}
+
 COLUMNS = ["year", "era", "status", "title", "category", "geography", "summary", "severity"]
 
 
@@ -35,6 +38,8 @@ def main():
             continue
         rec = dict(zip(COLUMNS, row))
         rec["year"] = int(rec["year"])
+        if rec["year"] in EXCLUDE_YEARS:
+            continue
         rec["severity"] = int(rec["severity"] or 0)
         rec["status"] = "event" if str(rec["status"]).upper() == "EVENT" else "quiet"
         for key in ("era", "title", "category", "geography", "summary"):
