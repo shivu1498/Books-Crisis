@@ -9,7 +9,17 @@
     if (ERAS.indexOf(e.era) === -1) ERAS.push(e.era);
   });
 
-  var state = { era: "", q: "", minSev: 0, category: "", showQuiet: false, limit: PAGE };
+  var state = { era: "", q: "", minSev: 0, category: "", limit: PAGE };
+
+  // Calendar span of each era (from the workbook legend), used for "% of years with an event".
+  var ERA_YEARS = {
+    "Pre-market (800-1299)": [800, 1299],
+    "Medieval-Renaissance": [1300, 1600],
+    "Joint-stock era": [1601, 1720],
+    "Industrial / classical": [1721, 1913],
+    "Wars & Bretton Woods": [1914, 1971],
+    "Modern floating-rate": [1972, 2026]
+  };
 
   var $ = function (id) { return document.getElementById(id); };
 
@@ -24,6 +34,8 @@
   }
 
   function eraSpan(era) {
+    var span = ERA_YEARS[era];
+    if (span) return span[0] + "–" + span[1];
     var years = EVENTS.filter(function (e) { return e.era === era; }).map(function (e) { return e.year; });
     return Math.min.apply(null, years) + "–" + Math.max.apply(null, years);
   }
@@ -38,9 +50,9 @@
     var cells = [];
     var prevShare = null;
     ERAS.forEach(function (era) {
-      var rows = EVENTS.filter(function (e) { return e.era === era; });
-      var hits = rows.filter(function (e) { return e.status === "event"; }).length;
-      var share = (hits / rows.length) * 100;
+      var hits = EVENTS.filter(function (e) { return e.era === era; }).length;
+      var span = ERA_YEARS[era];
+      var share = span ? (hits / (span[1] - span[0] + 1)) * 100 : 100;
       var delta = prevShare === null ? null : share - prevShare;
       prevShare = share;
       var deltaHtml = delta === null
@@ -100,7 +112,6 @@
     var q = state.q.trim().toLowerCase();
     return EVENTS.filter(function (e) {
       if (state.era && e.era !== state.era) return false;
-      if (!state.showQuiet && e.status !== "event") return false;
       if (e.severity < state.minSev) return false;
       if (state.category && categoriesOf(e).indexOf(state.category) === -1) return false;
       if (q) {
@@ -183,7 +194,7 @@
     });
     var rows = filtered();
     var shown = rows.slice(0, state.limit);
-    $("count").textContent = rows.length + (rows.length === 1 ? " year" : " years");
+    $("count").textContent = rows.length + (rows.length === 1 ? " event" : " events");
     if (!rows.length) {
       var where = state.era ? shortEra(state.era) : "these filters";
       $("list").innerHTML = '<div class="empty">No events match ' + esc(where) + ".</div>";
@@ -203,7 +214,6 @@
     $("search").addEventListener("input", function (ev) { state.q = ev.target.value; state.limit = PAGE; render(); });
     $("min-sev").addEventListener("change", function (ev) { state.minSev = +ev.target.value; state.limit = PAGE; render(); });
     $("category").addEventListener("change", function (ev) { state.category = ev.target.value; state.limit = PAGE; render(); });
-    $("show-quiet").addEventListener("change", function (ev) { state.showQuiet = ev.target.checked; state.limit = PAGE; render(); });
   }
 
   // ---- Eras tab: half-century summary (mirrors the workbook's Period Summary sheet) ----
@@ -218,7 +228,7 @@
       var hits = rows.filter(function (e) { return e.severity > 0; });
       var total = rows.reduce(function (s, e) { return s + e.severity; }, 0);
       var worst = rows.reduce(function (w, e) { return !w || e.severity > w.severity ? e : w; }, null);
-      periods.push({ label: Math.max(from, first) + "–" + to, years: rows.length, hits: hits.length, total: total, worst: worst });
+      periods.push({ label: from + "–" + Math.min(from + 49, 2026), years: Math.min(from + 49, 2026) - from + 1, hits: hits.length, total: total, worst: worst });
     }
     var maxTotal = Math.max.apply(null, periods.map(function (p) { return p.total; }));
     $("period-table").querySelector("tbody").innerHTML = periods.map(function (p) {
@@ -406,8 +416,7 @@
     var hits = countEvents("");
     var systemic = EVENTS.filter(function (e) { return e.severity === 5; }).length;
     $("status-left").innerHTML = [
-      EVENTS.length + " years",
-      hits + " event years",
+      hits + " events",
       systemic + " systemic",
       ERAS.length + " eras"
     ].map(function (s) { return "<span>" + s + "</span>"; }).join("");

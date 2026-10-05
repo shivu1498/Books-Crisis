@@ -40,6 +40,9 @@ def main():
         rec["year"] = int(rec["year"])
         if rec["year"] in EXCLUDE_YEARS:
             continue
+        # Only years with a recorded event are shown on the site.
+        if str(row[2]).upper() != "EVENT":
+            continue
         rec["severity"] = int(rec["severity"] or 0)
         rec["status"] = "event" if str(rec["status"]).upper() == "EVENT" else "quiet"
         for key in ("era", "title", "category", "geography", "summary"):
@@ -54,7 +57,7 @@ def main():
         encoding="utf-8",
     )
     n_events = sum(e["status"] == "event" for e in events)
-    print(f"Wrote {len(events)} years ({n_events} event years) from {src.name}")
+    print(f"Wrote {len(events)} event years from {src.name}")
 
 
 if __name__ == "__main__":

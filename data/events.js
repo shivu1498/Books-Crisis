@@ -51,16 +51,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 870,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 871,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -69,66 +59,6 @@ window.CRISIS_EVENTS = [
   "geography": "Abbasid Caliphate (Iraq)",
   "summary": "Basra was the entrepot of the Indian Ocean trade and the centre of Gulf commercial finance. Its destruction severed the caliphate's most profitable revenue stream.",
   "severity": 4
- },
- {
-  "year": 872,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 873,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 874,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 875,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 876,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 877,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 878,
@@ -161,26 +91,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 881,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 882,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 883,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -189,246 +99,6 @@ window.CRISIS_EVENTS = [
   "geography": "Abbasid Caliphate (Iraq)",
   "summary": "Order restored at enormous cost, but Basra's commercial primacy passed permanently to Egypt and the Red Sea route.",
   "severity": 3
- },
- {
-  "year": 884,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 885,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 886,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 887,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 888,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 889,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 890,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 891,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 892,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 893,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 894,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 895,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 896,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 897,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 898,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 899,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 900,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 901,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 902,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 903,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 904,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 905,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 906,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 907,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 908,
@@ -441,146 +111,6 @@ window.CRISIS_EVENTS = [
   "severity": 1
  },
  {
-  "year": 909,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 910,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 911,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 912,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 913,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 914,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 915,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 916,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 917,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 918,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 919,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 920,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 921,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 922,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 923,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -589,86 +119,6 @@ window.CRISIS_EVENTS = [
   "geography": "Abbasid Caliphate",
   "summary": "Tax farming had become a rolling short-term borrowing operation against revenues already pledged. Viziers were appointed and executed according to whether they could raise cash.",
   "severity": 3
- },
- {
-  "year": 924,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 925,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 926,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 927,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 928,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 929,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 930,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 931,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 932,
@@ -681,26 +131,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 933,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 934,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 935,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -709,96 +139,6 @@ window.CRISIS_EVENTS = [
   "geography": "Abbasid Caliphate",
   "summary": "Unable to pay cash salaries, the state assigned soldiers the right to collect land revenue directly. Presented as administration, it was the liquidation of a bankrupt fiscal state - and it dismantled central control over revenue permanently.",
   "severity": 4
- },
- {
-  "year": 936,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 937,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 938,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 939,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 940,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 941,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 942,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 943,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 944,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 945,
@@ -811,456 +151,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 946,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 947,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 948,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 949,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 950,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 951,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 952,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 953,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 954,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 955,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 956,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 957,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 958,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 959,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 960,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 961,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 962,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 963,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 964,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 965,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 966,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 967,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 968,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 969,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "Fatimids conquer Egypt; Cairo founded",
-  "category": "Market milestone",
-  "geography": "Fatimid Egypt",
-  "summary": "Financial and commercial gravity in the Islamic world shifted from Iraq to Egypt and the Red Sea. The Cairo Geniza documents from this period record partnership, credit and remittance practice in extraordinary detail.",
-  "severity": 0
- },
- {
-  "year": 970,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 971,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 972,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 973,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 974,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 975,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 976,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 977,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 978,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 979,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 980,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 981,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 982,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 983,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 984,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 985,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 986,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 987,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 988,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 989,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 990,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 991,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -1269,26 +159,6 @@ window.CRISIS_EVENTS = [
   "geography": "England",
   "summary": "£10,000 in silver paid after Maldon. It established a market price for not being invaded, which naturally rose.",
   "severity": 3
- },
- {
-  "year": 992,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 993,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 994,
@@ -1301,76 +171,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 995,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 996,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 997,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 998,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 999,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1000,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1001,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1002,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -1379,16 +179,6 @@ window.CRISIS_EVENTS = [
   "geography": "England",
   "summary": "Aethelred paid, then massacred Danish settlers, guaranteeing a larger demand next time.",
   "severity": 3
- },
- {
-  "year": 1003,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1004,
@@ -1401,26 +191,6 @@ window.CRISIS_EVENTS = [
   "severity": 2
  },
  {
-  "year": 1005,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1006,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1007,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -1429,46 +199,6 @@ window.CRISIS_EVENTS = [
   "geography": "England",
   "summary": "English silver flowed to Scandinavia in such quantity that more Anglo-Saxon coin of this period survives in Swedish hoards than in England.",
   "severity": 4
- },
- {
-  "year": 1008,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1009,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1010,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1011,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1012,
@@ -1481,56 +211,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1013,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1014,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1015,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1016,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1017,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1018,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -1539,16 +219,6 @@ window.CRISIS_EVENTS = [
   "geography": "England",
   "summary": "Roughly a decade of ordinary royal revenue extracted at once to pay off the invasion fleet. England's silver stock was drained on a scale visible in the archaeological record.",
   "severity": 4
- },
- {
-  "year": 1019,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1020,
@@ -1561,96 +231,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1021,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1022,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1023,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "SONG STATE ASSUMES THE JIAOZI ISSUE",
-  "category": "Market milestone",
-  "geography": "China",
-  "summary": "The state took over note issue and established the Jiaozi Bureau - the world's first government paper currency, created as a response to private issuer failure. Every subsequent Chinese paper-money collapse, from the Jin to the Yuan to the Ming, descends from this decision.",
-  "severity": 0
- },
- {
-  "year": 1024,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1025,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1026,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1027,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1028,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1029,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1030,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -1659,16 +239,6 @@ window.CRISIS_EVENTS = [
   "geography": "Byzantine Empire",
   "summary": "Michael IV, a former money-changer, began reducing the gold content of the nomisma - a coin that had held its standard for seven hundred years and served as the reserve currency of the Mediterranean.",
   "severity": 4
- },
- {
-  "year": 1031,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1032,
@@ -1681,96 +251,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1033,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1034,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1035,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1036,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1037,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1038,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1039,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1040,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1041,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1042,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -1779,76 +259,6 @@ window.CRISIS_EVENTS = [
   "geography": "Byzantine Empire",
   "summary": "Successive emperors financed deficits by cutting fineness rather than raising tax. The debasement was concealed, not announced.",
   "severity": 3
- },
- {
-  "year": 1043,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1044,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1045,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1046,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1047,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1048,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1049,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1050,
@@ -1861,86 +271,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1051,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1052,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1053,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1054,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1055,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1056,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1057,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1058,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1059,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -1949,56 +279,6 @@ window.CRISIS_EVENTS = [
   "geography": "Byzantine Empire",
   "summary": "Fineness fell sharply while the coin circulated at unchanged face value - a concealed default on every contract denominated in gold.",
   "severity": 4
- },
- {
-  "year": 1060,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1061,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1062,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1063,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1064,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1065,
@@ -2011,16 +291,6 @@ window.CRISIS_EVENTS = [
   "severity": 5
  },
  {
-  "year": 1066,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1067,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -2031,16 +301,6 @@ window.CRISIS_EVENTS = [
   "severity": 5
  },
  {
-  "year": 1068,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1069,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -2049,16 +309,6 @@ window.CRISIS_EVENTS = [
   "geography": "Fatimid Egypt",
   "summary": "Prices reached levels at which coin ceased to function. Egypt's population fell sharply; the Geniza records show long-distance trade contracts being abandoned.",
   "severity": 5
- },
- {
-  "year": 1070,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1071,
@@ -2081,56 +331,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1073,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1074,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1075,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1076,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1077,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1078,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -2139,36 +339,6 @@ window.CRISIS_EVENTS = [
   "geography": "Byzantine Empire",
   "summary": "The Mediterranean's reserve currency had lost most of its metal in under fifty years. Tax was demanded in old good coin and paid out in new bad coin - the state arbitraging its own citizens.",
   "severity": 5
- },
- {
-  "year": 1079,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1080,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1081,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1082,
@@ -2181,96 +351,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1083,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1084,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1085,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1086,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "Domesday Book",
-  "category": "Market milestone",
-  "geography": "England",
-  "summary": "A systematic survey of the realm's assets and revenues for fiscal purposes. Nothing comparable existed in Europe for centuries afterwards.",
-  "severity": 0
- },
- {
-  "year": 1087,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1088,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1089,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1090,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1091,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1092,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -2279,36 +359,6 @@ window.CRISIS_EVENTS = [
   "geography": "Byzantine Empire",
   "summary": "A clean recoinage on a new standard after the old currency became unusable. It worked, but the empire's monetary credibility was permanently reduced.",
   "severity": 2
- },
- {
-  "year": 1093,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1094,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1095,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1096,
@@ -2321,276 +371,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1097,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1098,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1099,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1100,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1101,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1102,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1103,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1104,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1105,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1106,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1107,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1108,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1109,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1110,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1111,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1112,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1113,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1114,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1115,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1116,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1117,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1118,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1119,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1120,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1121,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1122,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1123,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1124,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -2599,106 +379,6 @@ window.CRISIS_EVENTS = [
   "geography": "England",
   "summary": "Henry I summoned every moneyer in England at Christmas and had almost all of them mutilated for debasing the coinage. Brutal, but it worked: English coin quality was restored and held for a century. The most severe enforcement action against financial fraud in European history.",
   "severity": 3
- },
- {
-  "year": 1125,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1126,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1127,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1128,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1129,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "Templars recognised at the Council of Troyes",
-  "category": "Market milestone",
-  "geography": "Europe",
-  "summary": "The order that would build Europe's first international deposit, transfer and lending network - and be destroyed for it by the French crown in 1307.",
-  "severity": 0
- },
- {
-  "year": 1130,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1131,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1132,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1133,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1134,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1135,
@@ -2711,56 +391,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1136,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1137,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1138,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1139,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1140,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1141,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -2769,186 +399,6 @@ window.CRISIS_EVENTS = [
   "geography": "England",
   "summary": "The royal monopoly on coinage effectively ceased to exist. Contemporary chroniclers describe money that no one would accept.",
   "severity": 3
- },
- {
-  "year": 1142,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1143,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1144,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1145,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1146,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1147,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1148,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1149,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "Genoa creates the first compere",
-  "category": "Market milestone",
-  "geography": "Genoa",
-  "summary": "Genoa consolidated state debts into shares secured on specific tax revenues, transferable between holders. The earliest clear ancestor of the tradeable government bond.",
-  "severity": 0
- },
- {
-  "year": 1150,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1151,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1152,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1153,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1154,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1155,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1156,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1157,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1158,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1159,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1160,
@@ -2961,186 +411,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1161,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1162,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1163,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1164,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1165,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1166,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1167,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1168,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1169,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1170,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1171,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1172,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1173,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1174,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1175,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1176,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1177,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1178,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1179,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -3149,26 +419,6 @@ window.CRISIS_EVENTS = [
   "geography": "Europe",
   "summary": "Manifest usurers were denied communion and Christian burial. The prohibition did not stop lending; it shaped the legal fictions - discounting, exchange rates, penalty clauses - by which European credit was written for the next four hundred years.",
   "severity": 1
- },
- {
-  "year": 1180,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1181,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1182,
@@ -3181,46 +431,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1183,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1184,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1185,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1186,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1187,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -3229,26 +439,6 @@ window.CRISIS_EVENTS = [
   "geography": "Levant / England / France",
   "summary": "The military orders lost their eastern treasuries. England and France imposed a tithe on all moveable property - among the first general taxes on personal wealth in Europe.",
   "severity": 3
- },
- {
-  "year": 1188,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1189,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1190,
@@ -3261,36 +451,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1191,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1192,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1193,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1194,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -3299,96 +459,6 @@ window.CRISIS_EVENTS = [
   "geography": "England / Germany",
   "summary": "Two to three years of total royal revenue extracted from England at once, through levies on income, moveable property, wool and church plate. The most efficient act of medieval fiscal extraction on record, and a template for later taxation.",
   "severity": 4
- },
- {
-  "year": 1195,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1196,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1197,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1198,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1199,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1200,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1201,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1202,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1203,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1204,
@@ -3411,46 +481,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1206,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1207,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1208,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1209,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1210,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -3461,46 +491,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1211,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1212,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1213,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1214,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1215,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -3509,46 +499,6 @@ window.CRISIS_EVENTS = [
   "geography": "England / Europe",
   "summary": "Magna Carta's clauses on debts owed to Jews and on consent to extraordinary levies are among the earliest constraints on sovereign financial conduct. The Lateran Council tightened usury rules and imposed distinguishing dress on Jews and Muslims.",
   "severity": 1
- },
- {
-  "year": 1216,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1217,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1218,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1219,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1220,
@@ -3571,26 +521,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1222,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1223,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1224,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -3599,156 +529,6 @@ window.CRISIS_EVENTS = [
   "geography": "North China",
   "summary": "The Jin financed their defence against the Mongols by printing. The currency became worthless and was repeatedly reissued under new names at ever-worse rates - a full paper-money hyperinflation, a century before the Yuan repeated it.",
   "severity": 4
- },
- {
-  "year": 1225,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1226,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1227,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1228,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1229,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1230,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1231,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1232,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1233,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1234,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1235,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1236,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1237,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1238,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1239,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1240,
@@ -3761,96 +541,6 @@ window.CRISIS_EVENTS = [
   "severity": 1
  },
  {
-  "year": 1241,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1242,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1243,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1244,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1245,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1246,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1247,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1248,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1249,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1250,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -3861,36 +551,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1251,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1252,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "FLORIN AND GENOVINO MINTED - Europe returns to gold",
-  "category": "Market milestone",
-  "geography": "Florence / Genoa",
-  "summary": "The first substantial gold coinage struck in Western Europe since the Carolingians. The florin became the international unit of account for the Italian banking houses that would dominate the next century - and fail in the 1340s.",
-  "severity": 0
- },
- {
-  "year": 1253,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1254,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -3899,26 +559,6 @@ window.CRISIS_EVENTS = [
   "geography": "England / Papacy",
   "summary": "Henry III accepted the papal offer of the Sicilian crown for his son, undertaking to repay roughly 135,000 marks of papal war debt - several times his annual revenue, for a kingdom he never controlled. He defaulted. The Pope threatened excommunication and interdict.",
   "severity": 4
- },
- {
-  "year": 1255,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1256,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1257,
@@ -3941,56 +581,6 @@ window.CRISIS_EVENTS = [
   "severity": 5
  },
  {
-  "year": 1259,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1260,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1261,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1262,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "VENICE CONSOLIDATES ITS DEBT INTO THE MONTE VECCHIO",
-  "category": "Market milestone",
-  "geography": "Venice",
-  "summary": "Forced loans converted into a permanent funded debt paying 5%, with transferable claims and a secondary market in which prices moved on war news. The first genuine government bond market in Europe.",
-  "severity": 0
- },
- {
-  "year": 1263,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1264,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -3999,16 +589,6 @@ window.CRISIS_EVENTS = [
   "geography": "England",
   "summary": "The Crown could not borrow; Italian merchants withdrew. Royal finances were administered by the baronial council.",
   "severity": 2
- },
- {
-  "year": 1265,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1266,
@@ -4021,26 +601,6 @@ window.CRISIS_EVENTS = [
   "severity": 2
  },
  {
-  "year": 1267,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1268,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1269,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -4049,46 +609,6 @@ window.CRISIS_EVENTS = [
   "geography": "France",
   "summary": "Italian and Cahorsin moneylenders were expelled or fined heavily. Expulsion followed by asset seizure had become a routine instrument of royal finance across Europe.",
   "severity": 2
- },
- {
-  "year": 1270,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1271,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1272,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1273,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1274,
@@ -4111,86 +631,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1276,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1277,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1278,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1279,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1280,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1281,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1282,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1283,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1284,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -4201,26 +641,6 @@ window.CRISIS_EVENTS = [
   "severity": 2
  },
  {
-  "year": 1285,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1286,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1287,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -4229,26 +649,6 @@ window.CRISIS_EVENTS = [
   "geography": "China",
   "summary": "The Zhongtong note had depreciated badly, so the Yuan issued a new note exchangeable at one for five - an official 80% devaluation. The pattern of reissuing at a worse rate rather than restoring convertibility continued until the currency collapsed entirely in the 1350s.",
   "severity": 3
- },
- {
-  "year": 1288,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1289,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1290,
@@ -4271,26 +671,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1292,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1293,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1294,
   "era": "Pre-market (800-1299)",
   "status": "event",
@@ -4299,16 +679,6 @@ window.CRISIS_EVENTS = [
   "geography": "England / Lucca / Ilkhanate",
   "summary": "War with France led Edward I to seize the assets of the Riccardi of Lucca, his bankers for twenty years, and repudiate what he owed them. The firm - among the largest in Europe - was destroyed. It is the exact precedent for Edward III and the Bardi fifty years later, and nobody learned from it. In the same year the Ilkhanate attempted to introduce Chinese-style paper currency in Tabriz; the bazaars simply shut, trade stopped, and the experiment was abandoned within about two months.",
   "severity": 4
- },
- {
-  "year": 1295,
-  "era": "Pre-market (800-1299)",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1296,
@@ -4351,36 +721,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1300,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1301,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1302,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1303,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -4389,26 +729,6 @@ window.CRISIS_EVENTS = [
   "geography": "France",
   "summary": "Philip the Fair repeatedly cut the silver content of the French coinage to fund war with Flanders and England. Contemporaries called him a counterfeiter. Riots followed each recoinage.",
   "severity": 3
- },
- {
-  "year": 1304,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1305,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1306,
@@ -4431,46 +751,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1308,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1309,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1310,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1311,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1312,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -4479,26 +759,6 @@ window.CRISIS_EVENTS = [
   "geography": "Europe",
   "summary": "The Council of Vienne dissolved the order; assets nominally went to the Hospitallers, in practice much stayed with the crowns. Deposits were never returned.",
   "severity": 2
- },
- {
-  "year": 1313,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1314,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1315,
@@ -4531,86 +791,6 @@ window.CRISIS_EVENTS = [
   "severity": 2
  },
  {
-  "year": 1318,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1319,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1320,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1321,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1322,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1323,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1324,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1325,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1326,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -4619,36 +799,6 @@ window.CRISIS_EVENTS = [
   "geography": "Florence",
   "summary": "The Scali were among the largest Florentine houses. Villani records the failure as a shock to the city's credit - the first great Florentine banking collapse and a warning ignored twenty years later.",
   "severity": 3
- },
- {
-  "year": 1327,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1328,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1329,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1330,
@@ -4681,66 +831,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1333,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1334,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1335,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1336,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1337,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1338,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1339,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -4749,16 +839,6 @@ window.CRISIS_EVENTS = [
   "geography": "England / Florence",
   "summary": "The opening of the Hundred Years War was financed by Florentine loans against wool revenues that never materialised. The King simply stopped paying.",
   "severity": 3
- },
- {
-  "year": 1340,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1341,
@@ -4791,16 +871,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1344,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1345,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -4819,16 +889,6 @@ window.CRISIS_EVENTS = [
   "geography": "Florence / Europe",
   "summary": "The Bardi's collapse completed the destruction of 14th-century international banking. Villani put the combined Bardi and Peruzzi losses at roughly 1.4m florins - he called it a ruin greater than any Florence had known. Concentrated sovereign exposure with no capital buffer: the same failure mode as 1890 Barings and 1982 Latin America.",
   "severity": 5
- },
- {
-  "year": 1347,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1348,
@@ -4861,56 +921,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1351,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1352,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1353,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1354,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1355,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1356,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -4919,46 +929,6 @@ window.CRISIS_EVENTS = [
   "geography": "China",
   "summary": "The Yuan financed rebellion suppression by printing chao notes without reserve. The currency became worthless, contributing directly to the dynasty's fall in 1368. The first documented paper-money hyperinflation.",
   "severity": 4
- },
- {
-  "year": 1357,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1358,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1359,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1360,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1361,
@@ -4971,136 +941,6 @@ window.CRISIS_EVENTS = [
   "severity": 2
  },
  {
-  "year": 1362,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1363,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1364,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1365,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1366,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1367,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1368,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1369,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1370,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1371,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1372,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1373,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1374,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1375,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -5109,26 +949,6 @@ window.CRISIS_EVENTS = [
   "geography": "Florence",
   "summary": "Compulsory subscription to the Monte Comune at punitive terms. Monte shares traded at a deep discount to par - an early example of a distressed sovereign debt market.",
   "severity": 2
- },
- {
-  "year": 1376,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1377,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1378,
@@ -5141,26 +961,6 @@ window.CRISIS_EVENTS = [
   "severity": 2
  },
  {
-  "year": 1379,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1380,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1381,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -5169,86 +969,6 @@ window.CRISIS_EVENTS = [
   "geography": "England",
   "summary": "Triggered by the third poll tax in four years and its evasion by the wealthy.",
   "severity": 2
- },
- {
-  "year": 1382,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1383,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1384,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1385,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1386,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1387,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1388,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1389,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1390,
@@ -5261,46 +981,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1391,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1392,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1393,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1394,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1395,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -5309,46 +989,6 @@ window.CRISIS_EVENTS = [
   "geography": "Europe",
   "summary": "Mint output collapsed across England, France and the Low Countries. Prolonged deflation; debtors were crushed and trade reverted to barter in places.",
   "severity": 3
- },
- {
-  "year": 1396,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1397,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1398,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1399,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1400,
@@ -5361,96 +1001,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1401,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1402,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1403,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1404,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1405,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1406,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1407,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1408,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1409,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1410,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -5459,46 +1009,6 @@ window.CRISIS_EVENTS = [
   "geography": "Europe",
   "summary": "Repeated debasements across the Low Countries and France as rulers tried to attract scarce silver to their mints.",
   "severity": 3
- },
- {
-  "year": 1411,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1412,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1413,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1414,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1415,
@@ -5511,56 +1021,6 @@ window.CRISIS_EVENTS = [
   "severity": 2
  },
  {
-  "year": 1416,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1417,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1418,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1419,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1420,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1421,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -5569,36 +1029,6 @@ window.CRISIS_EVENTS = [
   "geography": "Florence",
   "summary": "Public debt shares changed hands well below par with a large gap between market price and the fiction of face value in the tax registers.",
   "severity": 2
- },
- {
-  "year": 1422,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1423,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1424,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1425,
@@ -5611,156 +1041,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1426,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1427,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1428,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1429,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1430,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1431,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1432,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1433,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1434,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1435,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1436,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1437,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1438,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1439,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1440,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1441,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -5769,86 +1049,6 @@ window.CRISIS_EVENTS = [
   "geography": "Japan",
   "summary": "After an armed uprising, the Ashikaga shogunate issued a 'virtuous government' edict voiding debts wholesale. Pawnbrokers and moneylenders were ruined; such edicts recurred for a century and destroyed Japanese credit markets.",
   "severity": 3
- },
- {
-  "year": 1442,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1443,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1444,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1445,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1446,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1447,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1448,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1449,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1450,
@@ -5861,26 +1061,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1451,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1452,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1453,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -5889,36 +1069,6 @@ window.CRISIS_EVENTS = [
   "geography": "Genoa / Venice",
   "summary": "Genoese and Venetian merchant capital in the Levant was destroyed or stranded. Trade routes and the credit built on them were rerouted.",
   "severity": 3
- },
- {
-  "year": 1454,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1455,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1456,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1457,
@@ -5931,26 +1081,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1458,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1459,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1460,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -5959,76 +1089,6 @@ window.CRISIS_EVENTS = [
   "geography": "Europe",
   "summary": "Sustained deflation, defaults on fixed money rents, and widespread commercial contraction.",
   "severity": 3
- },
- {
-  "year": 1461,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1462,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1463,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1464,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1465,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1466,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1467,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1468,
@@ -6041,16 +1101,6 @@ window.CRISIS_EVENTS = [
   "severity": 2
  },
  {
-  "year": 1469,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1470,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -6059,76 +1109,6 @@ window.CRISIS_EVENTS = [
   "geography": "Florence / Burgundy",
   "summary": "Tommaso Portinari lent heavily to Charles the Bold against instructions from Florence. The head office's controls over its branch managers had broken down.",
   "severity": 2
- },
- {
-  "year": 1471,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1472,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1473,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1474,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1475,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1476,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1477,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1478,
@@ -6141,66 +1121,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1479,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1480,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1481,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1482,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1483,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1484,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1485,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -6209,66 +1129,6 @@ window.CRISIS_EVENTS = [
   "geography": "Florence",
   "summary": "Lorenzo was drawing on the Florentine public purse to cover the bank's losses. Branch after branch had been lent into sovereign and princely exposures it could not carry.",
   "severity": 3
- },
- {
-  "year": 1486,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1487,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1488,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1489,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1490,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1491,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1492,
@@ -6281,16 +1141,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1493,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1494,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -6299,46 +1149,6 @@ window.CRISIS_EVENTS = [
   "geography": "Florence / Italy",
   "summary": "The Medici were expelled and the bank's assets seized. Charles VIII's invasion opened sixty years of war that would bankrupt every major crown in Europe. The same year, Luca Pacioli's 'Summa' codified double-entry bookkeeping - the accounting system that made later frauds both possible and detectable.",
   "severity": 4
- },
- {
-  "year": 1495,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1496,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1497,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1498,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1499,
@@ -6351,196 +1161,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1500,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1501,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1502,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1503,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1504,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1505,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1506,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1507,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1508,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1509,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1510,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1511,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1512,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1513,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1514,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1515,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1516,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1517,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1518,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1519,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -6549,36 +1169,6 @@ window.CRISIS_EVENTS = [
   "geography": "Augsburg / Holy Roman Empire",
   "summary": "Jakob Fugger advanced around 850,000 florins to bribe the electors to choose Charles V over Francis I. Fugger's later letter reminding the Emperor that without him 'Your Majesty might not have acquired the imperial crown' is the frankest surviving statement of banker-sovereign leverage.",
   "severity": 2
- },
- {
-  "year": 1520,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1521,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1522,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1523,
@@ -6591,16 +1181,6 @@ window.CRISIS_EVENTS = [
   "severity": 1
  },
  {
-  "year": 1524,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1525,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -6609,16 +1189,6 @@ window.CRISIS_EVENTS = [
   "geography": "Holy Roman Empire",
   "summary": "Monopoly pricing by the Augsburg houses was among the grievances. Luther wrote against the trading companies and against usury in the same period.",
   "severity": 2
- },
- {
-  "year": 1526,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1527,
@@ -6631,16 +1201,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1528,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1529,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -6649,106 +1209,6 @@ window.CRISIS_EVENTS = [
   "geography": "Augsburg",
   "summary": "Ambrosius Hochstetter attempted to corner the European mercury and quicksilver market, funding it with high-interest deposits taken from ordinary Augsburg citizens, servants and widows. The corner failed, the firm collapsed with enormous losses to small savers, and Hochstetter died in prison. A recognisably modern retail-funded speculative blowup.",
   "severity": 3
- },
- {
-  "year": 1530,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1531,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1532,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1533,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1534,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1535,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1536,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1537,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1538,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1539,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1540,
@@ -6761,36 +1221,6 @@ window.CRISIS_EVENTS = [
   "severity": 2
  },
  {
-  "year": 1541,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1542,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1543,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1544,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -6799,16 +1229,6 @@ window.CRISIS_EVENTS = [
   "geography": "England",
   "summary": "To fund war with France and Scotland, the Crown cut silver in the coinage and pocketed the difference. The most systematic monetary fraud in English history.",
   "severity": 4
- },
- {
-  "year": 1545,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1546,
@@ -6821,26 +1241,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1547,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1548,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1549,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -6849,16 +1249,6 @@ window.CRISIS_EVENTS = [
   "geography": "England",
   "summary": "Coins were down to about a quarter silver; the copper showed through on the King's nose, hence 'Old Coppernose'. Kett's Rebellion and the western rising followed in the same year.",
   "severity": 4
- },
- {
-  "year": 1550,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1551,
@@ -6881,46 +1271,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1553,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1554,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1555,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1556,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1557,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -6941,16 +1291,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1559,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1560,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -6959,56 +1299,6 @@ window.CRISIS_EVENTS = [
   "geography": "England",
   "summary": "The debased coin was called in and reminted at proper standard, at a deliberate loss to the Crown. One of the few clean monetary restorations in the period.",
   "severity": 1
- },
- {
-  "year": 1561,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1562,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1563,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1564,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1565,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1566,
@@ -7021,16 +1311,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1567,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1568,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -7039,66 +1319,6 @@ window.CRISIS_EVENTS = [
   "geography": "England / Spain / Genoa",
   "summary": "English ports took in Spanish ships carrying roughly 400,000 florins of Genoese loan money bound for Alva's army; Elizabeth borrowed it herself. Spain seized English assets in retaliation, trade was embargoed and the Antwerp market was thrown into crisis.",
   "severity": 3
- },
- {
-  "year": 1569,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1570,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1571,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1572,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1573,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1574,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1575,
@@ -7121,76 +1341,6 @@ window.CRISIS_EVENTS = [
   "severity": 5
  },
  {
-  "year": 1577,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1578,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1579,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1580,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1581,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1582,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1583,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1584,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -7211,46 +1361,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1586,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1587,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1588,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1589,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1590,
   "era": "Medieval-Renaissance",
   "status": "event",
@@ -7259,56 +1369,6 @@ window.CRISIS_EVENTS = [
   "geography": "Italy",
   "summary": "Harvest failure across the Mediterranean; northern grain merchants, chiefly Dutch, captured the trade permanently.",
   "severity": 2
- },
- {
-  "year": 1591,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1592,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1593,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1594,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1595,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1596,
@@ -7331,116 +1391,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1598,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1599,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1600,
-  "era": "Medieval-Renaissance",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1601,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1602,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1603,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1604,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1605,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1606,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1607,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1608,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1609,
   "era": "Joint-stock era",
   "status": "event",
@@ -7449,86 +1399,6 @@ window.CRISIS_EVENTS = [
   "geography": "Netherlands",
   "summary": "First recorded organised short-selling attack and naked-short manipulation. Le Maire's 'Groote Compagnie' drove VOC shares down; he was ruined and disgraced.",
   "severity": 2
- },
- {
-  "year": 1610,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1611,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1612,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1613,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1614,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1615,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1616,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1617,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1618,
@@ -7591,126 +1461,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1624,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1625,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1626,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1627,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1628,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1629,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1630,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1631,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1632,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1633,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1634,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1635,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1636,
   "era": "Joint-stock era",
   "status": "event",
@@ -7731,26 +1481,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1638,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1639,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1640,
   "era": "Joint-stock era",
   "status": "event",
@@ -7759,266 +1489,6 @@ window.CRISIS_EVENTS = [
   "geography": "England",
   "summary": "The King seized ~£130,000 of merchants' bullion held at the Mint. Destroyed trust in the Crown as a custodian and pushed deposits to goldsmith bankers.",
   "severity": 2
- },
- {
-  "year": 1641,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1642,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1643,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1644,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1645,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1646,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1647,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1648,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1649,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1650,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1651,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1652,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1653,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1654,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1655,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1656,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1657,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1658,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1659,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1660,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1661,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1662,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1663,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1664,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1665,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1666,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1667,
@@ -8031,46 +1501,6 @@ window.CRISIS_EVENTS = [
   "severity": 2
  },
  {
-  "year": 1668,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1669,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1670,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1671,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1672,
   "era": "Joint-stock era",
   "status": "event",
@@ -8079,226 +1509,6 @@ window.CRISIS_EVENTS = [
   "geography": "England / Netherlands",
   "summary": "Charles II suspended repayment of ~£1.2m owed to goldsmith bankers. Several were ruined and their depositors with them. Simultaneously, the Dutch 'Disaster Year' collapsed Amsterdam asset prices.",
   "severity": 4
- },
- {
-  "year": 1673,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1674,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1675,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1676,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1677,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1678,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1679,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1680,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1681,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1682,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1683,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1684,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1685,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1686,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1687,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1688,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1689,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1690,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1691,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1692,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1693,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1694,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1695,
@@ -8319,226 +1529,6 @@ window.CRISIS_EVENTS = [
   "geography": "England",
   "summary": "The Great Recoinage produced a severe coin shortage; the Bank of England briefly suspended payments; most 1690s promotions became worthless.",
   "severity": 3
- },
- {
-  "year": 1697,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1698,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1699,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1700,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1701,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1702,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1703,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1704,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1705,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1706,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1707,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1708,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1709,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1710,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1711,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1712,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1713,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1714,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1715,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1716,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1717,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1718,
-  "era": "Joint-stock era",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1719,
@@ -8571,236 +1561,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1722,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1723,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1724,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1725,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1726,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1727,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1728,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1729,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1730,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1731,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1732,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1733,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1734,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1735,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1736,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1737,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1738,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1739,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1740,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1741,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1742,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1743,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1744,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1745,
   "era": "Industrial / classical",
   "status": "event",
@@ -8811,176 +1571,6 @@ window.CRISIS_EVENTS = [
   "severity": 2
  },
  {
-  "year": 1746,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1747,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1748,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1749,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1750,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1751,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1752,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1753,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1754,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1755,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1756,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1757,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1758,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1759,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1760,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1761,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1762,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1763,
   "era": "Industrial / classical",
   "status": "event",
@@ -8989,86 +1579,6 @@ window.CRISIS_EVENTS = [
   "geography": "Netherlands / Germany",
   "summary": "Failure of De Neufville brothers on Seven Years War commodity speculation and acceptance credit. Contagion to Hamburg, Berlin and Stockholm. Arguably the first international banking crisis.",
   "severity": 4
- },
- {
-  "year": 1764,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1765,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1766,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1767,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1768,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1769,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1770,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1771,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1772,
@@ -9091,96 +1601,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1774,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1775,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1776,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1777,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1778,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1779,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1780,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1781,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1782,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1783,
   "era": "Industrial / classical",
   "status": "event",
@@ -9191,56 +1611,6 @@ window.CRISIS_EVENTS = [
   "severity": 2
  },
  {
-  "year": 1784,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1785,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1786,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1787,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1788,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1789,
   "era": "Industrial / classical",
   "status": "event",
@@ -9249,26 +1619,6 @@ window.CRISIS_EVENTS = [
   "geography": "France",
   "summary": "Land-backed paper currency that becomes the vehicle for revolutionary hyperinflation.",
   "severity": 1
- },
- {
-  "year": 1790,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1791,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1792,
@@ -9289,16 +1639,6 @@ window.CRISIS_EVENTS = [
   "geography": "UK",
   "summary": "War with France collapsed credit; roughly a third of country banks failed.",
   "severity": 3
- },
- {
-  "year": 1794,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1795,
@@ -9331,16 +1671,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1798,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1799,
   "era": "Industrial / classical",
   "status": "event",
@@ -9349,106 +1679,6 @@ window.CRISIS_EVENTS = [
   "geography": "Germany / Netherlands",
   "summary": "Failure of Hamburg merchant houses on colonial goods speculation; contagion to Scandinavia.",
   "severity": 3
- },
- {
-  "year": 1800,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1801,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1802,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1803,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1804,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1805,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1806,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1807,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1808,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1809,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1810,
@@ -9461,36 +1691,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1811,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1812,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1813,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1814,
   "era": "Industrial / classical",
   "status": "event",
@@ -9499,16 +1699,6 @@ window.CRISIS_EVENTS = [
   "geography": "USA",
   "summary": "War of 1812 financing forced most banks outside New England to suspend specie payments.",
   "severity": 2
- },
- {
-  "year": 1815,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1816,
@@ -9521,26 +1711,6 @@ window.CRISIS_EVENTS = [
   "severity": 2
  },
  {
-  "year": 1817,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1818,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1819,
   "era": "Industrial / classical",
   "status": "event",
@@ -9549,26 +1719,6 @@ window.CRISIS_EVENTS = [
   "geography": "USA",
   "summary": "First major American boom-bust cycle. The Second Bank of the US expanded then abruptly contracted credit; land prices collapsed; mass foreclosures and the first US depression.",
   "severity": 4
- },
- {
-  "year": 1820,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1821,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1822,
@@ -9611,66 +1761,6 @@ window.CRISIS_EVENTS = [
   "severity": 5
  },
  {
-  "year": 1826,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1827,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1828,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1829,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1830,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1831,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1832,
   "era": "Industrial / classical",
   "status": "event",
@@ -9679,36 +1769,6 @@ window.CRISIS_EVENTS = [
   "geography": "USA",
   "summary": "Jackson vetoed the Second Bank's recharter, removing the closest thing the US had to a central bank.",
   "severity": 2
- },
- {
-  "year": 1833,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1834,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1835,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1836,
@@ -9731,16 +1791,6 @@ window.CRISIS_EVENTS = [
   "severity": 5
  },
  {
-  "year": 1838,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1839,
   "era": "Industrial / classical",
   "status": "event",
@@ -9751,16 +1801,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1840,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1841,
   "era": "Industrial / classical",
   "status": "event",
@@ -9769,36 +1809,6 @@ window.CRISIS_EVENTS = [
   "geography": "USA",
   "summary": "Pennsylvania, Mississippi, Maryland, Indiana and others defaulted or repudiated. Sydney Smith's famous public denunciation of American debtors.",
   "severity": 3
- },
- {
-  "year": 1842,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1843,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1844,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1845,
@@ -9851,66 +1861,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1850,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1851,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1852,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1853,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1854,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1855,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1856,
   "era": "Industrial / classical",
   "status": "event",
@@ -9931,36 +1881,6 @@ window.CRISIS_EVENTS = [
   "severity": 5
  },
  {
-  "year": 1858,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1859,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1860,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1861,
   "era": "Industrial / classical",
   "status": "event",
@@ -9969,16 +1889,6 @@ window.CRISIS_EVENTS = [
   "geography": "USA",
   "summary": "Banks suspended specie payments in December; greenbacks were issued from 1862.",
   "severity": 3
- },
- {
-  "year": 1862,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1863,
@@ -10021,16 +1931,6 @@ window.CRISIS_EVENTS = [
   "severity": 5
  },
  {
-  "year": 1867,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1868,
   "era": "Industrial / classical",
   "status": "event",
@@ -10049,26 +1949,6 @@ window.CRISIS_EVENTS = [
   "geography": "USA",
   "summary": "Gould and Fisk cornered the New York gold market, using a relative of President Grant for access. Treasury gold sales broke the corner and destroyed hundreds of firms in minutes.",
   "severity": 3
- },
- {
-  "year": 1870,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1871,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1872,
@@ -10091,46 +1971,6 @@ window.CRISIS_EVENTS = [
   "severity": 5
  },
  {
-  "year": 1874,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1875,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1876,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1877,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1878,
   "era": "Industrial / classical",
   "status": "event",
@@ -10139,36 +1979,6 @@ window.CRISIS_EVENTS = [
   "geography": "UK",
   "summary": "Directors falsified the balance sheet for years to hide huge losses on Australian and American ventures. Unlimited liability ruined 85% of shareholders. Directors were jailed; the case drove the shift to limited liability and independent audit.",
   "severity": 3
- },
- {
-  "year": 1879,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1880,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1881,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1882,
@@ -10181,16 +1991,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1883,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1884,
   "era": "Industrial / classical",
   "status": "event",
@@ -10199,46 +1999,6 @@ window.CRISIS_EVENTS = [
   "geography": "USA",
   "summary": "Ferdinand Ward, the 'Young Napoleon of Wall Street', ran a Ponzi scheme using ex-President Grant's name; Marine National Bank failed. Grant was left destitute.",
   "severity": 3
- },
- {
-  "year": 1885,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1886,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1887,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1888,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1889,
@@ -10261,16 +2021,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1891,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1892,
   "era": "Industrial / classical",
   "status": "event",
@@ -10291,16 +2041,6 @@ window.CRISIS_EVENTS = [
   "severity": 5
  },
  {
-  "year": 1894,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1895,
   "era": "Industrial / classical",
   "status": "event",
@@ -10309,56 +2049,6 @@ window.CRISIS_EVENTS = [
   "geography": "USA",
   "summary": "The Treasury's gold reserve fell below $50m. J.P. Morgan and August Belmont privately underwrote a bond issue to refill it, to considerable public anger.",
   "severity": 2
- },
- {
-  "year": 1896,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1897,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1898,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1899,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1900,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1901,
@@ -10371,16 +2061,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1902,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1903,
   "era": "Industrial / classical",
   "status": "event",
@@ -10389,36 +2069,6 @@ window.CRISIS_EVENTS = [
   "geography": "USA",
   "summary": "Overpromoted trust flotations unwound; the Dow fell about 30% over the year.",
   "severity": 2
- },
- {
-  "year": 1904,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1905,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1906,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1907,
@@ -10431,46 +2081,6 @@ window.CRISIS_EVENTS = [
   "severity": 5
  },
  {
-  "year": 1908,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1909,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1910,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1911,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1912,
   "era": "Industrial / classical",
   "status": "event",
@@ -10479,16 +2089,6 @@ window.CRISIS_EVENTS = [
   "geography": "USA",
   "summary": "Congressional inquiry into concentration of financial control; laid the groundwork for the Fed and the Clayton Act.",
   "severity": 2
- },
- {
-  "year": 1913,
-  "era": "Industrial / classical",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1914,
@@ -10501,36 +2101,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1915,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1916,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1917,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1918,
   "era": "Wars & Bretton Woods",
   "status": "event",
@@ -10539,16 +2109,6 @@ window.CRISIS_EVENTS = [
   "geography": "Russia",
   "summary": "The largest sovereign repudiation to that date; French retail bondholders were the biggest losers.",
   "severity": 3
- },
- {
-  "year": 1919,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1920,
@@ -10591,16 +2151,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1924,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1925,
   "era": "Wars & Bretton Woods",
   "status": "event",
@@ -10619,16 +2169,6 @@ window.CRISIS_EVENTS = [
   "geography": "USA",
   "summary": "New buyers vanished, then the September Miami hurricane finished it. A dress rehearsal for 1929.",
   "severity": 3
- },
- {
-  "year": 1927,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1928,
@@ -10691,36 +2231,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1934,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1935,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1936,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1937,
   "era": "Wars & Bretton Woods",
   "status": "event",
@@ -10751,66 +2261,6 @@ window.CRISIS_EVENTS = [
   "severity": 2
  },
  {
-  "year": 1940,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1941,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1942,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1943,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1944,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1945,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1946,
   "era": "Wars & Bretton Woods",
   "status": "event",
@@ -10821,16 +2271,6 @@ window.CRISIS_EVENTS = [
   "severity": 4
  },
  {
-  "year": 1947,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1948,
   "era": "Wars & Bretton Woods",
   "status": "event",
@@ -10839,136 +2279,6 @@ window.CRISIS_EVENTS = [
   "geography": "China",
   "summary": "The Nationalist currency reform failed within months; the collapse of monetary confidence contributed materially to the fall of the regime.",
   "severity": 4
- },
- {
-  "year": 1949,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1950,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1951,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1952,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1953,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1954,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1955,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1956,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1957,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1958,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1959,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1960,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1961,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1962,
@@ -10989,26 +2299,6 @@ window.CRISIS_EVENTS = [
   "geography": "USA",
   "summary": "Anthony De Angelis pledged tanks of soybean oil that were mostly seawater; ~$175m of losses. American Express nearly failed and Buffett famously bought it. A pure collateral-verification failure - the same failure mode as First Brands in 2025.",
   "severity": 3
- },
- {
-  "year": 1964,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1965,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1966,
@@ -11039,16 +2329,6 @@ window.CRISIS_EVENTS = [
   "geography": "USA",
   "summary": "Volume overwhelmed manual settlement; over 100 brokerages failed or merged. Led to the DTC and the SIPC.",
   "severity": 2
- },
- {
-  "year": 1969,
-  "era": "Wars & Bretton Woods",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1970,
@@ -11121,26 +2401,6 @@ window.CRISIS_EVENTS = [
   "severity": 3
  },
  {
-  "year": 1977,
-  "era": "Modern floating-rate",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
-  "year": 1978,
-  "era": "Modern floating-rate",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
- },
- {
   "year": 1979,
   "era": "Modern floating-rate",
   "status": "event",
@@ -11159,16 +2419,6 @@ window.CRISIS_EVENTS = [
   "geography": "USA",
   "summary": "The Hunts had accumulated a third of the world's deliverable silver, driving it from $6 to $50. Exchange rule changes broke the corner; silver fell to $11 in a day and their broker Bache nearly failed.",
   "severity": 3
- },
- {
-  "year": 1981,
-  "era": "Modern floating-rate",
-  "status": "quiet",
-  "title": "No major recorded crisis, default or scandal",
-  "category": "",
-  "geography": "",
-  "summary": "No episode of significant scale in the surviving record for this year. Coverage in this period is fragmentary everywhere and near-absent for much of Europe; silence is very weak evidence.",
-  "severity": 0
  },
  {
   "year": 1982,
