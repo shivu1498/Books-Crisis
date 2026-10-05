@@ -441,3 +441,8 @@ h1 { font-size: 28px; font-weight: 700; margin: 0 0 8px; letter-spacing: -0.01em
   .impact-list { grid-template-columns: 1fr; }
   .impact-stats { grid-template-columns: repeat(2, 1fr); }
 }
+.impact-news { list-style: none; margin: 10px 0 0; padding: 8px 0 0; border-top: 1px solid var(--line); display: grid; gap: 6px; }
+.impact-news li { border-left: 2px solid var(--red); padding-left: 8px; min-width: 0; }
+.news-link { display: block; font-size: 13px; color: var(--text); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.news-link:hover { color: var(--cyan); text-decoration: underline; }
+.news-src { display: block; font: 11px var(--mono); color: var(--text-dim); }

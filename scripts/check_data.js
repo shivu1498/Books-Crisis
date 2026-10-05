@@ -67,3 +67,17 @@ const sp = ctx.window.SP500_MONTHLY;
 if (!sp || !/^\d{4}-\d{2}$/.test(sp.start) || !Array.isArray(sp.values) || sp.values.length < 1000) fail("bad sp500 data");
 if (sp.values.some((v) => !(v > 0))) fail("sp500 has non-positive values");
 console.log(`OK: ${sp.values.length} months of S&P data from ${sp.start}`);
+
+// data/news.js: up to three news links per event year.
+vm.runInNewContext(fs.readFileSync(path.join(__dirname, "..", "data", "news.js"), "utf8"), ctx);
+const news = ctx.window.CRISIS_NEWS || {};
+let nNews = 0;
+for (const [year, list] of Object.entries(news)) {
+  if (!years.has(year)) fail(`news for unknown year ${year}`);
+  if (!Array.isArray(list) || list.length > 3) fail(`${year}: news must be a list of at most 3`);
+  for (const n of list) {
+    if (!n.title || new URL(n.url).protocol !== "https:") fail(`${year}: bad news item`);
+    nNews++;
+  }
+}
+console.log(`OK: ${nNews} news links across ${Object.keys(news).length} years`);

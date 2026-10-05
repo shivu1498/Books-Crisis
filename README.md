@@ -14,6 +14,7 @@ Open `index.html` directly in a browser, or serve the folder with any static hos
 - `data/events.js`: every row of the register, generated from the workbook.
 - `data/links.js`: curated research links keyed by year.
 - `data/crashes.js`: key index levels, reports and headlines for the Crashes tab.
+- `data/news.js`: up to three news reports per event, from the references of its Wikipedia article.
 - `data/sp500.js`: monthly S&P composite since 1871, from `scripts/fetch_sp500.py`.
 - `data/source/`: the source workbook.
 - `scripts/import_events.py`: regenerates `data/events.js` from the workbook (`pip install openpyxl`, then `python3 scripts/import_events.py`).

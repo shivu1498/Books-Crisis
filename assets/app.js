@@ -398,6 +398,7 @@
 
   // ---- Market Impact: S&P composite around every event since 1602 (data/sp500.js) ----
   var SP = window.SP500_MONTHLY;
+  var NEWS = window.CRISIS_NEWS || {};
   var SP_START = SP ? (+SP.start.slice(0, 4)) * 12 + (+SP.start.slice(5, 7) - 1) : 0;
   var IMPACT_FROM = 1602;
 
@@ -484,12 +485,19 @@
           ? "No continuous index covers " + e.year + "; the detailed study charts " + esc(studies[e.year].series) + "."
           : "No market data: no continuous index covers " + e.year + ".") + "</div>";
       }
+      var news = (NEWS[e.year] || []).slice(0, 3);
+      var newsHtml = news.length
+        ? '<ul class="impact-news">' + news.map(function (n) {
+            return "<li>" + extLink("news-link", n.url, esc(n.title), n.url) +
+              '<span class="news-src">' + esc([n.outlet, n.date].filter(Boolean).join(" \u00b7 ")) + "</span></li>";
+          }).join("") + "</ul>"
+        : "";
       var study = studies[e.year] ? '<a class="study-link" href="#crashes" data-study="' + e.year + '">Detailed crash study &rarr;</a>' : "";
       return '<article class="impact" data-year="' + e.year + '" data-sev="' + e.severity + '" data-charted="' + (charted(e) ? 1 : 0) + '">' +
         '<header><span class="impact-year">' + e.year + '</span><span class="sev sev-' + e.severity + '">' + e.severity + "</span>" +
         '<h3>' + esc(e.title) + "</h3></header>" +
         '<div class="row-meta"><span class="cat">' + esc(e.category) + "</span><span>" + esc(e.geography) + "</span>" + study + "</div>" +
-        body + "</article>";
+        body + newsHtml + "</article>";
     });
     var list = $("impact-list");
     list.innerHTML = cards.join("");
