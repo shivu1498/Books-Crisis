@@ -19,16 +19,6 @@ window.CRISIS_LINKS = {
    "url": "https://cupblog.org/2016/11/01/flying-money-and-capitalist-monks/"
   }
  },
- "861": {
-  "article": {
-   "title": "Anarchy at Samarra",
-   "url": "https://en.wikipedia.org/wiki/Anarchy_at_Samarra"
-  },
-  "youtube": {
-   "title": "The Anarchy at Samarra & The End of Abbasid Power",
-   "url": "https://www.youtube.com/watch?v=auRm1HbNGgI"
-  }
- },
  "866": {
   "article": {
    "title": "Anarchy at Samarra",

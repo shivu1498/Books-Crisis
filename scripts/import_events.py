@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_SRC = ROOT / "data/source/Financial_Crises_Bubbles_and_Scandals_0800_2026.xlsx"
 
 # Years left off the site at the owner's request.
-EXCLUDE_YEARS = set(range(800, 811)) | set(range(812, 845))
+EXCLUDE_YEARS = set(range(800, 811)) | set(range(812, 845)) | set(range(847, 862))
 
 COLUMNS = ["year", "era", "status", "title", "category", "geography", "summary", "severity"]
 
