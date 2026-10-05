@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Crisis Terminal</title>
+  <meta name="description" content="Financial crises, bubbles, defaults and scandals, year by year from 800 to 2026.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#events"><span class="brand-a">CRISIS</span><span class="brand-b">TERMINAL</span></a>
+    <div class="ticker" aria-label="Era summary">
+      <div class="ticker-track" id="ticker"></div>
+    </div>
+    <div class="topbar-right">
+      <span class="clock" id="clock">--:--:--</span>
+      <span class="pill"><span class="pill-dot"></span>BLACK</span>
+    </div>
+  </header>
+
+  <nav class="tabs" id="tabs">
+    <a href="#events" data-tab="events">Events</a>
+    <a href="#eras" data-tab="eras">Eras</a>
+    <a href="#method" data-tab="method">Method</a>
+  </nav>
+
+  <main>
+    <section class="panel" id="panel-events">
+      <h1>Crises, Bubbles &amp; Scandals</h1>
+      <p class="lede">Year-by-year register, 800 to July 2026. Every year is a row, rated on one 0&ndash;5 severity scale. Pick an era below, or search across all of them.</p>
+
+      <div class="subtabs" id="era-tabs"></div>
+
+      <div class="controls">
+        <input type="search" id="search" placeholder="Search events, places, categories&hellip;" autocomplete="off">
+        <label class="ctl">Min severity
+          <select id="min-sev">
+            <option value="0">All</option>
+            <option value="1">1+</option>
+            <option value="2">2+</option>
+            <option value="3">3+</option>
+            <option value="4">4+</option>
+            <option value="5">5</option>
+          </select>
+        </label>
+        <label class="ctl">Category
+          <select id="category"><option value="">All</option></select>
+        </label>
+        <label class="ctl check"><input type="checkbox" id="show-quiet"> Show quiet years</label>
+        <span class="count" id="count"></span>
+      </div>
+
+      <div id="list" class="list"></div>
+    </section>
+
+    <section class="panel" id="panel-eras" hidden>
+      <h1>Eras at a Glance</h1>
+      <p class="lede">Half-century summary: how many years carried a recorded event, total severity, and the worst year in each window.</p>
+      <div class="table-wrap">
+        <table class="grid" id="period-table">
+          <thead><tr><th>Period</th><th class="num">Event yrs</th><th class="num">% yrs</th><th class="num">Total sev</th><th class="num">Peak</th><th>Worst year</th><th class="bar-col">Intensity</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-method" hidden>
+      <h1>Method &amp; Caveats</h1>
+      <p class="lede">How to read the register before drawing conclusions from it.</p>
+      <div class="cards">
+        <div class="card">
+          <h3>Severity scale</h3>
+          <ul class="sev-legend">
+            <li><span class="sev sev-0">0</span>No significant recorded event, or an institutional milestone with no loss event.</li>
+            <li><span class="sev sev-1">1</span>Local or minor.</li>
+            <li><span class="sev sev-2">2</span>Notable but contained within one institution, city or court.</li>
+            <li><span class="sev sev-3">3</span>Major national or single-market event.</li>
+            <li><span class="sev sev-4">4</span>Major multi-market or cross-border crisis.</li>
+            <li><span class="sev sev-5">5</span>Systemic; reshaped the financial system of its era.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Do not read the trend naively</h3>
+          <p>Event frequency rises from about 15% of years before 1300 to 100% of years since 1990. Most of that slope is record survival and market coverage, not risk. The register measures what was written down at least as much as what occurred.</p>
+          <p>Two things are real: from roughly 1600 there are tradeable assets, so the bubble becomes possible; and the share of severity 4&ndash;5 events that spread across borders rises sharply after 1850 and again after 1971.</p>
+        </div>
+        <div class="card">
+          <h3>The patterns that hold</h3>
+          <p><b>Sovereign concentration.</b> A lender with concentrated exposure to a borrower who cannot be compelled to pay: the Riccardi (1294), the Bardi and Peruzzi (1343&ndash;46), the Fuggers (1557), Barings (1890), the 1982 Mexico syndicate.</p>
+          <p><b>Collateral you did not verify.</b> Salad oil (1963), Bre-X (1997), Madoff (2008), Wirecard (2020), Tricolor and First Brands (2025).</p>
+          <p><b>Debt relief by fiat.</b> Japan&rsquo;s tokusei edicts (1297, 1441) and the York bond-burning (1190): cancelling debt destroys the credit supply it was meant to restore.</p>
+        </div>
+        <div class="card">
+          <h3>Caveats</h3>
+          <p><b>Quiet years.</b> A zero-severity year means the surviving record is silent, not that the year was stable. Severe before 1300, serious before 1500, mild after 1800.</p>
+          <p><b>Geographic bias.</b> Coverage of Europe is denser than the Islamic world, China, India or Japan, and the gap widens further back.</p>
+          <p><b>Figures.</b> Pre-20th-century amounts are not inflation-adjusted. Post-2024 figures are as reported and may be revised.</p>
+          <p><b>Excluded by design.</b> Ordinary recessions, routine bear markets and normal enforcement actions.</p>
+        </div>
+        <div class="card wide">
+          <h3>Sources</h3>
+          <p class="mono">Spufford; Hendy and Morrisson; Goitein; Kennedy; von Glahn; Lopez; Kaeuper; Villani; de Roover; Hunt; Braudel; Cipolla; Munro; Kindleberger &amp; Aliber; Reinhart &amp; Rogoff; Galbraith; Chancellor; Bagehot; Bank of England and BIS historical series; NBER; SEC, FCA, SFO and SEBI enforcement records; contemporary reporting for 2020&ndash;2026.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="statusbar">
+    <div class="status-left" id="status-left"></div>
+    <div class="status-right">Data through Jul 2026 &middot; <span id="updated"></span></div>
+  </footer>
+
+  <script src="data/events.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
