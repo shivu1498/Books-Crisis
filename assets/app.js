@@ -234,11 +234,163 @@
     }).join("");
   }
 
+  // ---- Crashes tab: pre/post charts from key index levels (data/crashes.js) ----
+  var CRASHES = window.CRISIS_CRASHES || [];
+  var MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+  function parseDate(s) {
+    var p = s.split("-");
+    return Date.UTC(+p[0], +p[1] - 1, +p[2]);
+  }
+
+  function fmtDate(t) {
+    var d = new Date(t);
+    return d.getUTCDate() + " " + MONTHS[d.getUTCMonth()] + " " + d.getUTCFullYear();
+  }
+
+  function fmtNum(v) {
+    return v.toLocaleString("en-US", { maximumFractionDigits: v < 1000 ? 2 : 0 });
+  }
+
+  function fmtSpan(ms) {
+    var days = Math.round(ms / 864e5);
+    if (days < 60) return days + " days";
+    var months = Math.round(days / 30.44);
+    if (months < 24) return months + " months";
+    return (months / 12).toFixed(1).replace(/\.0$/, "") + " years";
+  }
+
+  function crashStats(c) {
+    var pts = c.points;
+    var peakIdx = 0;
+    var crashT = parseDate(c.crash);
+    pts.forEach(function (p, i) {
+      if (p.t <= crashT && p.value > pts[peakIdx].value) peakIdx = i;
+    });
+    var peak = pts[peakIdx];
+    var trough = peak;
+    pts.forEach(function (p, i) { if (i > peakIdx && p.value < trough.value) trough = p; });
+    var recovered = null;
+    pts.forEach(function (p) { if (!recovered && p.t > trough.t && p.value >= peak.value) recovered = p; });
+    return { peak: peak, trough: trough, recovered: recovered, drawdown: (trough.value / peak.value - 1) * 100 };
+  }
+
+  function chartSvg(c, st) {
+    var W = 760, H = 240, L = 56, R = 16, T = 16, B = 30;
+    var pts = c.points;
+    var t0 = pts[0].t, t1 = pts[pts.length - 1].t;
+    var span = t1 - t0 || 1;
+    var vmax = Math.max.apply(null, pts.map(function (p) { return p.value; }));
+    var step = Math.pow(10, Math.floor(Math.log10(vmax / 4)));
+    [1, 2, 2.5, 5, 10].some(function (m) { if (vmax / (step * m) <= 5) { step *= m; return true; } return false; });
+    var ymax = Math.ceil((vmax * 1.04) / step) * step;
+    var x = function (t) { return L + ((t - t0) / span) * (W - L - R); };
+    var y = function (v) { return T + (1 - v / ymax) * (H - T - B); };
+    var crashX = x(parseDate(c.crash));
+    var out = ['<svg class="chart" viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="' + esc(c.series + " around the " + c.name) + '">'];
+    out.push('<rect class="zone-pre" x="' + L + '" y="' + T + '" width="' + Math.max(0, crashX - L) + '" height="' + (H - T - B) + '"/>');
+    out.push('<rect class="zone-post" x="' + crashX + '" y="' + T + '" width="' + Math.max(0, W - R - crashX) + '" height="' + (H - T - B) + '"/>');
+    for (var v = 0; v <= ymax + 1e-9; v += step) {
+      out.push('<line class="grid" x1="' + L + '" x2="' + (W - R) + '" y1="' + y(v) + '" y2="' + y(v) + '"/>');
+      out.push('<text class="axis" x="' + (L - 8) + '" y="' + (y(v) + 4) + '" text-anchor="end">' + fmtNum(v) + "</text>");
+    }
+    var y0 = new Date(t0).getUTCFullYear(), y1 = new Date(t1).getUTCFullYear();
+    var yearStep = Math.max(1, Math.ceil((y1 - y0) / 6));
+    if (y1 - y0 < 2) {
+      for (var m = 0; m < 30; m += 2) {
+        var d = new Date(t0); var tm = Date.UTC(d.getUTCFullYear(), d.getUTCMonth() + m, 1);
+        if (tm < t0 || tm > t1) continue;
+        var dd = new Date(tm);
+        out.push('<text class="axis" x="' + x(tm) + '" y="' + (H - 10) + '" text-anchor="middle">' + MONTHS[dd.getUTCMonth()] + " " + String(dd.getUTCFullYear()).slice(2) + "</text>");
+      }
+    } else {
+      for (var yr = y0 + 1; yr <= y1; yr += yearStep) {
+        out.push('<text class="axis" x="' + x(Date.UTC(yr, 0, 1)) + '" y="' + (H - 10) + '" text-anchor="middle">' + yr + "</text>");
+      }
+    }
+    out.push('<line class="crash-line" x1="' + crashX + '" x2="' + crashX + '" y1="' + T + '" y2="' + (H - B) + '"/>');
+    out.push('<text class="zone-label" x="' + (crashX - 6) + '" y="' + (H - B - 8) + '" text-anchor="end">BEFORE</text>');
+    out.push('<text class="zone-label post" x="' + (crashX + 6) + '" y="' + (H - B - 8) + '">AFTER</text>');
+    out.push('<polyline class="series" points="' + pts.map(function (p) { return x(p.t).toFixed(1) + "," + y(p.value).toFixed(1); }).join(" ") + '"/>');
+    pts.forEach(function (p, i) {
+      var key = p === st.peak ? "peak" : p === st.trough ? "trough" : "";
+      out.push('<circle class="pt ' + key + '" cx="' + x(p.t) + '" cy="' + y(p.value) + '" r="4"/>');
+      if (key) {
+        var lx = Math.min(Math.max(x(p.t), L + 30), W - R - 30);
+        var ly = key === "peak" ? y(p.value) - 10 : y(p.value) + 18;
+        if (ly > H - B - 4) ly = y(p.value) - 10;
+        out.push('<text class="pt-label" x="' + lx + '" y="' + ly + '" text-anchor="middle">' + fmtNum(p.value) + "</text>");
+      }
+      out.push('<circle class="hit" data-i="' + i + '" cx="' + x(p.t) + '" cy="' + y(p.value) + '" r="14"/>');
+    });
+    out.push("</svg>");
+    return out.join("");
+  }
+
+  function buildCrashes() {
+    if (!CRASHES.length) return;
+    var html = CRASHES.map(function (c, ci) {
+      c.points.forEach(function (p) { p.t = parseDate(p.date); });
+      var st = crashStats(c);
+      var tiles = [
+        ["Peak", fmtNum(st.peak.value), fmtDate(st.peak.t)],
+        ["Trough", fmtNum(st.trough.value), fmtDate(st.trough.t)],
+        ["Drawdown", '<span class="down">' + st.drawdown.toFixed(1) + "%</span>", "peak to trough"],
+        ["Fall lasted", fmtSpan(st.trough.t - st.peak.t), "peak to trough"],
+        ["Recovery", st.recovered ? fmtSpan(st.recovered.t - st.peak.t) : '<span class="down">Not regained</span>',
+          st.recovered ? "back to peak by " + new Date(st.recovered.t).getUTCFullYear() : "as of the last point shown"]
+      ].map(function (tt) {
+        return '<div class="tile"><div class="tile-k">' + tt[0] + '</div><div class="tile-v">' + tt[1] + '</div><div class="tile-s">' + tt[2] + "</div></div>";
+      }).join("");
+      var rows = c.points.map(function (p) {
+        return "<tr><td>" + fmtDate(p.t) + '</td><td class="num">' + fmtNum(p.value) + "</td><td>" + esc(p.note) + "</td></tr>";
+      }).join("");
+      var heads = c.headlines.map(function (h) {
+        return '<li><span class="hl-date">' + esc(h.date) + "</span>" + esc(h.text) + "</li>";
+      }).join("");
+      return '<article class="crash" data-ci="' + ci + '">' +
+        '<header class="crash-head"><span class="crash-year">' + c.year + "</span><div><h2>" + esc(c.name) + "</h2>" +
+        '<div class="crash-sub">' + esc(c.market) + " &middot; " + esc(c.series) + "</div></div>" +
+        '<a class="crash-link" href="#events" data-year="' + c.year + '">In the register &rarr;</a></header>' +
+        '<div class="tiles">' + tiles + "</div>" +
+        '<div class="chart-wrap">' + chartSvg(c, st) + "</div>" +
+        '<details class="levels"><summary>Key levels table</summary><table class="grid"><thead><tr><th>Date</th><th class="num">Level</th><th>Note</th></tr></thead><tbody>' + rows + "</tbody></table></details>" +
+        '<div class="crash-body"><div><h3>Crash report</h3><p>' + esc(c.report) + "</p></div>" +
+        '<div><h3>Headlines</h3><ul class="headlines">' + heads + "</ul></div></div></article>";
+    }).join("");
+    var list = $("crash-list");
+    list.innerHTML = html;
+
+    var tip = $("chart-tip");
+    list.addEventListener("mouseover", function (ev) {
+      var hit = ev.target.closest(".hit");
+      if (!hit) return;
+      var c = CRASHES[+hit.closest(".crash").getAttribute("data-ci")];
+      var p = c.points[+hit.getAttribute("data-i")];
+      tip.innerHTML = '<div class="tip-v">' + fmtNum(p.value) + '</div><div>' + fmtDate(p.t) + '</div><div class="tip-n">' + esc(p.note) + "</div>";
+      tip.hidden = false;
+      var r = hit.getBoundingClientRect();
+      tip.style.left = Math.min(window.innerWidth - tip.offsetWidth - 8, Math.max(8, r.left + r.width / 2 - tip.offsetWidth / 2)) + "px";
+      tip.style.top = (r.top - tip.offsetHeight - 6) + "px";
+    });
+    list.addEventListener("mouseout", function (ev) { if (ev.target.closest(".hit")) tip.hidden = true; });
+    window.addEventListener("scroll", function () { tip.hidden = true; }, { passive: true });
+    list.addEventListener("click", function (ev) {
+      var a = ev.target.closest(".crash-link");
+      if (!a) return;
+      state.era = "";
+      state.q = a.getAttribute("data-year");
+      $("search").value = state.q;
+      state.limit = PAGE;
+      render();
+    });
+  }
+
   // ---- Tabs, clock, status bar ----
   function route() {
     var tab = (location.hash || "#events").slice(1);
-    if (["events", "eras", "method"].indexOf(tab) === -1) tab = "events";
-    ["events", "eras", "method"].forEach(function (t) {
+    if (["events", "crashes", "eras", "method"].indexOf(tab) === -1) tab = "events";
+    ["events", "crashes", "eras", "method"].forEach(function (t) {
       $("panel-" + t).hidden = t !== tab;
     });
     Array.prototype.forEach.call($("tabs").children, function (a) {
@@ -275,6 +427,7 @@
   buildCategoryFilter();
   bindControls();
   buildPeriods();
+  buildCrashes();
   buildStatus();
   window.addEventListener("hashchange", route);
   route();

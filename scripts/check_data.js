@@ -42,3 +42,21 @@ for (const [year, set] of Object.entries(links)) {
   }
 }
 console.log(`OK: ${nLinks} curated links across ${Object.keys(links).length} years`);
+
+// data/crashes.js: key index levels for the Crashes tab.
+vm.runInNewContext(fs.readFileSync(path.join(__dirname, "..", "data", "crashes.js"), "utf8"), ctx);
+const crashes = ctx.window.CRISIS_CRASHES;
+if (!Array.isArray(crashes) || !crashes.length) fail("no crashes loaded");
+for (const c of crashes) {
+  if (!c.name || !c.series || !c.report) fail(`${c.id}: missing name, series or report`);
+  if (!Array.isArray(c.headlines) || c.headlines.length !== 3) fail(`${c.id}: needs exactly 3 headlines`);
+  if (!Array.isArray(c.points) || c.points.length < 3) fail(`${c.id}: needs at least 3 points`);
+  let prevDate = "";
+  for (const p of c.points) {
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(p.date) || p.date <= prevDate) fail(`${c.id}: dates must be ISO and ascending (${p.date})`);
+    if (!(p.value > 0)) fail(`${c.id}: bad value at ${p.date}`);
+    prevDate = p.date;
+  }
+  if (c.crash < c.points[0].date || c.crash > prevDate) fail(`${c.id}: crash date outside the charted range`);
+}
+console.log(`OK: ${crashes.length} crashes`);

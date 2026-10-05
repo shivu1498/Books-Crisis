@@ -24,6 +24,7 @@
 
   <nav class="tabs" id="tabs">
     <a href="#events" data-tab="events">Events</a>
+    <a href="#crashes" data-tab="crashes">Crashes</a>
     <a href="#eras" data-tab="eras">Eras</a>
     <a href="#method" data-tab="method">Method</a>
   </nav>
@@ -55,6 +56,14 @@
       </div>
 
       <div id="list" class="list"></div>
+    </section>
+
+    <section class="panel" id="panel-crashes" hidden>
+      <h1>Major Market Crashes</h1>
+      <p class="lede">Every major stock market crash since share trading began in Amsterdam in 1602 that has a usable price record: the run-up before, the fall, and the recovery after, with a short report and three headlines from the time.</p>
+      <p class="note">Charts join key closing levels from standard published index histories. They are not daily data, and levels marked approx. are rounded. Headlines are short summaries of the news of the time, not verbatim newspaper headlines. Earlier crashes such as 1637, 1825, 1837, 1873 and 1893 are in the Events tab but have no comparable index to chart.</p>
+      <div id="crash-list" class="crash-list"></div>
+      <div id="chart-tip" class="chart-tip" hidden></div>
     </section>
 
     <section class="panel" id="panel-eras" hidden>
@@ -116,6 +125,7 @@
 
   <script src="data/events.js"></script>
   <script src="data/links.js"></script>
+  <script src="data/crashes.js"></script>
   <script src="assets/app.js"></script>
 </body>
 </html>
