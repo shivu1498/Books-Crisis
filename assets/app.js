@@ -111,13 +111,16 @@
     });
   }
 
-  // ---- Research links: search URLs built from each episode's name and year ----
+  // ---- Research links ----
+  // Curated sources live in data/links.js (window.CRISIS_LINKS, keyed by year).
+  // Search links built from each episode's name and year are always offered too.
+  var LINKS = window.CRISIS_LINKS || {};
   var SOURCES = [
-    { key: "yt", label: "YouTube", url: "https://www.youtube.com/results?search_query=" },
-    { key: "x", label: "X", url: "https://x.com/search?src=typed_query&q=" },
-    { key: "g", label: "Google", url: "https://www.google.com/search?q=" },
-    { key: "ss", label: "Substack", url: "https://substack.com/search/", suffix: "?searching=all_posts" },
-    { key: "gs", label: "Scholar", url: "https://scholar.google.com/scholar?q=" }
+    { key: "yt", label: "YouTube", curated: "youtube", url: "https://www.youtube.com/results?search_query=" },
+    { key: "x", label: "X", curated: "x", url: "https://x.com/search?src=typed_query&q=" },
+    { key: "g", label: "Google", curated: "article", curatedLabel: "Article", url: "https://www.google.com/search?q=" },
+    { key: "ss", label: "Substack", curated: "substack", url: "https://substack.com/search/", suffix: "?searching=all_posts" },
+    { key: "gs", label: "Scholar", curated: "paper", curatedLabel: "Paper", url: "https://scholar.google.com/scholar?q=" }
   ];
 
   // A year can bundle several episodes ("A; B; C"); each gets its own query.
@@ -134,18 +137,31 @@
     }).filter(function (x) { return x.q.length > 5; });
   }
 
+  function extLink(cls, href, inner, title) {
+    return '<a class="' + cls + '" href="' + esc(href) + '"' + (title ? ' title="' + esc(title) + '"' : "") +
+      ' target="_blank" rel="noopener noreferrer">' + inner + "</a>";
+  }
+
   function linksHtml(e) {
     if (e.status !== "event" && /^No major recorded/i.test(e.title)) return "";
     var qs = researchQueries(e);
     if (!qs.length) return "";
-    return '<div class="research">' + qs.map(function (x) {
+    var curated = LINKS[e.year] || {};
+    var sources = SOURCES.filter(function (src) { return curated[src.curated] && curated[src.curated].url; }).map(function (src) {
+      var c = curated[src.curated];
+      return '<li class="chip-' + src.key + '"><span class="src-type">' + (src.curatedLabel || src.label) + "</span>" +
+        extLink("src-link", c.url, esc(c.title || c.url), c.url) + "</li>";
+    });
+    var html = '<div class="research">';
+    if (sources.length) html += '<ul class="sources">' + sources.join("") + "</ul>";
+    html += qs.map(function (x) {
       var chips = SOURCES.map(function (src) {
-        var href = src.url + encodeURIComponent(x.q) + (src.suffix || "");
-        return '<a class="chip chip-' + src.key + '" href="' + esc(href) + '" target="_blank" rel="noopener noreferrer">' + src.label + "</a>";
+        return extLink("chip chip-" + src.key, src.url + encodeURIComponent(x.q) + (src.suffix || ""), src.label);
       }).join("");
-      var label = qs.length > 1 ? esc(truncate(x.label, 48)) : "Research";
-      return '<div class="research-row"><span class="research-label" title="' + esc(x.q) + '">' + label + "</span>" + chips + "</div>";
-    }).join("") + "</div>";
+      var label = qs.length > 1 ? "Search: " + esc(truncate(x.label, 40)) : "Search";
+      return '<div class="research-row"><span class="research-label' + (qs.length > 1 ? "" : " single") + '" title="' + esc(x.q) + '">' + label + "</span>" + chips + "</div>";
+    }).join("");
+    return html + "</div>";
   }
 
   function rowHtml(e) {
